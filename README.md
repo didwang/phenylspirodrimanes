@@ -30,6 +30,7 @@ all_product_info.csv
 Master dataset of natural and enumerated compounds with computed properties, SMILES, and metadata.
 
 Environment
+
 All analyses were performed in Python 3.9.7 on macOS (x86_64) using the following packages:
 
 RDKit 2021.09.2
