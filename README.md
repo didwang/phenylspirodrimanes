@@ -5,6 +5,7 @@ This repository contains code and data for generating and analyzing a virtual li
 Contents
 
 📒 Notebooks
+
 Chemical Space of enumerated compounds.ipynb
 Interactive notebook for property calculation, dimensionality reduction (e.g., t-SNE), and visualization of the chemical space.
 
