@@ -1,0 +1,889 @@
+﻿Structure [idcode],Compound-ID,Product-ID,Provider,Molweight,Substance Name,Amount (g),Price,Currency,Stock (g),Smiles
+foAAb@BFlBlRYfyVvRtzB@`F@@@ !B?`BH?K_|bOw~@Ox@m?vH@k\BmpJw?Ha}?`Bw_P,,EN300-9804458,Enamine,314.07,3-hydroxy-4-iodonaphthalene-2-carboxylic acid,0.1,277,USD,5.235,OC(c1cc2ccccc2c(I)c1O)=O
+fnc`S@@dKUhJpUXflrJJIJIPiJJFYdoY``h``jF`aY@@ !BbOrH?_x@?g~H?H`BbGvH?_x@?`BH@oy?b@JH_Xc}bGw~@H`B?g~H@k\BbOt,,EN300-123970,Enamine,650.96,"(2S)-2-amino-3-[4-(4-hydroxy-3-iodophenoxy)-3,5-diiodophenyl]propanoic acid",0.1,66,USD,10,N[C@@H](Cc(cc1I)cc(I)c1Oc(cc1)cc(I)c1O)C(O)=O
+flupb@EZRRPJqIf^{]eVBtZJXHHfh@A@@@ !Bmww~_{\BbGvw_[]}?g~w@aaSYuMeGqh_Tv^?SmKOTv]SY}KO,,EN300-7465321,Enamine,365.13,"2-iodo-6-[3-(pyridin-4-yl)-1,2,4-oxadiazol-5-yl]phenol",0.1,470,USD,0.271,Oc(c(-c1nc(-c2ccncc2)n[o]1)ccc1)c1I
+fjm`Q@EDSdhJrVHdsOOlk[LyxLDAS@AS@@@ !B?`BH?K_|bOw~@Ox@mpJH@k\BbGvH@ox@bGvH?H`BbOw~@Hc|b@Jw@`,,EN300-26677712,Enamine,462.03,5-{[(5-bromo-2-hydroxy-3-iodophenyl)methylidene]amino}-2-hydroxybenzoic acid,0.1,466,USD,0.175,OC(c(cc(cc1)N=Cc2cc(Br)cc(I)c2O)c1O)=O
+fjmAQ@BLtgHJpUYdTTTtqfbbTWIQKADQLDC@@@@ !B?`Bw?Hc|m?w~@Hc}?`Bw@h`Bb@K~@Hc}b@K~_?x@bOvH?[\Bb@K~_p,,EN300-6736016,Enamine,510.01,"2-(2,4-dihydroxy-3,5-diiodobenzoyl)benzoic acid",0.1,515,USD,10,OC(c(cccc1)c1C(c(cc(c(O)c1I)I)c1O)=O)=O
+fgsaJb@djwlu{O\EXJlSVEkAzC^GNQQQIQJEIQQZX@@AdoY``h``jIhHVP@ !BmpK~@K]}bOrw?K\B?`C~@K_}mwvH@k\BmpK~@Ox@?`Bw_X`BmpJw@oy?mpK~@K_vJ@BB@OX@JKjBn`,,EN300-7414243,Enamine,888.91,"sodium (2S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoate pentahydrate",0.1,404,USD,0.206,N[C@@H](Cc(cc1I)cc(I)c1Oc(cc1I)cc(I)c1O)C([O-])=O.O.O.O.O.O.[Na+]
+fek`R`@djwhJpUXflKVSbLbbbRbTJRbbtqCI^sAAQAATSTDKH@ !BiLw~yzSRf|vdsZSMf}K~yzSRiMK~zIoMiLv[tioR?n^dto{hf|v[s_{hiLv[tjSR@ID,,EN300-45689545,Enamine,827.34,"methyl (2S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoate hydrochloride",0.1,152,USD,10,COC([C@H](Cc(cc1I)cc(I)c1Oc(cc1I)cc(I)c1O)N)=O.Cl
+fas`P`@djwhJpUXflKVYEEDeDhTeEEifR}fBBbBBhf`aY@@ !BbOrH?_x@?g~H?H`BbGvH?_x@?`C~_x`Bb@JH?Xa}bGw~@Oy?bOrH@h`BmpJH?P,,EN300-708765,Enamine,776.85,"(2S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoic acid",1,19,USD,10,N[C@@H](Cc(cc1I)cc(I)c1Oc(cc1I)cc(I)c1O)C(O)=O
+fakAa@BJBBlyVYEEEhcMEEDlmfB\GMXHHfdJBJH@@ !BYVATaM~fpIeeXFU`UHS_im~fJ{meXA|ZKAc~@K_}Tq`@?k_|m?pBbK]}@O{|b@,,EN300-7363475,Enamine,546.13,"4-(2-butyl-1-benzofuran-3-carbonyl)-2,6-diiodophenol",0.1,22,USD,10,CCCCc1c(C(c(cc2I)cc(I)c2O)=O)c(cccc2)c2[o]1
+f`~Pa@EVHXEYzHRYg]nqgHHBjZ@@@ !B?h@w@d`BMww~`Oz@R@IH@da}?k}H@oz@RGuH@`Bz,,EN300-37474797,Enamine,356.59,2-amino-3-(4-hydroxy-3-iodophenyl)-N-methylpropanamide hydrochloride,0.1,410,USD,10,CNC(C(Cc(cc1)cc(I)c1O)N)=O.Cl
+eodXJH@EBKGO@`JsHhhllheEJeEEDdefNJnekcghHBjfZj@@@BBBR@@ !B?g~H_[]}b@K~_?y?m?vw?[\Bm?w~@K\BmpJH@ox@m?vw@k_}s}Hqorn{YVC_fUR{wz[_ifT_YQ}eXER{,,EN300-7374728,Enamine,529.33,(2R)-2-({[(9H-fluoren-9-yl)methoxy]carbonyl}amino)-3-(4-hydroxy-3-iodophenyl)propanoic acid,0.25,19,USD,10,OC([C@@H](Cc(cc1)cc(I)c1O)NC(OCC1c(cccc2)c2-c2c1cccc2)=O)=O
+do~LPMJwBlzlrJJKQESQa``bjX@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@JH__x@bOrw?@,,EN300-178305,Enamine,432.97,"2-amino-3-(4-hydroxy-3,5-diiodophenyl)propanoic acid",0.1,52,USD,0.582,NC(Cc(cc1I)cc(I)c1O)C(O)=O
+do~LPMJwBlzlrJJKQESQa``bjXaT@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@JH__x@bOrw?@,,EN300-155423,Enamine,432.97,"(2S)-2-amino-3-(4-hydroxy-3,5-diiodophenyl)propanoic acid",1,19,USD,10,N[C@@H](Cc(cc1I)cc(I)c1O)C(O)=O
+do~LPMJwBlzlrJJKQESQa``bjXaX@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@JH__x@bOrw?@,,EN300-7363299,Enamine,432.97,"(2R)-2-amino-3-(4-hydroxy-3,5-diiodophenyl)propanoic acid",0.25,19,USD,10,N[C@H](Cc(cc1I)cc(I)c1O)C(O)=O
+do~JaII]NpkIf~RYgenvFBBIf`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@oy?mpK~@@,,EN300-1663339,Enamine,323.04,methyl 2-hydroxy-3-iodo-5-nitrobenzoate,0.1,113,USD,8.114,COC(c1cc([N+]([O-])=O)cc(I)c1O)=O
+dmvLaFJUBlZUyIf[[a`bA`@@ !Bmww~_{\BbGvw__x@mwvw@k\Bb@H,,EN300-175100,Enamine,265,2-iodo-3-nitrophenol,0.1,50,USD,10,[O-][N+](c1cccc(O)c1I)=O
+dmvLaAJUBlFUyIf_Yn``I`@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@H,,EN300-76444,Enamine,265,2-iodo-5-nitrophenol,1,19,USD,10,[O-][N+](c(cc1)cc(O)c1I)=O
+dmvH`EHJsHhhmDVzB@k@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}mwt,,EN300-45635532,Enamine,259.04,4-hydroxy-3-iodo-5-methylbenzonitrile,0.1,238,USD,10,Cc1cc(C#N)cc(I)c1O
+dmvH`EHJqIf_Un``Jp@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BbOp,,EN300-6868256,Enamine,259.04,2-(3-hydroxy-4-iodophenyl)acetonitrile,0.1,241,USD,7.647,N#CCc(cc1)cc(O)c1I
+dmvHPEHJrXaIf^Ua``bp@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}?`@,,EN300-7721427,Enamine,279.46,5-chloro-2-hydroxy-3-iodobenzonitrile,0.1,120,USD,10,N#Cc1cc(Cl)cc(I)c1O
+dmvHPEHJslSHhhmDVFBBK@@ !BmpJw__x@?g~w@k\Bmww~@Ox@?`@,,EN300-24201724,Enamine,323.91,3-bromo-4-hydroxy-5-iodobenzonitrile,0.1,439,USD,0,N#Cc(cc1Br)cc(I)c1O
+dmvD`EJPkDfY{fFBBF@@ !BmpK~@K]}b@Jw@k\B?`Bw_[\Bb@H,,EN300-6777803,Enamine,263.03,2-hydroxy-3-iodobenzamide,0.1,317,USD,2.639,NC(c1cccc(I)c1O)=O
+dmvD`EJPkDfY}fzB@f@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@H,,EN300-194146,Enamine,263.03,3-hydroxy-4-iodobenzamide,0.1,102,USD,2.194,NC(c(cc1)cc(O)c1I)=O
+dmtL`BePkDfY{fFBBF@@ !BmpK~@K]}b@Jw@k\B?`Bw_X`BmpH,,EN300-134249,Enamine,264.01,2-hydroxy-3-iodobenzoic acid,0.1,186,USD,8.768,OC(c1cccc(I)c1O)=O
+dmtL`BePkDfYwfzB@f@@ !BmpJw__x@?g~w@k\B?`C~@H`BmpH,,EN300-150502,Enamine,264.01,4-hydroxy-3-iodobenzoic acid,0.1,74,USD,0,OC(c(cc1)cc(I)c1O)=O
+dmtL`BePkDfY}fzB@f@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BmpH,,EN300-116482,Enamine,264.01,3-hydroxy-4-iodobenzoic acid,0.25,19,USD,10,OC(c(cc1)cc(O)c1I)=O
+dmtHHFBlJPGDVPRYf{zXHbH@@ !Bmww~_{\BbGvw__x@mww~_{\BmpH,,EN300-45643574,Enamine,334.88,"4-bromo-3,6-difluoro-2-iodophenol",0.1,176,USD,10,Oc(c(I)c(c(Br)c1)F)c1F
+dmtHHBBlzPgDVPRYggXXHHh@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?mwt,,EN300-4106734,Enamine,334.88,"4-bromo-2,3-difluoro-6-iodophenol",0.1,176,USD,10,Oc(c(F)c(c(Br)c1)F)c1I
+dmtDpBXJpZqZqIf[oi`bH`@@ !Bmwvw@oy??`Bw_Xa}mwvw@oy??g|,,EN300-6498190,Enamine,487.79,"2,4,6-triiodobenzene-1,3-diol",0.1,26,USD,8.414,Oc(c(I)c(c(I)c1)O)c1I
+dmtD`BdJqIf_Yn``I`@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@H,,EN300-6811202,Enamine,262.04,1-(3-hydroxy-4-iodophenyl)ethan-1-one,0.1,241,USD,10,CC(c(cc1)cc(O)c1I)=O
+dmtDPBTJsjsHhhmDVFBBI@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-345099,Enamine,373.91,"4-hydroxy-3,5-diiodobenzaldehyde",0.5,19,USD,10,Oc(c(I)cc(C=O)c1)c1I
+dmtDPBTJsjsHhhmDVFBBJ@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-2272222,Enamine,375.92,"4-(hydroxymethyl)-2,6-diiodophenol",0.1,322,USD,10,OCc(cc1I)cc(I)c1O
+dmtDPBTJrZqIf^]n``JP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@H,,EN300-18189,Enamine,373.91,"2-hydroxy-3,5-diiodobenzaldehyde",0.5,19,USD,10,Oc(c(C=O)cc(I)c1)c1I
+dmtDPBTJr\QIf^]n``JP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@H,,EN300-6774757,Enamine,326.91,5-bromo-2-hydroxy-3-iodobenzaldehyde,0.1,153,USD,10,Oc(c(C=O)cc(Br)c1)c1I
+dmtDPBTJqhcHhhii^FBHI@@ !BmpK~@K]}b@Jw@oy?mpJw__x@b@H,,EN300-174008,Enamine,282.46,4-chloro-2-hydroxy-3-iodobenzaldehyde,0.1,54,USD,10,Oc(c(C=O)ccc1Cl)c1I
+dmMH`Fd`kDfYm^FU`bBa@@ !B?g~w_Xa}mpK~_v@Z?g~H_RqgXFT,,EN300-4263530,Enamine,260.03,7-iodo-1H-indazol-6-ol,0.1,277,USD,10,Oc(ccc1c2[nH]nc1)c2I
+dmLH`BBlRYfuXYVBBJH@@ !B?g~w_Xa}mpK~_?y?XAjH_VAeKF\,,EN300-33479991,Enamine,260.07,"4-iodo-2,3-dihydro-1H-inden-5-ol",0.1,241,USD,10,Oc(ccc1c2CCC1)c2I
+dknL`IKSBlRYgmya``cf@@ !Bb@K~@Ha}mpJH@h`B?`BH__x@b@JH__x@,,EN300-7440706,Enamine,289.02,2-cyano-3-hydroxy-4-iodobenzoic acid,0.1,706,USD,1.239,N#Cc(c(O)c(cc1)I)c1C(O)=O
+dknL`FI]BlrJJJXj[a`bBZ@@ !B?`BH@k\BbGw~@K]}?`Bw@ox@mpJH@ox@,,EN300-8333220,Enamine,293.06,methyl 3-amino-5-hydroxy-4-iodobenzoate,0.1,470,USD,0,COC(c(cc1N)cc(O)c1I)=O
+dknLPFKSBlVlRYf{[i`bHf@@ !Bmww~_{\BbGvw__x@mww~_{\BmpJw?Xc},,EN300-210234,Enamine,404.92,"4-amino-2-hydroxy-3,5-diiodobenzoic acid",0.1,144,USD,2.367,Nc(c(I)c(c(C(O)=O)c1)O)c1I
+dkmLaNLetJsiwdfYy[XXHHfp@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?g~H@ox@,,EN300-55806,Enamine,290.01,4-hydroxy-3-iodo-5-nitrobenzonitrile,1,19,USD,10,N#Cc(cc1[N+]([O-])=O)cc(I)c1O
+dklLPBtpkNdLbbbtQTXXHHi`@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@K~@Ha},,EN300-46526565,Enamine,296.03,2-(3-fluoro-4-hydroxy-5-iodophenyl)acetic acid,0.1,140,USD,10,OC(Cc(cc1F)cc(I)c1O)=O
+dklLPBtpkIqDfYy~[hHBi`@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@K~@Ha},,EN300-46967419,Enamine,356.94,2-(5-bromo-2-hydroxy-3-iodophenyl)acetic acid,0.1,176,USD,10,OC(Cc1cc(Br)cc(I)c1O)=O
+dklLPBXpkIkLbbbbTUyXHbb`@@ !Bmww~_{\BbGvw__x@mwvH@oy?mpJH@k]},,EN300-52696469,Enamine,405.95,"2,4-diiodo-3,5-dimethoxyphenol",0.1,277,USD,1.389,COc(c(I)c1OC)cc(O)c1I
+dklLPBWPkNqLbbbtQfXXHHf`@@ !BmpJw__x@?g~w@k\Bmww~@Ox@mpJH@ox@,,EN300-761354,Enamine,356.94,methyl 3-bromo-4-hydroxy-5-iodobenzoate,0.1,277,USD,10,COC(c(cc1Br)cc(I)c1O)=O
+dklLPBWPkIqLbbbtReXXHHf`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@ox@,,EN300-1696602,Enamine,356.94,methyl 5-bromo-2-hydroxy-3-iodobenzoate,0.1,62,USD,10,COC(c1cc(Br)cc(I)c1O)=O
+dklLPBWPkIbLbbbtReXXHHf`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@ox@,,EN300-8153392,Enamine,312.49,methyl 5-chloro-2-hydroxy-3-iodobenzoate,0.1,176,USD,10,COC(c1cc(Cl)cc(I)c1O)=O
+dklHPBBlFlRYgWin``Jj@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@?`@@?g?~,,EN300-342741,Enamine,402,"5-tert-butyl-2,4-diiodophenol",0.1,113,USD,10,CC(C)(C)c(c(I)c1)cc(O)c1I
+dk^HPNHJrZqIf^UvGS``B@@@@ !Bm?rw?_x@?g~w?K\Bm?w~@Ox@m?rw@ox@,,EN300-18288,Enamine,396.95,"5,7-diiodoquinolin-8-ol",1,19,USD,10,Oc(c1ncccc1c(I)c1)c1I
+dk^HPNHJrXaIf^UvGS``B@@@@ !Bm?rw?_x@?g~w?K\Bm?w~@Ox@m?rw@ox@,,EN300-20836,Enamine,305.5,5-chloro-7-iodoquinolin-8-ol,1,19,USD,10,Oc(c1ncccc1c(Cl)c1)c1I
+dkLLqBWPkIkCtMxyRYgeaa``bX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@oxB,,EN300-61986,Enamine,411.89,"sodium 2-hydroxy-3,5-diiodobenzoate",1,19,USD,10,[O-]C(c1cc(I)cc(I)c1O)=O.[Na+]
+didH`BBlRYgvzB@`@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-97437,Enamine,234.03,2-iodo-5-methylphenol,0.1,78,USD,10,Cc(cc1)cc(O)c1I
+didH`BBlRYgVzB@`@@ !BmpJw__x@?g~w@k\B?`C~@@,,EN300-96174,Enamine,234.03,2-iodo-4-methylphenol,1,19,USD,10,Cc(cc1)cc(I)c1O
+didH`BBlRYfvFBB@@@ !Bmww~_{\BbGvw_[]}?`Bw@`,,EN300-125193,Enamine,234.03,2-iodo-3-methylphenol,0.1,58,USD,10,Cc1cccc(O)c1I
+didHPFBlJPRYf~FBH@@@ !Bmww~_{\BbGvw__x@mwvw@`,,EN300-113286,Enamine,237.99,3-fluoro-2-iodophenol,0.1,62,USD,10,Oc1cccc(F)c1I
+didHPFBlKDRYf~FBH@@@ !Bmww~_{\BbGvw__x@mwvw@`,,EN300-268661,Enamine,298.9,3-bromo-2-iodophenol,1,19,USD,10,Oc1cccc(Br)c1I
+didHPBBlzlRYgfFBB@@@ !BbGvH@oy??`BH_Xa}b@K~_p,,EN300-318142,Enamine,345.9,"2,6-diiodophenol",0.1,313,USD,10,Oc(c(I)ccc1)c1I
+didHPBBlFlRYgVzB@`@@ !Bmwvw@oy??`Bw_[]}?g?~_p,,EN300-6495058,Enamine,345.9,"2,4-diiodophenol",0.1,42,USD,10,Oc(ccc(I)c1)c1I
+didHPBBlzHRYgfFBB@@@ !Bmwvw@oy??`Bw_[]}mpK~_p,,EN300-3218271,Enamine,254.45,2-chloro-6-iodophenol,0.1,19,USD,10,Oc(c(Cl)ccc1)c1I
+didHPBBlGDRYgVzB@`@@ !Bmwvw@oy??`Bw_[]}?g?~_p,,EN300-101034,Enamine,298.9,4-bromo-2-iodophenol,0.1,19,USD,10,Oc(ccc(Br)c1)c1I
+didHPBBlGDRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-213246,Enamine,298.9,5-bromo-2-iodophenol,0.25,19,USD,10,Oc(cc(cc1)Br)c1I
+didHPBBlFHRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-2207668,Enamine,254.45,5-chloro-2-iodophenol,0.5,19,USD,10,Oc(cc(cc1)Cl)c1I
+didD`BxJqIf^XXHH@@ !BmpK~@K]}b@Jw@k\B?`Bw_P,,EN300-1272342,Enamine,236,"3-iodobenzene-1,2-diol",0.1,187,USD,10,Oc1cccc(I)c1O
+didD`BXJqIf[xXH`@@ !Bmwvw@oy??`Bw_Xa}mww~_p,,EN300-7409179,Enamine,236,"2-iodobenzene-1,3-diol",0.1,26,USD,4.683,Oc1cccc(O)c1I
+didD`BDJqIf_[hHB@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-4931294,Enamine,236,"4-iodobenzene-1,3-diol",0.1,241,USD,0,Oc(cc1)cc(O)c1I
+dg^L`EH{BlRYg]n[hHBjXbT@ !BmpJw__x@?g~w@k\B?`C~@H`BbGw~@Hc|m?p,,EN300-6495864,Enamine,307.08,(2S)-2-amino-3-(4-hydroxy-3-iodophenyl)propanoic acid,0.5,19,USD,10,N[C@@H](Cc(cc1)cc(I)c1O)C(O)=O
+dg\LPBtpkIqDfYy~vzB@jZ@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@JH__x@bOp,,EN300-51660652,Enamine,370.96,methyl 2-(5-bromo-2-hydroxy-3-iodophenyl)acetate,0.1,176,USD,10,COC(Cc1cc(Br)cc(I)c1O)=O
+dg\LPBtpkNdLbbbtQTsCAAEM@@@ !BmpJw__x@?g~w@k\Bmww~@Ox@b@JH__x@bOp,,EN300-46752630,Enamine,310.06,methyl 2-(3-fluoro-4-hydroxy-5-iodophenyl)acetate,0.1,109,USD,10,COC(Cc(cc1F)cc(I)c1O)=O
+dg\DhBdJslSY@yByCHhhmDUHppPQUP@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?m?vw?PJw?X`,,EN300-45165646,Enamine,382.9,2-bromo-6-iodo-4-(trifluoromethoxy)phenol,0.1,241,USD,10,Oc(c(Br)cc(OC(F)(F)F)c1)c1I
+deVH`IHJqIf]vzB@l@@ !BmpJw__x@?g~w@k\B?`C~@Ox@,,EN300-195995,Enamine,245.01,4-hydroxy-3-iodobenzonitrile,0.1,21,USD,9.898,N#Cc(cc1)cc(I)c1O
+deVH`IHJqIf_VzB@l@@ !B?`BH@k\BbGw~@Ox@mpK~@Ox@,,EN300-192875,Enamine,245.01,3-hydroxy-4-iodobenzonitrile,0.1,23,USD,8.604,N#Cc(cc1)cc(O)c1I
+deVHPIHJsjqIf^VFBBH@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-395907,Enamine,360.91,"4-amino-2,6-diiodophenol",0.1,113,USD,10,Nc(cc1I)cc(I)c1O
+deTHpFBlJPGDRYf{i`bH@@ !Bmww~_{\BbGvw__x@mww~_{\B,,EN300-20822709,Enamine,316.89,4-bromo-3-fluoro-2-iodophenol,0.1,132,USD,8.623,Oc(c(I)c1F)ccc1Br
+deTHpFBlKDFHRYf{i`bH@@ !Bmww~_{\BbGvw__x@mww~_{\B,,EN300-52148077,Enamine,333.35,3-bromo-4-chloro-2-iodophenol,0.1,306,USD,10,Oc(c(I)c1Br)ccc1Cl
+deTHpFBlJHfHrJJJX|LDPP@@ !Bmww~_{\BbGvw__x@mwvw@k]},,EN300-1073214,Enamine,288.89,"3,5-dichloro-2-iodophenol",0.1,90,USD,10,Oc1cc(Cl)cc(Cl)c1I
+deTHpBBlzlflRYgea``b@@ !BbGvH@oy??`BH_Xa}b@K~_?y?,,EN300-19379,Enamine,471.79,"2,4,6-triiodophenol",0.5,19,USD,10,Oc(c(I)cc(I)c1)c1I
+deTHpBBlzlfHRYgea``b@@ !BbGvH@oy??`BH_Xa}b@K~_?y?,,EN300-210270,Enamine,380.34,"4-chloro-2,6-diiodophenol",1,19,USD,10,Oc(c(I)cc(Cl)c1)c1I
+deTHpBBlzHgDRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-1238335,Enamine,333.35,4-bromo-2-chloro-6-iodophenol,0.1,54,USD,10,Oc(c(Cl)cc(Br)c1)c1I
+deTHPBBlfHRYgUn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-22997104,Enamine,268.48,5-chloro-2-iodo-4-methylphenol,0.1,202,USD,10,Cc(c(Cl)c1)cc(I)c1O
+deTD`BdJqIf_VzB@d@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-268673,Enamine,248.01,3-hydroxy-4-iodobenzaldehyde,0.5,19,USD,10,Oc(cc(C=O)cc1)c1I
+deTD`BdJqIf_VzB@h@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-1707306,Enamine,250.03,5-(hydroxymethyl)-2-iodophenol,0.5,19,USD,10,OCc(cc1)cc(O)c1I
+dclLPBGPkIBDfYu]neXHBiH@@ !BbGw~_xc|m?vH?Xa}bOq`FfAeKF\@?`,,EN300-373704,Enamine,294.06,"5-hydroxy-6-iodo-2H-1,3-benzoxathiol-2-one",0.1,554,USD,5.558,Oc(cc(c(O1)c2)SC1=O)c2I
+dclH`BBlRYfuvE]``@@@@ !B?`BH?K_|bOw~@Ox@m?vw?K_|m?rw?P,,EN300-111546,Enamine,270.07,1-iodonaphthalen-2-ol,0.1,20,USD,10,Oc(ccc1ccccc11)c1I
+dcNLQII]Blzlf]{HhhmDXppPQL@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@`,,EN300-395906,Enamine,390.89,"2,6-diiodo-4-nitrophenol",0.5,19,USD,10,[O-][N+](c(cc1I)cc(I)c1O)=O
+dcND`MK`kDfYy]a``bl@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw_P,,EN300-227937,Enamine,275.04,4-hydroxy-3-iodo-5-methoxybenzonitrile,0.1,66,USD,0.834,COc1cc(C#N)cc(I)c1O
+dcMD`EtiBlRYg^vzB@f`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-25391170,Enamine,278.05,4-hydroxy-3-iodobenzohydrazide,0.1,176,USD,6.04,NNC(c(cc1)cc(I)c1O)=O
+dcLL`B{PkDfYy]a``bd@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-17567,Enamine,278.04,4-hydroxy-3-iodo-5-methoxybenzaldehyde,1,19,USD,10,COc1cc(C=O)cc(I)c1O
+dcLL`BzPkDfYy]a``bh@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@JH@`,,EN300-20927974,Enamine,280.06,"2-iodo-4,6-dimethoxyphenol",0.1,783,USD,0.208,COc(cc1OC)cc(I)c1O
+dcLL`B{PkDfYy]a``bh@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-65776,Enamine,280.06,4-(hydroxymethyl)-2-iodo-6-methoxyphenol,0.1,83,USD,9.978,COc1cc(CO)cc(I)c1O
+dcLL`BePkDfYwmn``Ih@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-125735,Enamine,278.04,methyl 4-hydroxy-3-iodobenzoate,0.5,19,USD,10,COC(c(cc1)cc(I)c1O)=O
+dcLL`BePkDfY}mn``Ih@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@K~@@,,EN300-157238,Enamine,278.04,methyl 3-hydroxy-4-iodobenzoate,1,19,USD,10,COC(c(cc1)cc(O)c1I)=O
+dcLL`BWPkDfYyYa``bX@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@K~_p,,EN300-1722167,Enamine,278.04,2-hydroxy-3-iodo-5-methylbenzoic acid,0.1,83,USD,10,Cc(cc1C(O)=O)cc(I)c1O
+dcLLPBWPkNkLbbbtQcCAADp@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@Jw@`,,EN300-7396568,Enamine,389.91,"4-hydroxy-3,5-diiodobenzoic acid",1,19,USD,10,OC(c(cc1I)cc(I)c1O)=O
+dcLH`BBlRYg^fzB@j`@@ !BmpJw__x@?g~w@k\B?`C~@Ox@@Oy??`,,EN300-268602,Enamine,276.11,4-tert-butyl-2-iodophenol,0.25,19,USD,10,CC(C)(C)c(cc1)cc(I)c1O
+dcLH`BBlRYgvfzB@j`@@ !B?`BH@k\BbGw~@Ox@mpK~@Ox@@Oy??`,,EN300-132528,Enamine,276.11,5-tert-butyl-2-iodophenol,0.1,20,USD,10,CC(C)(C)c(cc1)cc(O)c1I
+dcLHPBBlflRYggfzB@j`@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@Jw@`,,EN300-46816675,Enamine,387.98,"2,4-diiodo-6-(propan-2-yl)phenol",0.1,241,USD,10,CC(C)c1cc(I)cc(I)c1O
+dcLHHBBlfPVPvPRYgvfzB@j`@@ !Bmwvw@oy??`Bw_[]}?g~w_[]}@k_}b@,,EN300-1611719,Enamine,288,2-iodo-5-(trifluoromethyl)phenol,0.1,120,USD,0,Oc(cc(C(F)(F)F)cc1)c1I
+dcLHHBBlfPVPvPrJJKPrMtDAU@@@ !BbGvH@oy??`BH_Xa}?g~H@h`B?X`Bmp,,EN300-193737,Enamine,288,2-iodo-6-(trifluoromethyl)phenol,0.1,154,USD,9.207,Oc(c(C(F)(F)F)ccc1)c1I
+daDH`BBlRYg[hH@@@ !Bmwvw@oy??`Bw_[]}?g|,,EN300-39648,Enamine,220.01,2-iodophenol,0.25,19,USD,10,Oc(cccc1)c1I
+foAqB@FRTPDQdTTTrQRgARUADCUQ@@@ !B?g~w?Xc}m?s~_v@Z?g~H?RqgXFTZG|BYFa}Ta@,,EN300-6491880,Enamine,225.68,"4-chloro-1-(2-methylpropyl)-1H-1,2,3-benzotriazol-5-ol",0.1,446,USD,0,CC(C)C[n]1nnc2c1ccc(O)c2Cl
+foA`b@EDdBHRYg^yV\lzB@fjb@@ !B?g~H_[]}b@K~_?y?mwvw_[\B?g}gTqaSFa}eGp,,EN300-118118,Enamine,225.67,2-chloro-4-(pyrrolidine-1-carbonyl)phenol,0.1,152,USD,2.548,Oc(ccc(C(N1CCCC1)=O)c1)c1Cl
+foAPa@CVHxDPJHrJJJZIGIdmF``hjd`@@ !B?g~w_Xa}mpK~_?y?b@Jw?Xc}bOvH_Xc|bOw~_p,,EN300-37440924,Enamine,247.08,"5,7-dichloro-2-nitroso-1,2,3,4-tetrahydroisoquinolin-6-ol",0.1,795,USD,1.433,Oc(c(Cl)cc(C1)c2CCN1N=O)c2Cl
+foAAb@BR\BHRYgUgV\TZB@ijR@@ !BbOs~@Hc}m?rH?Hc|bOvH?Xc|bOs~_xc}bOvH?@,,EN300-186403,Enamine,224.64,6-chloro-4-ethyl-7-hydroxy-2H-chromen-2-one,0.1,59,USD,0.982,CCC(c(c(O1)c2)cc(Cl)c2O)=CC1=O
+foAAb@BR\BHRYgUev\TZB@ijR@@ !BbOs~@Hc}m?rH?Hc|bOvH?Xc|bOs~_xc}bOvH?@,,EN300-186399,Enamine,224.64,"6-chloro-7-hydroxy-3,4-dimethyl-2H-chromen-2-one",0.1,29,USD,1,CC(c(c(O1)c2)cc(Cl)c2O)=C(C)C1=O
+foAAa@BT\BHmDILs[jkAZMRuPAP@@@ !Bm?s~@K_}bOrw?K_|?g~w?[_}m?rw?K_}m?vw?@,,EN300-302597,Enamine,245.06,"3,6-dichloro-7-hydroxy-4-methyl-2H-chromen-2-one",0.1,355,USD,0,CC(c(cc(c(O)c1)Cl)c1OC1=O)=C1Cl
+foAAa@BR\BHmDILsjskNJMA@TuI@@@ !BbGw~_x`Bm?vH?Xa}bOrH@hc}bGw~@Hc|mpJH?P,,EN300-10543,Enamine,245.06,6-chloro-4-(chloromethyl)-7-hydroxy-2H-chromen-2-one,0.1,75,USD,10,Oc(cc(c(C(CCl)=C1)c2)OC1=O)c2Cl
+foAAA@F@bBQFQQQSPsI\eYtDQ@@@@@ !Bm?w~_{\BbOvw?_x@m?w~_{_|mwvH__y??g~H?P,,EN300-45411748,Enamine,239.1,"2,3-dichloro-[1,1'-biphenyl]-4-ol",0.1,301,USD,6.393,Oc1ccc(-c2ccccc2)c(Cl)c1Cl
+fnsqa@GIrQSPQDhcHhhmDiXddddfB|GIXHHf@BjdH@@ !B?`BH?K_|bOw~@Ox@b@Jw@k\B?`BH__y?b@JH?Xa}bOrH@hc}bGvH?H`BbOt,,EN300-52972,Enamine,352.18,"6-(3,5-dichloro-2-hydroxybenzoyl)-3-methyl-1H,2H,3H,4H-pyrido[2,3-d]pyrimidin-2-one",0.1,232,USD,0.24,CN(Cc1cc(C(c2cc(Cl)cc(Cl)c2O)=O)cnc1N1)C1=O
+fluAb@BR|BHRYgUem]gMFbfB@jXD@`@@ !BbGw~_x`Bm?vH?Xa}b@JH@hc}?`BH_X`Bb@Jw@hc}?`C~@K\B,,EN300-15168,Enamine,272.69,6-chloro-7-hydroxy-4-phenyl-2H-chromen-2-one,0.1,66,USD,0.056,Oc(cc(c(C(c1ccccc1)=C1)c2)OC1=O)c2Cl
+fleab@MDlxDPdsMk{[SAJuAAETuTP@@ !B?g~w_Xa}mpK~_?y?b@JH?Xc}bGvH?Hc}bOs~_xc}bGw}mpJH,,EN300-6481884,Enamine,283.75,"tert-butyl 5-chloro-6-hydroxy-1,2,3,4-tetrahydroisoquinoline-2-carboxylate",0.1,342,USD,10,CC(C)(C)OC(N(CC1)Cc(cc2)c1c(Cl)c2O)=O
+fle`a@EDdBHSHYEEEeieEDbs`XpPDtAA@@@ !B?g~H?[_}b@K~_?y?m?vw?_y?m?rw?[_|?g~w?_x@mww~_{]},,EN300-118587,Enamine,279.7,3-chloro-N-(4-fluoro-2-methylphenyl)-4-hydroxybenzamide,0.1,268,USD,0,Cc(cc(cc1)F)c1NC(c(cc1)cc(Cl)c1O)=O
+fleAR@BR\FHHaIf]VW^v\TZB@ijYh`@@ !Bb@K~@Hc}mpJH@h`BbGvH?X`Bb@K~_xa}bOvH@oy?m?vH?_y?,,EN300-302830,Enamine,282.68,methyl 2-(6-chloro-7-hydroxy-4-methyl-2-oxo-2H-chromen-3-yl)acetate,0.1,64,USD,1.035,CC(c(c(O1)c2)cc(Cl)c2O)=C(CC(OC)=O)C1=O
+fleAR@BR]xHHcHhhldhleBf\TZB@ijVh`@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@?`BH_X`Bb@K~@Ox@bGvH@ha},,EN300-303195,Enamine,282.68,ethyl 2-(6-chloro-7-hydroxy-2-oxo-2H-chromen-4-yl)acetate,0.1,426,USD,0,CCOC(CC(c(c(O1)c2)cc(Cl)c2O)=CC1=O)=O
+fj}pa@@qJQPHbtQdTTTvtfdUbSAN}dlDDUUURe@@@ !BjS}oUWbKA{RiOzd?DBixbwbKbp]xb{Qx^KS}m?rwUQB_NaqhpPBsv@,,EN300-26970802,Enamine,328.2,"2-chloro-3-[2-(1-chlorocyclopropyl)-2-hydroxy-3-(1H-1,2,4-triazol-1-yl)propyl]phenol",0.1,3675,USD,2.142,OC(Cc1cccc(O)c1Cl)(C[n]1ncnc1)C1(CC1)Cl
+fj}ab@GDDTDQdTTTtRLRaRsIV\gLDEEU@AD@@@ !B?`BH@k\BbOw~@Ox@QwNH@k\BQps_ql[@w}emlCnTXEkFpL[@XEkFp@,,EN300-119508,Enamine,305.76,"6-chloro-1-(4-hydroxyphenyl)-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol",0.1,156,USD,0,Oc1ccc(C(CNCC2)c(cc3O)c2c(Cl)c3O)cc1
+fj}Pc@IVHxDPJHLDILsksMzkN^CdlDAURt@@@@@ !Bmww~_{\BbGvw_[]}mpJw@k]}?g~w@hc}m?w~@K]}m?rw@k_}mwvw?@,,EN300-1719790,Enamine,339.2,"3-(2,4-dichloro-5-hydroxyphenyl)-2-sulfanyl-3,4-dihydroquinazolin-4-one",0.1,466,USD,0.231,Oc(cc(c(Cl)c1)N2C(S)=Nc3ccccc3C2=O)c1Cl
+fj}Ab@BR\BHRYgUeweV\T[IXHBfi`@H@@ !BbOs~@Hc}m?rH?Hc|bOvH?Xc|bOs~_xc}bOvH?Hc|bOw~@Hc|bOs~@@,,EN300-302972,Enamine,300.74,3-benzyl-6-chloro-7-hydroxy-4-methyl-2H-chromen-2-one,0.1,29,USD,1.066,CC(c(c(O1)c2)cc(Cl)c2O)=C(Cc2ccccc2)C1=O
+fjmQc@EEHgHHbTQDHRYggvUvf\|FB@j`@e`@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}bOs~@K\Bb@K~@Ox@b@K~@@C~_?{~@@,,EN300-216766,Enamine,347.22,"4-{[(3,5-dichloro-2-hydroxyphenyl)methyl]amino}benzene-1-sulfonamide",0.1,298,USD,0.287,NS(c(cc1)ccc1NCc1cc(Cl)cc(Cl)c1O)(=O)=O
+fjmQc@EEHgHHbTPDHRYggvUnf\}FB@j`BE`@@ !Bm?vw?Oy??`Bw?[]}?g~w?Oy??`Bw@ox@mwvw@k\B?`Bw?PC~_?{~@@,,EN300-216763,Enamine,347.22,"3-{[(3,5-dichloro-2-hydroxyphenyl)methyl]amino}benzene-1-sulfonamide",0.1,372,USD,0.204,NS(c1cccc(NCc2cc(Cl)cc(Cl)c2O)c1)(=O)=O
+fjmPa@IVHXDPfPrJJKKQJJEJIgHy``Ji`BH@@@ !B?`Bw?Hc|m?w~@Ox@b@JH@ha}?`BH@hc|m?rH__x@b@JH?Ha}?`C~@@,,EN300-123388,Enamine,308.74,2-(3-chloro-4-hydroxyphenyl)-2-[(3-fluoro-5-methylphenyl)amino]acetamide,0.1,376,USD,0.528,Cc1cc(NC(C(N)=O)c(cc2)cc(Cl)c2O)cc(F)c1
+fjcQB@IJHBHRYg^UeUf\MZNTe``Jj@@@@@@ !BbOrH?_x@?g~H?H`B?`C~@Hc|m?s~@Ox@mpJH@k\B?`C~@Ox@b@Jw@`,,EN300-84795,Enamine,296.76,"2-chloro-4-(2,3-dihydro-1H-perimidin-2-yl)phenol",0.1,282,USD,0.322,Oc(ccc(C(N1)Nc2cccc3c2c1ccc3)c1)c1Cl
+fi{qc@GUZQVPQDh`hQdTTVbTlRTRTVSA^Ct\DDSMMSOQH@@ !B?`BH@k\BbOw~@Ox@b@Jw@k\B?`BH?_y?b@JH?Xc}b@K~_x`BbOtXTv]Sb@IeGqh_,,EN300-05304,Enamine,392.22,"5-(3,5-dichloro-2-hydroxybenzoyl)-2-oxo-1-(1,3-thiazol-2-yl)-1,2-dihydropyridine-3-carbonitrile",0.1,83,USD,0,N#CC1=CC(C(c2cc(Cl)cc(Cl)c2O)=O)=CN(c2ncc[s]2)C1=O
+fhyaA@EDADRBDfYweUV\t[pXHBf`@@@@ !B?Xc|bG?~@O{}bGvH_?y??eMgTq`_Fa}em?vw?K_|mwt,,EN300-07914,Enamine,261.73,"4-(1,3-benzothiazol-2-yl)-2-chlorophenol",0.1,83,USD,5.423,Oc(ccc(-c1nc2ccccc2[s]1)c1)c1Cl
+fhyAb@BR|BHRYgUeUYqQgA``JZib`@@ !B?Hc}b@C~_?{|b@JH@Ox@?`JH@h`BmpC~@Ox@?`JH@k\,,EN300-186374,Enamine,250.68,"2-chloro-3-hydroxy-6H,7H,8H,9H,10H-cyclohexa[c]chromen-6-one",0.1,29,USD,10,Oc(cc(c(C1=C2CCCC1)c1)OC2=O)c1Cl
+fhyAb@BR|BHRYgUeUYqQgA``JBAB@@@ !B?Hc}b@C~_?{|b@JH@Ox@?`JH@h`BmpC~@Ox@?`JH@k\,,EN300-186398,Enamine,246.65,2-chloro-3-hydroxy-6H-benzo[c]chromen-6-one,0.1,129,USD,6.095,Oc(cc(c(-c1c2cccc1)c1)OC2=O)c1Cl
+fhqAa@BZLBHyDYEEEhbhddpTDDUUT@@@ !B?K_}mpC~_?{|mpJw?[\@?`C~?K\@?ovw?K]??`C~_[\,,EN300-122596,Enamine,279.16,"2,6-dichloro-4-(2,2-diethoxyethyl)phenol",0.1,337,USD,0,CCOC(Cc(cc1Cl)cc(Cl)c1O)OCC
+fhiac@IDLxDQrHBDYEEEhcEELpW`pPQTsQ@@@ !Bm?s~@K_}b@Jw@k_|?`Bw_[_}m?s~_?x@m?vH?[_}?g|,,EN300-13934257,Enamine,292.14,"4-(3,5-dichloro-4-hydroxyphenyl)thiomorpholine-3,5-dione",0.1,470,USD,0,Oc(c(Cl)cc(N(C(CSC1)=O)C1=O)c1)c1Cl
+fhiQA@NNHBHeDYEEEhdmBhpVcPPA@UP@@@ !BbOrH?_x@?g~H?H`BbOw~@Ox@bOrH@ox@bOw~_xc}m?t,,EN300-305718,Enamine,271.15,"5,7-dichloro-2-[(dimethylamino)methyl]quinolin-8-ol",0.1,1227,USD,2.305,CN(C)Cc(cc1)nc2c1c(Cl)cc(Cl)c2O
+fhiAb@BJtBHrJJKQJZEI`oA``bX@@@@ !Bm?s~@K_}b@Jw@k_|?`Bw?[_}b@Jw@k_|?g~w?[]}?g|,,EN300-96656,Enamine,248.66,3-chloro-2-hydroxy-5-phenylbenzoic acid,0.1,119,USD,10,OC(c1cc(-c2ccccc2)cc(Cl)c1O)=O
+fhiAb@BR\BHRYgUgWYqQhHBfih`@@ !Bb@K~@Hc}mpJH@h`BbGvH?X`Bb@K~_xa}bOvH@oy?bGt,,EN300-186370,Enamine,252.7,4-butyl-6-chloro-7-hydroxy-2H-chromen-2-one,0.1,29,USD,1,CCCCC(c(c(O1)c2)cc(Cl)c2O)=CC1=O
+fhiAa@BRTBHyPILs_ZsLEhtDDUUTP@@ !BotySY|wPtl~?Sk}NKAcMtFU`@OxXKAi`JxQTaL@YeDP,,EN300-1706323,Enamine,254.52,"2-chloro-3-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.1,41,USD,10,CC1(C)OB(c2cccc(O)c2Cl)OC1(C)C
+fhiAa@BRTBHEPILsoJsLyhtDAUUTP@@ !Bs]B?SbpXTv_MtLwPKA`lFFU`@OxXKAi`JxQTaL@YeDP,,EN300-1704510,Enamine,254.52,"2-chloro-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.1,23,USD,10,CC1(C)OB(c(cc2)cc(Cl)c2O)OC1(C)C
+fhiAa@BRTBHEPILs{JsLyhtDAUUTP@@ !BKAb@L\wPtl|lFBpXs]@lFFU`@OxXKAi`JxQTaL@YeDP,,EN300-12602377,Enamine,254.52,"2-chloro-5-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.1,104,USD,10,CC1(C)OB(c(cc2)cc(O)c2Cl)OC1(C)C
+fhi@a@FJADDbLbbbfaabRyKpXHbF@@@@@ !Bb@JH__x@?g~H@k\Bb@JH__x@b@K~_{_}bOw~_?y?bOt,,EN300-1276854,Enamine,267.11,"4-benzoyl-2,3-dichlorophenol",0.1,275,USD,0,Oc1ccc(C(c2ccccc2)=O)c(Cl)c1Cl
+fhaa``CD]xDQrPUHAbDfYywnFB``bjf@@@ !BbOrH?_x@?g~H?Hc|bOw~@Ox@bOrH?Hc}?`BH@k\Bv@X,,EN300-1688967,Enamine,288.08,"2-amino-3-(5-chloro-2,3-difluoro-4-hydroxyphenyl)propanoic acid hydrochloride",0.1,953,USD,0,NC(Cc(c(F)c1F)cc(Cl)c1O)C(O)=O.Cl
+fhaa``CL]xDPRPUHAbLbbbfaVf`xJBHJjX@@ !BmpK~@K]}b@Jw@oy?mpJw__x@mpJH@ha}?`BH@k\BRgh,,EN300-1657639,Enamine,288.08,"2-amino-3-(3-chloro-2,6-difluoro-4-hydroxyphenyl)propanoic acid hydrochloride",0.1,790,USD,0.398,NC(Cc(c(F)c(c(O)c1)Cl)c1F)C(O)=O.Cl
+fhaQC@INHBH}DAbDfYwYTF\lzB@jjb@@ !Bm?vw?Oy??`Bw?[]}?g?~_xc}?g~H?Ha}bOvH@gGrK_H,,EN300-365529,Enamine,299.63,2-chloro-4-[(piperazin-1-yl)methyl]phenol dihydrochloride,0.1,248,USD,10,Oc(ccc(CN1CCNCC1)c1)c1Cl.Cl.Cl
+fhaQ@`INHBHyD^b@qFQQQZHqI@LEYtDDUUD@@ !BbOvH?Oy??`BH?Xa}bOs~_?y?m?vH?_y??g~H_R[rT_H,,EN300-37080539,Enamine,320.05,"2,6-dichloro-4-(piperazin-1-yl)phenol dihydrochloride",0.1,252,USD,10,Oc(c(Cl)cc(N1CCNCC1)c1)c1Cl.Cl.Cl
+ff}aa@GDDTDQVHrJJJZIFIPiXLeYr\pPTUT@DP@@ !B?`BH@k\BbOw~@Ox@QwNH@k\BQps_ql[@w}emlCnTXEkFpL[@XEkFpOsr,,EN300-207691,Enamine,342.22,"6-chloro-1-(4-hydroxyphenyl)-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol hydrochloride",0.1,152,USD,8.624,Oc1ccc(C(CNCC2)c(cc3O)c2c(Cl)c3O)cc1.Cl
+ffcab@ADehDPdsNkwSN{N^RVlDATuPPA@@@ !B_{jE@Cl{QDQ?ng~zNsl{Nw~z_{jE@Cl{NtP{NtP{n`A?aTP{NtP{QG~E,,EN300-247750,Enamine,317.77,"N-(5-chloro-2,4-dihydroxyphenyl)-1-phenylcyclobutane-1-carboxamide",0.1,614,USD,0,Oc(c(NC(C1(CCC1)c1ccccc1)=O)c1)cc(O)c1Cl
+fe{`q@GDDUoQ`bJaFQQQSQHqJEKCRQdkNSfBBbj`@eh`@@ !B?`BH@k\BbOw~@Ox@QwNH@k\BQps_ql[@w}emlCnTXEkFpL[@XEkFpOSr?`A??`C~?g|,,EN300-120489,Enamine,401.87,"6-chloro-1-(4-hydroxyphenyl)-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol; methanesulfonic acid",0.1,144,USD,0,CS(O)(=O)=O.Oc1ccc(C(CNCC2)c(cc3O)c2c(Cl)c3O)cc1
+fewaa@DlEDDPRHrJJJZEIJIHjIK\dkS`}GADQUSM@AC@HN` !BpJYTnqi`YQ?@ibnDpJXXTqi`FBp@?lBYUHQTaAh_pIg@f\BYFa?@fRn{Fa|ZGrn{Fa|,,EN300-37088613,Enamine,388.25,"(6Z)-10,11-dichloro-12-hydroxy-6-{[(4-methylphenyl)amino]methylidene}-8-oxatricyclo[7.4.0.0,2,7]trideca-1(9),2(7),10,12-tetraen-5-one",0.1,752,USD,0.336,Cc(cc1)ccc1N/C=C(/c1c(CC2)c(cc(c(Cl)c3Cl)O)c3[o]1)\C2=O
+fegAr@BRMEKQ`bLbbbttrbbRbJbsAV|WlDDSTDpTTP@@ !B?`BH?K_|bOw~@Ox@b@Jw@hc}?`BH@k\Bb@JH?_x@mww~@Oy?b@JH@hc}bOw~@Ox@b@H,,EN300-24196048,Enamine,378.76,"2-(3-chloro-2-hydroxyphenyl)-5-hydroxy-3,7,8-trimethoxy-4H-chromen-4-one",0.1,958,USD,2.062,COc(c(OC)c1OC(c2cccc(Cl)c2O)=C2OC)cc(O)c1C2=O
+fdyab@EDdDDPdsN}rnlx{tDAMUUD@@ !Bmww~_{\BbOvw?[]}m?rw@k]}?`Bw?Hc|?`C~@H`B?`BH@`,,EN300-118124,Enamine,269.73,2-chloro-4-(4-methoxypiperidine-1-carbonyl)phenol,0.1,232,USD,0.643,COC(CC1)CCN1C(c(cc1)cc(Cl)c1O)=O
+fdyPb@E^IHDPdsN}kJlxFLDAMP@@@@ !Bb@K~@Ha}mpJH@h`BbGvH_X`B?g~H?_y?bOvw?_y??g~w_P,,EN300-118120,Enamine,262.7,3-chloro-4-hydroxy-N-[(pyridin-3-yl)methyl]benzamide,0.1,241,USD,0.602,Oc(ccc(C(NCc1cnccc1)=O)c1)c1Cl
+fdyPb@EQIHDPdsN}kJlxFLDAMP@@@@ !Bb@K~@Ha}mpJH@h`BbGvH_X`B?g~H?_y?m?vH?_y??g~H_P,,EN300-118860,Enamine,262.7,3-chloro-4-hydroxy-N-[(pyridin-4-yl)methyl]benzamide,0.1,232,USD,0.982,Oc(ccc(C(NCc1ccncc1)=O)c1)c1Cl
+fdyAc@BJtBHyHRhLbbbtQbRbcAFmAAEUUQ@@@ !Bs]B?SbpXTv_MtLwPotxlFBpXYV@@?a`lFf@kaERDpAfTQ@,,EN300-12579574,Enamine,272.51,"2-chloro-6-fluoro-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.1,110,USD,3.737,CC1(C)OB(c(cc2F)cc(Cl)c2O)OC1(C)C
+fdyAc@BJtBHEPRbDfYu[VYgCV``Jjjh`@@ !B`CGRsrpXTv^@LX@qKA`lFH@qYV@@?a`lFf@kaERDpAfTQ@,,EN300-23407336,Enamine,288.96,"2,5-dichloro-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.1,176,USD,10,CC1(C)OB(c(c(Cl)c2)cc(Cl)c2O)OC1(C)C
+fdyAc@BJtBHyDRhLbbbtQbRbcAFmAAEUUQ@@@ !B`CGRsrpXTv^@LX@qtl|lFBpXYV@@?a`lFf@kaERDpAfTQ@,,EN300-7413494,Enamine,288.96,"2,6-dichloro-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.25,19,USD,10,CC1(C)OB(c(cc2Cl)cc(Cl)c2O)OC1(C)C
+fdyAc@BJtBHEPRdDfYu[VYgCV``Jjjh`@@ !B`CGRsrpXTv^@LX@qKA`lFH@qYV@@?a`lFf@kaERDpAfTQ@,,EN300-24295376,Enamine,272.51,"2-chloro-5-fluoro-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.1,109,USD,10,CC1(C)OB(c(c(F)c2)cc(Cl)c2O)OC1(C)C
+fdyAa@BJtBHePYEEEhcDeEF\MZB@jjjb@@ !B`CGRsrpXTv^@LX@qKAcRsrpX@OyeXAi`FBsPs_rHUHPka@,,EN300-6253738,Enamine,268.55,"2-chloro-6-methyl-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.1,89,USD,10,CC1(C)OB(c(cc2C)cc(Cl)c2O)OC1(C)C
+fdyAa@BJtBHePYEEELcDeEFBMZBBJjjb@@ !B`CGRsrpXTv^@LX@qs]@lFBpX@OyeXAi`FBsPsPJHUHPka@,,EN300-22914949,Enamine,268.55,"2-chloro-3-methyl-4-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenol",0.25,19,USD,10,CC1(C)OB(c(cc2)c(C)c(Cl)c2O)OC1(C)C
+fdyAR@BR]xHHcHhhldhleBsbcPPEMRtP@@ !Bb@K~@Hc}mpJH@h`BbGvH?X`Bb@K~_xa}bOvH@hc|?g~H_P,,EN300-302516,Enamine,268.65,methyl 2-(6-chloro-7-hydroxy-2-oxo-2H-chromen-4-yl)acetate,0.1,80,USD,1.228,COC(CC(c(c(O1)c2)cc(Cl)c2O)=CC1=O)=O
+fdiQC@NNHBHeDQbLbbbtRVaTCAZMA@DAU@@@ !BNFHxG_zp?h|xXcabNAw~lOzpNFHxXozpNAw~cs`]Qqt@G`,,EN300-307635,Enamine,307.61,"5,7-dichloro-2-[(dimethylamino)methyl]quinolin-8-ol hydrochloride",0.1,1127,USD,0.683,CN(C)Cc(cc1)nc2c1c(Cl)cc(Cl)c2O.Cl
+fdeaC@MDAD\bEAFQQQZHqIII`cVCFBBJZ@@@@@ !B?[_|mw?~@O{}mwvw?K]??g?~Tv]SFA|ZGvVw?[_|m?rw_P,,EN300-07915,Enamine,296.18,"4-(1,3-benzothiazol-2-yl)-2,6-dichlorophenol",0.1,83,USD,0.649,Oc(c(Cl)cc(-c1nc2ccccc2[s]1)c1)c1Cl
+fcoaR@ODyFkPQFQQQZIYJZJIZJUI`b}WnBBJZ`XF@@@@@ !B?`BH?K_|bOw~@Ox@b@Jw@k\BbOvw?X`BmpK~_{_}?`BH?[_}mpJw@k_|?g?~@K_}mpJw@k]},,EN300-1190753,Enamine,397.81,4-(3-chloro-5-ethoxy-4-hydroxyphenyl)-2-oxo-3-(quinolin-2-yl)but-3-enoic acid,0.1,317,USD,0.119,CCOc1cc(C=C(C(C(O)=O)=O)c2nc(cccc3)c3cc2)cc(Cl)c1O
+fbuAb@BR\BHRYgUewUYqQhHBfijh`@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@?`BH_X`Bb@K~@Ha}b@JH_X`BbGt,,EN300-303256,Enamine,294.78,6-chloro-3-hexyl-7-hydroxy-4-methyl-2H-chromen-2-one,0.1,44,USD,1.044,CCCCCCC(C(Oc1c2)=O)=C(C)c1cc(Cl)c2O
+fbeQc@KQHpHHbTQjHrJJJISJjJH|UADTUTu@@@ !Bm?s~@K_}b@Jw@oy?m?rH__x@mwvw?X`BbGw~_x`BbOvw?Xa}b@H,,EN300-269226,Enamine,341.62,"1-propyl-1-[2-(2,4,6-trichloro-3-hydroxyphenoxy)ethyl]urea",0.1,431,USD,0.839,CCCN(CCOc(c(Cl)cc(Cl)c1O)c1Cl)C(N)=O
+fakPR@EZIsqPQFQQQZHqQJIYII`gAjvBBJjf```@@@ !B?`BH?K_|bOw~@Ox@b@Jw@k\B?`Bw?[\Bb@Jw@ox@mww~@K_}mpJH@k\Bmww~@@,,EN300-37405833,Enamine,348.79,"2-(3-chloro-4,5-dihydroxyphenyl)-3-(2-methoxyethyl)-1,2,3,4-tetrahydroquinazolin-4-one",0.1,719,USD,0.087,COCCN(C(c(cc1O)cc(Cl)c1O)Nc1ccccc11)C1=O
+fakIa@M^KTde@bNAFQQQZZRjJIYJI`hiKVBBEhBBf``@@ !BmpK~@K]}bOrw?K\B?`Bw?PC~_?{~@H`B?`BH?X`BmpJH@ha}XFU`FbpXFa|ZX@,,EN300-43591026,Enamine,366.83,"3-chloro-2-hydroxy-N-{1,3,6-trimethyl-1H-pyrazolo[3,4-b]pyridin-5-yl}benzene-1-sulfonamide",0.1,491,USD,0.09,Cc(c1c2)n[n](C)c1nc(C)c2NS(c1cccc(Cl)c1O)(=O)=O
+f`~QC@NVHBH]D^bDfY{mPXHuhHHjh`@@ !BbGvH@oy??`BH_Xa}b@K~_xa}?`BH@h`B?`@jxe{b,,EN300-7429972,Enamine,285.6,2-chloro-6-(piperazin-1-yl)phenol dihydrochloride,0.1,337,USD,10,Oc(c(N1CCNCC1)ccc1)c1Cl.Cl.Cl
+f`~QC@AVHBH]D^bDfYwePYpuhHBjh`@@ !Bm?vw?Oy??`Bw?[]}?g?~_{_}bOw~_?y?bGvY|owr,,EN300-51896638,Enamine,285.6,2-chloro-4-(piperazin-1-yl)phenol dihydrochloride,0.1,298,USD,10,Oc(ccc(N1CCNCC1)c1)c1Cl.Cl.Cl
+f`qab@EDexDPdsN}rkNN}A@SUTP@@ !Bm?rw?_x@?g~w?K\B?`C~@H`BmpK~@K]}mpJw@k]},,EN300-118119,Enamine,241.67,2-chloro-4-(morpholine-4-carbonyl)phenol,0.1,152,USD,10,Oc(ccc(C(N1CCOCC1)=O)c1)c1Cl
+f`qaa@ED]xDQHHRYg^WYgMF``JjfJAd@ !BosGMsuLXKF^?L[|qTqaSFG?~FfAeXF\l?`Bw@h`B,,EN300-186453,Enamine,259.71,"(4S)-2-(3-chloro-4-hydroxyphenyl)-1,3-thiazolidine-4-carboxylic acid",0.1,97,USD,0.844,OC([C@@H]1NC(c(cc2)cc(Cl)c2O)SC1)=O
+f`qAb@BR\BHRYgUgUgEF``JZfH@@ !Bb@K~@Hc}mpJH@h`BbGvH?X`Bb@K~_xa}bOvH@oy?,,EN300-186409,Enamine,238.67,6-chloro-7-hydroxy-4-propyl-2H-chromen-2-one,0.1,87,USD,0.848,CCCC(c(c(O1)c2)cc(Cl)c2O)=CC1=O
+f`qAb@BR\BHRYgUeugEF``JZfH@@ !BbOs~@Hc}m?rH?Hc|bOvH?Xc|bOs~_xc}bOvH?Oy?,,EN300-302358,Enamine,238.67,6-chloro-3-ethyl-7-hydroxy-4-methyl-2H-chromen-2-one,0.1,355,USD,0,CCC(C(Oc1c2)=O)=C(C)c1cc(Cl)c2O
+f`qAB@B@bDfYwfuYqwhHBh@@@@ !Bb@K~@Ha}mpJH@h`BbGvH__y?b@Jw?Xc}?g?~_xc},,EN300-23691826,Enamine,232.71,2-chloro-4-(1-phenylethyl)phenol,0.1,446,USD,0.091,CC(c1ccccc1)c(cc1)cc(Cl)c1O
+f`q@b@BJADILssmjscoPPEH@@@@ !Bm?s~@K_}b@Jw@k_|m?w~@K_}b@Jw?Oy?m?vw__y?,,EN300-99613,Enamine,232.66,3-chloro-2-hydroxy-5-phenylbenzaldehyde,0.1,232,USD,0,Oc(c(C=O)cc(-c1ccccc1)c1)c1Cl
+f`iAb@BR|BHRYgUeUgEFlzB@ijdh@@ !BOLc]|@CA_}x|rCsH@LD@pSsHOLbtApCAHKfP|csH,,EN300-186386,Enamine,236.65,"8-chloro-7-hydroxy-1H,2H,3H,4H-cyclopenta[c]chromen-4-one",0.1,88,USD,0.992,Oc(cc(c(C1=C2CCC1)c1)OC2=O)c1Cl
+f`aab@ADUhDPdsN{[SNPPEMU@@@ !BmpJw__x@?g~w@k\B?`C~@H`BbGw~@Hc|b@HBm?vH,,EN300-177384,Enamine,243.69,tert-butyl N-(3-chloro-4-hydroxyphenyl)carbamate,0.1,136,USD,10,CC(C)(C)OC(Nc(cc1)cc(Cl)c1O)=O
+f`a`a@MDTBHeDYEEEheJeFB``bZj@@@ !B?`BH@k\BbGw~@Ox@bOrw?K_|?`BH?Xc|bOvH?Oy?,,EN300-1709454,Enamine,262.14,"3,5-dichloro-2-hydroxy-N-(2-methylpropyl)benzamide",0.1,252,USD,0.03,CC(C)CNC(c1cc(Cl)cc(Cl)c1O)=O
+f`aAb@BJtBHRYg]eUgHHBjj`@@ !B?Hc}b@C~_?{|b@JH@Ox@?orw@O{}m?rw_?x@?gvw,,EN300-118522,Enamine,244.72,"2-chloro-4-(2,2-diethoxyethyl)phenol",0.1,407,USD,0,CCOC(Cc(cc1)cc(Cl)c1O)OCC
+f`a@R@B\]xDPdsOKksAPPQSS@@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@K~_?x@m?vw@oy?,,EN300-07838,Enamine,242.66,3-(3-chloro-5-ethoxy-4-hydroxyphenyl)prop-2-enoic acid,0.1,66,USD,10,CCOc1cc(C=CC(O)=O)cc(Cl)c1O
+f`a@R@BLMXDQdTTTtVTjxJBHJfh@@ !BmpK~@K]}b@Jw@oy?mpJw__x@m?vw@k\Bb@K~@Hc|,,EN300-30198827,Enamine,244.67,ethyl 3-chloro-2-hydroxy-4-methoxy-6-methylbenzoate,0.1,347,USD,10,CCOC(c(c(O)c1Cl)c(C)cc1OC)=O
+eodXJH@EBKGO@`HcHhhllheEJeEEDdefNJnekcghHBjfZj@@@BBBQ@@ !B?g~H_[]}b@K~_?y?m?vw?[\Bm?w~@K\BmpJH@ox@m?vw@k_}s}Hqorn{YVC_fUR{wz[_ifT_YQ}eXER{,,EN300-3445498,Enamine,437.88,(2S)-3-(3-chloro-4-hydroxyphenyl)-2-({[(9H-fluoren-9-yl)methoxy]carbonyl}amino)propanoic acid,0.1,19,USD,0.256,OC([C@H](Cc(cc1)cc(Cl)c1O)NC(OCC1c(cccc2)c2-c2c1cccc2)=O)=O
+ek`\BD@IODbHic`HapHrJJKKQJJIQiQISIc`spY[XzB@jfZZ`BJH`@@ !B?`Bw@h`Bm?w~@Ox@b@JH@ox@bGvH@h`B?g?~@Ha}bGvw?Xc}?g~H_X`B?g~H_Xa}XAk~_rqgXFT,,EN300-26638604,Enamine,431.9,"N-[(1,3-dioxaindan-5-yl)methyl]-4-(3-chloro-4-hydroxyphenyl)-6-methyl-2-sulfanylidene-1,2,3,4-tetrahydropyrimidine-5-carboxamide",0.1,525,USD,0.559,CC(NC(NC1c(cc2)cc(Cl)c2O)=S)=C1C(NCc(cc1)cc2c1OCO2)=O
+ek`XFL@CBEMLjf`HcbHdBLbbbtQdLRRTTRJRXD|BzFvN``bVjjej@BACqAH@ !Bs}Hq`F]SFBsOtl?RLXAgTv]STq`lYv]SGqk~_uMgGvU??fT_Tv]SFM~YUKl_Fa}em?vw?K_|mwt,,EN300-7547610,Enamine,456.3,"(3S,4S)-4-(1-benzofuran-2-yl)-1-(3,5-dichloro-4-hydroxybenzenesulfonyl)pyrrolidine-3-carboxylic acid",0.1,491,USD,0.515,OC([C@H](CN(C1)S(c(cc2Cl)cc(Cl)c2O)(=O)=O)[C@@H]1c1cc2ccccc2[o]1)=O
+ek`TJH@GHb@dic`HcHhhlmEDhhkeDeLfNKGAemchHBijfZ@Hhb@@@ !B?`Bw@h`Bm?w~@Ox@b@JH@ha}?`BH@oy?b@K~@Ha}m?vH?_x@?g~H_X`B?g~H_Xa}XAk~_rqgXFT,,EN300-26638605,Enamine,414.84,"N-[(1,3-dioxaindan-5-yl)methyl]-4-(3-chloro-4-hydroxyphenyl)-2-methyl-6-oxo-1,4,5,6-tetrahydropyridine-3-carboxamide",0.1,624,USD,0.06,CC(NC(CC1c(cc2)cc(Cl)c2O)=O)=C1C(NCc(cc1)cc2c1OCO2)=O
+ek`RDL@IODfbH`HapHjBLbbbrtRbbTZTRRRXxL|zFvN``JiffjZ@B@@@ !B?K\@?ovw@h`Bm?rw_[_}m?rw_?{}m?vw?Xc|mw?~_?{|bG?~_Xa??eMgTq`_Fa}em?vw?K_|mwt,,EN300-26664207,Enamine,444.97,"N-[(1,3-benzothiazol-2-yl)methyl]-4-(3-chloro-4-hydroxyphenyl)-6-methyl-2-sulfanylidene-1,2,3,4-tetrahydropyrimidine-5-carboxamide",0.1,535,USD,0.08,CC(NC(NC1c(cc2)cc(Cl)c2O)=S)=C1C(NCc1nc2ccccc2[s]1)=O
+eghTLD@EMBNO@HbzHrJJKQFJIQKIIFIKLBNAUM[GPPQUTtDD@D@@@@ !Bm?w~_{\BbOvw?[_}?g~w?K\B?`Bw?[\Bb@Jw@ox@mww~@K_}mpJH@k\Bmww~@H`BmpK~@Ox@m?s~@@,,EN300-37402270,Enamine,443.33,"2-(3-chloro-4,5-dihydroxyphenyl)-3-[3-(4-chlorophenyl)propyl]-1,2,3,4-tetrahydroquinazolin-4-one",0.1,719,USD,0.59,Oc1cc(C(Nc2ccccc22)N(CCCc(cc3)ccc3Cl)C2=O)cc(Cl)c1O
+e`\ZLD@IODjfbHc`HapHrJJKKQJJIQiQJJKKL\F^CKO_PPETsSTuPHAP@@@ !BbGvH@oy??`BH_Xa}?g?~_xa}mww~_?y?mpJH?[_}m?w~@K]}mpJw_[\B?g~w_[_}bOw~_{\B?g~w?[]}mpH,,EN300-26664206,Enamine,469.95,"4-(3-chloro-4-hydroxyphenyl)-6-methyl-N-[(3-methyl-4-oxo-3,4-dihydroquinazolin-2-yl)methyl]-2-sulfanylidene-1,2,3,4-tetrahydropyrimidine-5-carboxamide",0.1,535,USD,0.233,CC(NC(NC1c(cc2)cc(Cl)c2O)=S)=C1C(NCC(N1C)=Nc(cccc2)c2C1=O)=O
+do~L`EJ[BHRYg^uVzB@fj`@@ !B?`Bw?Hc|m?w~@Ox@b@JH@ox@bGvH@ha}b@JH_P,,EN300-118125,Enamine,229.66,3-chloro-4-hydroxy-N-(2-methoxyethyl)benzamide,0.1,152,USD,0.765,COCCNC(c(cc1)cc(Cl)c1O)=O
+do~L`AI]BHRYg]mfzB@ij`@@ !B?`Bw@h`Bmww~@Ox@bOrH?Hc}?g~H?Hc}bOs~_p,,EN300-264458,Enamine,229.66,propan-2-yl N-(3-chloro-4-hydroxyphenyl)carbamate,0.1,152,USD,6.714,CC(C)OC(Nc(cc1)cc(Cl)c1O)=O
+do~LINI]BHNPnP^Pz]yIf^VzXXHHfj@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@k]}@k_}b@,,EN300-7390503,Enamine,241.55,2-chloro-6-nitro-4-(trifluoromethyl)phenol,0.1,39,USD,10,[O-][N+](c1cc(C(F)(F)F)cc(Cl)c1O)=O
+do~JaFJUNpbFe^rJJJYSF[a`bAih@@ !B?`Bw@h`Bmww~@Ha}?`BH@oy?b@K~@K\Bb@K~@@,,EN300-7418818,Enamine,231.59,methyl 4-chloro-3-hydroxy-5-nitrobenzoate,0.1,136,USD,0,COC(c(cc1[N+]([O-])=O)cc(O)c1Cl)=O
+do~JaNI]NpbNg^rJJKQJZUa``bYh@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?g~H@k\Bb@K~@@,,EN300-24835586,Enamine,231.59,methyl 3-chloro-4-hydroxy-5-nitrobenzoate,0.5,19,USD,10,COC(c(cc1[N+]([O-])=O)cc(Cl)c1O)=O
+do~HPEHHbXaIf^_Z[hHBjj@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@K~@Ox@@Oy??`,,EN300-164147,Enamine,248.15,"2-[(tert-butylamino)methyl]-4,6-dichlorophenol",0.1,257,USD,0.125,CC(C)(C)NCc1cc(Cl)cc(Cl)c1O
+do~D`EJPbDfYwnYn``Ijh@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@Ha}bOrw?@,,EN300-119370,Enamine,227.69,3-chloro-4-hydroxy-N-methyl-N-(propan-2-yl)benzamide,0.1,152,USD,0.102,CC(C)N(C)C(c(cc1)cc(Cl)c1O)=O
+do|JpDp{\Hb@bXcHiCDeEeAVV@Hi`@@ !B?K^w_PJwb@JH__x@b@JH@ha}?`C~@H`Bb@Jw@`,,EN300-6504497,Enamine,271.08,3-chloro-5-(chlorosulfonyl)-2-hydroxybenzoic acid,0.1,98,USD,10,OC(c1cc(S(Cl)(=O)=O)cc(Cl)c1O)=O
+do|JpBt{\Hc`aYAIf^VnXXHHiV@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?[^H_PJHb@Jw@`,,EN300-727193,Enamine,254.62,3-chloro-5-(fluorosulfonyl)-4-hydroxybenzoic acid,0.1,241,USD,10,OC(c(cc1S(F)(=O)=O)cc(Cl)c1O)=O
+do|JpDsk\Hb@aXcHiCEEhcIvVBBI`@@ !B@hbH_PJHmpJw__x@?g~w@k\Bmww~@Ox@b@Jw@`,,EN300-77836,Enamine,271.08,3-chloro-5-(chlorosulfonyl)-4-hydroxybenzoic acid,0.1,32,USD,10,OC(c(cc1Cl)cc(S(Cl)(=O)=O)c1O)=O
+do|BpDsSBH`HfHrJPqIQYXUe`BJh@@ !B?K^w_PJwb@JH__x@b@JH@ha}?`C~@H`Bb@K~@@,,EN300-6493431,Enamine,271.12,3-chloro-5-ethoxy-4-hydroxybenzene-1-sulfonyl chloride,0.1,396,USD,5.38,CCOc1cc(S(Cl)(=O)=O)cc(Cl)c1O
+do|B`B[SBHrJJJZEPka`bBfh@@ !BmpK~@K]}b@Jw@oy?mpJw__x@mpJw@h`B?`BH?@,,EN300-30208756,Enamine,230.65,"ethyl 3-chloro-2,4-dihydroxy-6-methylbenzoate",0.1,277,USD,10,CCOC(c(c(O)c1Cl)c(C)cc1O)=O
+dmvLaAJUBHFUyIf]yn``I`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@H,,EN300-18946,Enamine,173.55,2-chloro-4-nitrophenol,0.25,19,USD,10,[O-][N+](c(cc1)cc(Cl)c1O)=O
+dmvLaNJUBHzUyIf^ya``a`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[\Bb@H,,EN300-105512,Enamine,173.55,2-chloro-6-nitrophenol,0.25,19,USD,10,[O-][N+](c1cccc(Cl)c1O)=O
+dmvLaAJUBHFUyIf_Yn``I`@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@H,,EN300-49224,Enamine,173.55,2-chloro-5-nitrophenol,0.25,19,USD,10,[O-][N+](c(cc1)cc(O)c1Cl)=O
+dmvHpBDHahaXcHhhii^fBHb@@ !Bmwvw@oy??`Bw_Xa}mwvw@oy?mwt,,EN300-119075,Enamine,212.46,"2-amino-3,4,6-trichlorophenol",0.1,152,USD,6.067,Nc(c(O)c(cc1Cl)Cl)c1Cl
+dmvH`IHHaIf[ya``b`@@ !Bmww~_{\BbGvw_[]}?`Bw@k\Bb@H,,EN300-257285,Enamine,171.63,3-(1-aminoethyl)-2-chlorophenol,0.1,366,USD,0.047,CC(c1cccc(O)c1Cl)N
+dmvH`IHHaIf]un``J`@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`@,,EN300-1966593,Enamine,171.63,2-chloro-4-[(methylamino)methyl]phenol,0.1,136,USD,0,CNCc(cc1)cc(Cl)c1O
+dmvH`EHHaIf]Un``Jp@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@b@H,,EN300-1698891,Enamine,167.6,5-chloro-4-hydroxy-2-methylbenzonitrile,0.1,337,USD,2.581,Cc(c(C#N)c1)cc(O)c1Cl
+dmvH`EHHaIf[}a``bp@@ !Bmww~_{\BbGvw_[]}?`Bw@h`BbOp,,EN300-3199031,Enamine,167.6,2-(2-chloro-3-hydroxyphenyl)acetonitrile,0.1,241,USD,10,N#CCc1cccc(O)c1Cl
+dmvHPNHHaYAIf^]a``b`@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-6759109,Enamine,175.59,2-amino-6-chloro-3-fluoro-4-methylphenol,0.1,723,USD,2.77,Cc(c(F)c1N)cc(Cl)c1O
+dmvHPEHHbYAIf^Ua``bp@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}?`@,,EN300-295409,Enamine,171.56,3-chloro-5-fluoro-2-hydroxybenzonitrile,0.1,257,USD,6.305,N#Cc1cc(F)cc(Cl)c1O
+dmvHPEHLShcHhhmDVFBBK@@ !BmpJw__x@?g~w@k\Bmww~@Ox@?`@,,EN300-3186167,Enamine,232.46,3-bromo-5-chloro-4-hydroxybenzonitrile,0.1,83,USD,10,N#Cc(cc1Cl)cc(Br)c1O
+dmvHPEHHbPaIf]yn``I`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@H,,EN300-1231830,Enamine,187.65,3-chloro-4-hydroxybenzene-1-carbothioamide,0.1,129,USD,10,NC(c(cc1)cc(Cl)c1O)=S
+dmvHPAXHbXaIfY[e`bN@@@ !Bmwvw@oy??`Bw_Xa}mww~@K\B?g|,,EN300-7396367,Enamine,188.01,"2,6-dichloro-3-hydroxybenzonitrile",0.1,122,USD,10,N#Cc(c(Cl)ccc1O)c1Cl
+dmvD`EJPbDfY{fFBBF@@ !BmpK~@K]}b@Jw@k\B?`Bw_[\Bb@H,,EN300-6771457,Enamine,171.58,3-chloro-2-hydroxybenzamide,0.1,151,USD,8.611,NC(c1cccc(Cl)c1O)=O
+dmvD`EJPbDfYwfzB@f@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@H,,EN300-206411,Enamine,171.58,3-chloro-4-hydroxybenzamide,0.1,45,USD,10,NC(c(cc1)cc(Cl)c1O)=O
+dmuHPIT`bAdDfYuvzB@j@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@b@H,,EN300-6769035,Enamine,176.58,2-chloro-4-fluoro-5-hydrazinylphenol,0.1,366,USD,10,NNc(c(F)c1)cc(O)c1Cl
+dmtL`BePbDfYwfzB@f@@ !BmpJw__x@?g~w@k\B?`C~@H`BmpH,,EN300-21598,Enamine,172.57,3-chloro-4-hydroxybenzoic acid,0.25,19,USD,10,OC(c(cc1)cc(Cl)c1O)=O
+dmtL`BePbDfYmnFBHF@@ !Bmww~_{\BbGvw__x@mwvw@h`BmpH,,EN300-123515,Enamine,172.57,2-chloro-3-hydroxybenzoic acid,0.1,40,USD,7.979,OC(c1cccc(O)c1Cl)=O
+dmtL`BePbDfYoVFBBF@@ !Bmww~_{\BbGvw_[]}?`Bw@h`Bmwt,,EN300-7726659,Enamine,172.57,"2-chloro-3,5-dihydroxybenzaldehyde",0.1,515,USD,1.661,Oc(cc1C=O)cc(O)c1Cl
+dmtL`ByPbLbbbtQXXHHd@@ !BmpJw__x@?g~w@k\Bmww~@Ox@b@H,,EN300-12031,Enamine,172.57,"3-chloro-4,5-dihydroxybenzaldehyde",0.1,83,USD,10,Oc1cc(C=O)cc(Cl)c1O
+dmtL`BEPbDfYnvfBBa@@ !Bmww~_{\BbGvw_[]}?`C~_{\Bb@H,,EN300-6767999,Enamine,172.57,"2-chloro-3,4-dihydroxybenzaldehyde",0.1,96,USD,10,Oc1ccc(C=O)c(Cl)c1O
+dmtL`BePbDfY}fzB@f@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BmpH,,EN300-101007,Enamine,172.57,4-chloro-3-hydroxybenzoic acid,0.25,19,USD,10,OC(c(cc1)cc(O)c1Cl)=O
+dmtL`BePbDfY{fFBBF@@ !BmpK~@K]}b@Jw@k\B?`Bw_X`BmpH,,EN300-50295,Enamine,172.57,3-chloro-2-hydroxybenzoic acid,0.25,19,USD,10,OC(c1cccc(Cl)c1O)=O
+dmtLPBePbNhDfYofFBBJ@@ !Bmww~_{\BbGvw_[]}?`Bw@h`BmpH,,EN300-121926,Enamine,172.38,(2-chloro-3-hydroxyphenyl)boronic acid,0.1,203,USD,10,OB(c1cccc(O)c1Cl)O
+dmtLPBePbAhDfY}fzB@j@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BmpH,,EN300-6768332,Enamine,172.38,(4-chloro-3-hydroxyphenyl)boronic acid,0.1,351,USD,0,OB(c(cc1)cc(O)c1Cl)O
+dmtLPBePbAhDfYwfzB@j@@ !BmpJw__x@?g~w@k\B?`C~@H`BmpH,,EN300-1704508,Enamine,172.38,(3-chloro-4-hydroxyphenyl)boronic acid,0.1,138,USD,0,OB(c(cc1)cc(Cl)c1O)O
+dmtHpBBHFPVHRYfyZXHJH@@ !Bmww~_{\BbGvw_[]}?`C~_{\BmpH,,EN300-7426425,Enamine,195.02,"2,4-dichloro-6-fluoro-3-methylphenol",0.1,241,USD,5.59,Cc(c(Cl)c(c(F)c1)O)c1Cl
+dmtHpACDXHVHRYVUkh@bh@@ !Bb@K~@Ha}b@JH@ox@bGvH_X`Bb@H,,EN300-28317893,Enamine,253.55,5-bromo-2-chloro-3-(methylsulfanyl)phenol,0.1,644,USD,0.369,CSc(cc(cc1O)Br)c1Cl
+dmtD`BxHaIf^Ua``b`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@H,,EN300-6812345,Enamine,172.61,2-chloro-6-methoxy-4-methylphenol,0.1,241,USD,10,Cc(cc1OC)cc(Cl)c1O
+dmtD`BdHaIf_Yn``I`@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@H,,EN300-179326,Enamine,170.6,1-(4-chloro-3-hydroxyphenyl)ethan-1-one,0.1,337,USD,0.429,CC(c(cc1)cc(O)c1Cl)=O
+dmtD`BdHcHhhmDVzB@j@@ !BmpJw__x@?g~w@k\B?`Bw__x@b@H,,EN300-262276,Enamine,172.61,2-chloro-4-methoxy-6-methylphenol,0.1,535,USD,2.71,Cc1cc(OC)cc(Cl)c1O
+dmtD`BdHaIf]yn``I`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@H,,EN300-78388,Enamine,170.6,1-(3-chloro-4-hydroxyphenyl)ethan-1-one,0.1,19,USD,10,CC(c(cc1)cc(Cl)c1O)=O
+dmtD`BTHaIf]un``J`@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`@,,EN300-1702915,Enamine,172.61,2-chloro-4-(2-hydroxyethyl)phenol,0.1,132,USD,10,OCCc(cc1)cc(Cl)c1O
+dmtD`BTHcHhhmDVzB@i@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}?g|,,EN300-6777502,Enamine,170.6,3-chloro-4-hydroxy-5-methylbenzaldehyde,0.1,135,USD,10,Cc1cc(C=O)cc(Cl)c1O
+dmtD`BTHaIf^]n``JP@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@H,,EN300-200900,Enamine,170.6,3-chloro-2-hydroxy-5-methylbenzaldehyde,0.1,62,USD,10,Cc(cc1C=O)cc(Cl)c1O
+dmtD`BTHaIf^un``JP@@ !B?`BH@k\BbGw~@Ox@mpJH@ox@?`@,,EN300-1249149,Enamine,170.6,3-chloro-2-hydroxy-6-methylbenzaldehyde,0.1,152,USD,10,Cc(cc1)c(C=O)c(O)c1Cl
+dmtD`BDHaIf[ei``h`@@ !BmpJw__x@?g~w@k\Bb@Jw__x@?`@,,EN300-6812554,Enamine,172.61,"3-chloro-4,5-dimethylbenzene-1,2-diol",0.1,644,USD,0.577,Cc(cc1O)c(C)c(Cl)c1O
+dmtDPNTLPhcHhhmBfFBBI@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@b@H,,EN300-6495917,Enamine,235.46,4-bromo-3-chloro-2-hydroxybenzaldehyde,0.1,241,USD,10,Oc1c(C=O)ccc(Br)c1Cl
+dmtDPITLQhaIeYvn`BJP@@ !Bb@JH__x@b@JH@ha}?`C~@H`Bb@H,,EN300-30918,Enamine,235.46,5-bromo-3-chloro-2-hydroxybenzaldehyde,0.1,35,USD,10,Oc(c(C=O)cc(Br)c1)c1Cl
+dmtDPITLQhaIeYvn`BJ`@@ !Bb@JH__x@b@JH@ha}?`C~@H`Bb@H,,EN300-6776562,Enamine,237.48,4-bromo-2-chloro-6-(hydroxymethyl)phenol,0.1,176,USD,10,OCc1cc(Br)cc(Cl)c1O
+dmtDPBxHbYAIf^Ua``b`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@H,,EN300-27722216,Enamine,176.57,2-chloro-4-fluoro-6-methoxyphenol,0.1,277,USD,10,COc1cc(F)cc(Cl)c1O
+dmtDPBdHchcHhhmDVFBBJ@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-261717,Enamine,193.03,"2,6-dichloro-4-methoxyphenol",0.1,212,USD,1.997,COc(cc1Cl)cc(Cl)c1O
+dmtDPBTLShcHhhmDVFBBI@@ !BmpJw__x@?g~w@k\Bmww~@Ox@b@H,,EN300-7418405,Enamine,235.46,3-bromo-5-chloro-4-hydroxybenzaldehyde,0.25,19,USD,10,Oc(c(Cl)cc(C=O)c1)c1Br
+dmtDPBTHbYAIf^un``JP@@ !Bb@K~@Ha}mpJH@h`BbGw~@H`Bb@H,,EN300-5025528,Enamine,174.56,3-chloro-6-fluoro-2-hydroxybenzaldehyde,0.1,87,USD,3.967,Oc(c(C=O)c(cc1)F)c1Cl
+dmtDPBTHchcHhhmDVFBBI@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-307613,Enamine,191.01,"3,5-dichloro-4-hydroxybenzaldehyde",0.25,19,USD,10,Oc(c(Cl)cc(C=O)c1)c1Cl
+dmtDPBTHciCHhhmDVFBBI@@ !BmpJw__x@?g~w@k\Bmww~@Ox@b@H,,EN300-255185,Enamine,174.56,3-chloro-5-fluoro-4-hydroxybenzaldehyde,0.25,19,USD,10,Oc(c(F)cc(C=O)c1)c1Cl
+dmtDPBTHbYAIf]Un``JP@@ !Bb@JH__x@?g~H@h`B?`C~@H`Bb@H,,EN300-134044,Enamine,174.56,5-chloro-2-fluoro-4-hydroxybenzaldehyde,0.1,46,USD,0.158,Oc(cc(c(C=O)c1)F)c1Cl
+dmtDPBTHbXaIf^un``JP@@ !Bb@K~@Ha}mpJH@h`BbGw~@H`Bb@H,,EN300-257092,Enamine,191.01,"3,6-dichloro-2-hydroxybenzaldehyde",0.1,96,USD,10,Oc(c(C=O)c(cc1)Cl)c1Cl
+dmtDPBTHbXaIf^]n``JP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@H,,EN300-21561,Enamine,191.01,"3,5-dichloro-2-hydroxybenzaldehyde",0.5,19,USD,10,Oc(c(C=O)cc(Cl)c1)c1Cl
+dmtDPBTHbXaIf[Ua``bP@@ !Bmww~_{\BbGvw_[]}?`Bw@k\Bb@H,,EN300-1086816,Enamine,191.01,"2,6-dichloro-3-hydroxybenzaldehyde",0.1,84,USD,10,Oc(ccc(Cl)c1C=O)c1Cl
+dmtDPBTHbXaIf]Un``JP@@ !Bb@JH__x@?g~H@h`B?`C~@H`Bb@H,,EN300-119344,Enamine,191.01,"2,5-dichloro-4-hydroxybenzaldehyde",0.1,196,USD,10,Oc(cc(c(C=O)c1)Cl)c1Cl
+dmtDPBTHahcHhhii^FBHI@@ !BmpK~@K]}b@Jw@oy?mpJw__x@b@H,,EN300-1249144,Enamine,191.01,"3,4-dichloro-2-hydroxybenzaldehyde",0.1,211,USD,10,Oc(c(C=O)ccc1Cl)c1Cl
+dmtDPBDHaXcHhhiiVfBBb@@ !Bmww~_{\BbGvw_[]}?`C~_{\Bmwt,,EN300-6812317,Enamine,193.03,"3,6-dichloro-4-methylbenzene-1,2-diol",0.1,481,USD,10,Cc(c(Cl)c1O)cc(Cl)c1O
+dmtDPBDHaXcHhhdiVfBBb@@ !BbGvH@oy??`BH_Xa}b@JH@oy?bGt,,EN300-6812434,Enamine,193.03,"3,6-dichloro-2-methoxyphenol",0.1,298,USD,5.317,COc(c(O)c(cc1)Cl)c1Cl
+dmtDPATLRXaIfUUn`HF`@@ !Bmwvw@oy?mww~@K]}?g~H@oy?mwt,,EN300-2008408,Enamine,235.46,2-bromo-4-chloro-5-hydroxybenzaldehyde,0.1,326,USD,1.967,Oc(c(Cl)c1)cc(C=O)c1Br
+dmVHpBXH`XaXaIf[ci`bH@@ !Bmwvw@oy??`Bw_Xa}mwvw@oy?veD,,EN300-7374781,Enamine,214.48,"3-amino-2,4-dichlorophenol hydrochloride",0.1,30,USD,10,Nc(c(Cl)ccc1O)c1Cl.Cl
+dmVHPEhLRHaAYfi``b@@ !BqVzw__y?mpJH?[_}m?w~@K_|b@H,,EN300-37374443,Enamine,238.51,3-(aminomethyl)-2-chlorophenol hydrobromide,0.1,457,USD,10,NCc1cccc(O)c1Cl.Br
+dmVHPIHHaXaIf_Qn``J@@ !B?`BH?K_|bOw~@Ox@m?s~@H`B?Kh,,EN300-26204141,Enamine,194.06,5-(aminomethyl)-2-chlorophenol hydrochloride,0.1,34,USD,10,NCc(cc1)cc(O)c1Cl.Cl
+dmVHPEhLRHaAYg_a``J@@ !BqXfw?K_}?`C~_{_|m?s~@Ox@b@H,,EN300-370539,Enamine,238.51,4-(aminomethyl)-2-chlorophenol hydrobromide,0.1,272,USD,10,NCc(cc1)cc(Cl)c1O.Br
+dmVHPIHHaXcHhhmBFzB@h@@ !Bm?s~@K_}b@Jw@k_|m?w~@H`BvaX,,EN300-736126,Enamine,194.06,2-(aminomethyl)-6-chlorophenol hydrochloride,0.1,252,USD,10,NCc1cccc(Cl)c1O.Cl
+dmVHPAHHaXaIf]Qn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@[Oh,,EN300-1719770,Enamine,194.06,4-amino-2-chloro-5-methylphenol hydrochloride,0.1,117,USD,10,Cc(c(N)c1)cc(O)c1Cl.Cl
+dmLL`BFPbDfYuVzU``Jb@@ !BbGw~_x`BmwvH_Xa}b@I`FfAeKF\,,EN300-1588900,Enamine,172.57,"6-chloro-1,3-dioxaindan-5-ol",0.1,257,USD,10,Oc(cc1OCOc1c1)c1Cl
+dmLL`BYPbDfYm^FU`bBb@@ !B?g~w_Xa}mpK~_v@Z?g~H_RqgXFT,,EN300-7741562,Enamine,172.57,"4-chloro-1,3-dioxaindan-5-ol",0.1,306,USD,10,Oc(ccc1c2OCO1)c2Cl
+dmLL`ByPbDfY{VFU``bb@@ !BbGvH@oy??`BH_Xa}XAk~_rqgXFT,,EN300-6793393,Enamine,172.57,"5-chloro-1,3-dioxaindan-4-ol",0.1,306,USD,9.484,Oc(c1c(cc2)OCO1)c2Cl
+dmLH`BBHRYg^[iVB@jH@@ !Bmwvw@oy??`Bw_[_}?g?~_wvw@k\,,EN300-222515,Enamine,168.62,2-chloro-4-cyclopropylphenol,0.1,366,USD,2.932,Oc(ccc(C1CC1)c1)c1Cl
+dmLHPBBHdHRYfuXYVBBIH@@ !B?g~w_Xa}mpK~_?y?XAjH_VAeKF\,,EN300-6812377,Enamine,184.65,4-chloro-1-benzothiophen-5-ol,0.1,505,USD,4.513,Oc(ccc1c2cc[s]1)c2Cl
+dknLqBFUBHZHNHJY{Hhhhhi~vBHZH@@ !Bmwvw@oy??`Bw_Xa}mwvw@h`BmpK~_{]},,EN300-117188,Enamine,242.45,"3,4,6-trichloro-2-nitrophenol",0.1,34,USD,8.117,[O-][N+](c(c(O)c(cc1Cl)Cl)c1Cl)=O
+dknLpIx]BHHHNHrJJIRIUe``VJ@@ !Bmwvw@oy??`Bw_[]}@Oy??ox@?g?~_{]},,EN300-280811,Enamine,242.08,"2,5-dichloro-4-hydroxybenzene-1-sulfonamide",0.1,376,USD,10,NS(c(cc(c(O)c1)Cl)c1Cl)(=O)=O
+dknLpCI]BHzHdHrJJKQFQa``bV@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@@Oy??ox@,,EN300-278362,Enamine,242.08,"3,5-dichloro-4-hydroxybenzene-1-sulfonamide",0.1,426,USD,0.799,NS(c(cc1Cl)cc(Cl)c1O)(=O)=O
+dknLpCE]BHJHXHRYfyki`bHV@@ !Bmww~_{\BbGvw__x@mww~_{\B@Oy??ox@,,EN300-280809,Enamine,242.08,"2,3-dichloro-4-hydroxybenzene-1-sulfonamide",0.1,470,USD,3.19,NS(c(c(Cl)c1Cl)ccc1O)(=O)=O
+dknLpCe]CDZHDHRYV]jn`BJV@@ !Bb@JH__x@b@JH@ha}?`C~@H`B@Oy??ox@,,EN300-280803,Enamine,286.53,5-bromo-3-chloro-2-hydroxybenzene-1-sulfonamide,0.1,306,USD,6.64,NS(c1cc(Br)cc(Cl)c1O)(=O)=O
+dknLpCI]BHxHfHRYgeia``bV@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}@Oy??ox@,,EN300-7536725,Enamine,242.08,"3,5-dichloro-2-hydroxybenzene-1-sulfonamide",0.1,110,USD,10,NS(c1cc(Cl)cc(Cl)c1O)(=O)=O
+dknL`NI]BHrJJKQFYa``bZ@@ !BmpJw__x@?g~w@k\Bmww~@Ox@mpJH@ox@,,EN300-8225581,Enamine,201.61,methyl 3-amino-5-chloro-4-hydroxybenzoate,0.1,68,USD,10,COC(c(cc1N)cc(Cl)c1O)=O
+dknL`FI]BHrJJJZFGi`bHZ@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}mpJH@ox@,,EN300-177149,Enamine,201.61,methyl 4-amino-3-chloro-2-hydroxybenzoate,0.1,347,USD,10,COC(c(c(O)c1Cl)ccc1N)=O
+dknHPChLRHaAYgU^GS``Jh`@ !Bq_Fw@ox@mwvH@k\BmpJw_[]}mpJw@k]},,EN300-27118140,Enamine,264.55,"6-chloro-1,2,3,4-tetrahydroisoquinolin-7-ol hydrobromide",0.1,457,USD,10,Oc(cc(CNCC1)c1c1)c1Cl.Br
+dknHHNHHaYCY@yCHhhmDYFFBBJh@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mwtBm?vH,,EN300-7361372,Enamine,211.57,2-amino-6-chloro-4-(trifluoromethyl)phenol,0.1,54,USD,7.218,Nc1cc(C(F)(F)F)cc(Cl)c1O
+dknHPAhLRHaAYgm^gS``@@@@ !Bq]Fw@k]}?`C~_{\BmpJw__x@mpJw@ox@,,EN300-6740841,Enamine,260.52,7-chloroquinolin-8-ol hydrobromide,0.1,54,USD,10,Oc(c(nccc1)c1cc1)c1Cl.Br
+dknD`MK`bDfYy]XXHHk`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw__x@,,EN300-11609,Enamine,197.62,3-chloro-5-ethoxy-4-hydroxybenzonitrile,0.1,202,USD,10,CCOc1cc(C#N)cc(Cl)c1O
+dklLpFtpbBbAbLbbbffLzXHbI`@@ !BmpJw__x@?g~w@h`BmpJw__x@?`BH@k\B,,EN300-8173582,Enamine,241.46,"3,4,5-trichloro-2-hydroxybenzoic acid",0.1,426,USD,1.851,OC(c(cc(c(Cl)c1Cl)Cl)c1O)=O
+dklLpDs`bHBEbLbdLTVbgYXHH`@@ !B?K^w_PJwb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-199038,Enamine,241.09,3-chloro-2-hydroxy-5-methylbenzene-1-sulfonyl chloride,0.1,868,USD,0,Cc(cc1Cl)cc(S(Cl)(=O)=O)c1O
+dklLpAWPbFbCbLbbbbbezXBbF`@@ !Bmwvw@oy?mww~@Ha}mwvw@oy?b@Jw@k]},,EN300-18160,Enamine,241.46,"2,3,5-trichloro-6-hydroxybenzoic acid",1,19,USD,10,OC(c(c(O)c(cc1Cl)Cl)c1Cl)=O
+dklL`B{PbDfYy]XXHHi`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@ox@,,EN300-07587,Enamine,200.62,3-chloro-5-ethoxy-4-hydroxybenzaldehyde,0.1,20,USD,10,CCOc1cc(C=O)cc(Cl)c1O
+dklL`BtpbDfYwV[hHBi`@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`BH?K_|,,EN300-109533,Enamine,200.62,3-(3-chloro-4-hydroxyphenyl)propanoic acid,0.1,277,USD,0.661,OC(CCc(cc1)cc(Cl)c1O)=O
+dklL`BtpbDfYovXXHHi`@@ !Bmww~_{\BbGvw_[]}?`Bw@h`B?`BH?K_|,,EN300-5067594,Enamine,200.62,3-(2-chloro-3-hydroxyphenyl)propanoic acid,0.1,241,USD,10,OC(CCc1cccc(O)c1Cl)=O
+dklL`BWPbLbbbfQfXXHHf`@@ !BmpJw__x@?g~w@k\Bb@K~@Ox@mpJH@ox@,,EN300-31010711,Enamine,200.62,methyl 3-chloro-4-hydroxy-2-methylbenzoate,0.1,287,USD,10,Cc(c(Cl)c(cc1)O)c1C(OC)=O
+dklL`BWPbDfYo{XXHHf`@@ !Bmww~_{\BbGvw_[]}?`Bw@h`BbGw~@Hc|,,EN300-8160086,Enamine,200.62,methyl 2-(2-chloro-3-hydroxyphenyl)acetate,0.1,241,USD,10,COC(Cc1cccc(O)c1Cl)=O
+dklLPBtpbIbLbbbfRLXXHHi`@@ !Bmww~_{\BbGvw_[]}?`Bw@k\Bb@K~@Ha},,EN300-6477300,Enamine,221.04,"2-(2,6-dichloro-3-hydroxyphenyl)acetic acid",0.1,466,USD,3.593,OC(Cc(c(Cl)c(cc1)O)c1Cl)=O
+dklLPBtpbIbDfYy~[hHBi`@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@K~@Ha},,EN300-380665,Enamine,221.04,"2-(3,5-dichloro-2-hydroxyphenyl)acetic acid",0.1,156,USD,0,OC(Cc1cc(Cl)cc(Cl)c1O)=O
+dklLPBWPqNbLbbbtQfXXHHf`@@ !BmpJw__x@?g~w@k\Bmww~@Ox@mpJH@ox@,,EN300-342134,Enamine,265.49,methyl 3-bromo-5-chloro-4-hydroxybenzoate,0.1,20,USD,10,COC(c(cc1Cl)cc(Br)c1O)=O
+dklLPBWPbNbLbbbtQfXXHHf`@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@ox@,,EN300-49254,Enamine,221.04,"methyl 3,5-dichloro-4-hydroxybenzoate",0.5,19,USD,10,COC(c(cc1Cl)cc(Cl)c1O)=O
+dklLPBWPbAbDfYu{[hHBf`@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@mpJH@ox@,,EN300-20921370,Enamine,221.04,"methyl 2,4-dichloro-5-hydroxybenzoate",0.1,277,USD,10,COC(c(c(Cl)c1)cc(O)c1Cl)=O
+dklLPBWPbIdLbbbtReXXHHf`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@ox@,,EN300-8153052,Enamine,204.58,methyl 3-chloro-5-fluoro-2-hydroxybenzoate,0.1,241,USD,10,COC(c1cc(F)cc(Cl)c1O)=O
+dklLHItpqFbABEbDfUgZkh@biP@@ !Bb@JH__x@b@JH@ha}?`C~@H`B_?{~@@C~,,EN300-282387,Enamine,305.96,5-bromo-3-chloro-2-hydroxybenzene-1-sulfonyl chloride,0.1,257,USD,8.722,Oc(c(S(Cl)(=O)=O)cc(Br)c1)c1Cl
+dklLHDs`bHBEbCbLbdLTVbgYXHH`@@ !B@O{~@@C~?g~H_[]}b@K~_?y?bGvw_[]},,EN300-725114,Enamine,261.51,"3,5-dichloro-2-hydroxybenzene-1-sulfonyl chloride",0.5,19,USD,10,Oc(c(Cl)cc(Cl)c1)c1S(Cl)(=O)=O
+dklLHDppbHBIbMbLbdLRTVEYX@b`@@ !B@O{~@@C~?g~w_Xa}?g?~_{]}bGvH__y?,,EN300-271004,Enamine,261.51,"3,5-dichloro-4-hydroxybenzene-1-sulfonyl chloride",1,19,USD,10,Oc(c(Cl)cc(S(Cl)(=O)=O)c1)c1Cl
+dklLHBtpqNbIBEbLbbbtQdXXHHiP@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@_?{~@@C~,,EN300-33051453,Enamine,305.96,3-bromo-5-chloro-4-hydroxybenzene-1-sulfonyl chloride,0.1,347,USD,10,Oc(c(Cl)cc(S(Cl)(=O)=O)c1)c1Br
+dklLHBtpbNbIBEdLbbbtQdXXHHiP@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@_?{~@@C~,,EN300-22863177,Enamine,245.06,"3,5-dichloro-4-hydroxybenzene-1-sulfonyl fluoride",0.1,98,USD,8.916,Oc(c(Cl)cc(S(F)(=O)=O)c1)c1Cl
+dklLHDppbHBNbMbLbdLTVReYXHB`@@ !B@O{~@@C~?g~H_[]}b@K~_?y?mwvw__y?,,EN300-199042,Enamine,261.51,"2,5-dichloro-4-hydroxybenzene-1-sulfonyl chloride",0.1,342,USD,5.669,Oc(c(Cl)c1)cc(Cl)c1S(Cl)(=O)=O
+dklLHBtpbNBIbEdDfYyZXXHHiP@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}_?{~@@C~,,EN300-6485398,Enamine,245.06,"3,5-dichloro-2-hydroxybenzene-1-sulfonyl fluoride",0.1,113,USD,10,Oc(c(S(F)(=O)=O)cc(Cl)c1)c1Cl
+dklHhFBHJHVPvPNPrJJJZVSa`bBj@@ !Bmww~_{\BbGvw__x@mwvw@oy??g|@?g?~,,EN300-20921375,Enamine,231,"2,3-dichloro-4-(trifluoromethyl)phenol",0.1,257,USD,10,Oc1ccc(C(F)(F)F)c(Cl)c1Cl
+dklHhBBHDHVPvPNPRYg]in``Jj@@ !Bmwvw@oy??`Bw_[]}?g?~_{_}m?tBm?vH,,EN300-746628,Enamine,228.62,2-chloro-4-[(trifluoromethyl)sulfanyl]phenol,0.1,317,USD,10,Oc(ccc(SC(F)(F)F)c1)c1Cl
+dklH`BBHRYg^en``Jj@@ !BmpJw__x@?g~w@k\B?`C~@Ox@@Oy??h`B,,EN300-110533,Enamine,198.69,2-chloro-4-(2-methylbutan-2-yl)phenol,0.25,19,USD,10,CCC(C)(C)c(cc1)cc(Cl)c1O
+dklDPBTHbXcHhhmDiVFBBIh@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@ox@,,EN300-08141,Enamine,219.07,"1-(3,5-dichloro-2-hydroxyphenyl)propan-1-one",0.1,61,USD,9.474,CCC(c1cc(Cl)cc(Cl)c1O)=O
+dklDPBTHahcHhhihX^fBHah@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}mpJH@ox@,,EN300-70341,Enamine,219.07,"1-(3,4-dichloro-2-hydroxyphenyl)propan-1-one",0.1,98,USD,2.05,CCC(c(c(O)c1Cl)ccc1Cl)=O
+dklB`Be]BHRYgema``bZ@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@K~_x`B,,EN300-124324,Enamine,202.59,3-chloro-2-hydroxy-5-methoxybenzoic acid,0.1,366,USD,10,COc(cc1C(O)=O)cc(Cl)c1O
+dklB`B{SBHRYgeya``bf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@oy?,,EN300-14822,Enamine,202.59,3-chloro-4-hydroxy-5-methoxybenzoic acid,0.25,19,USD,10,COc1cc(C(O)=O)cc(Cl)c1O
+dklBPFE]BHNHrJJJJJWi`JHZ@@ !Bmwvw@oy?mww~@Ha}mwvw@oy?b@Jw@k]},,EN300-138962,Enamine,223.01,"2,5-dichloro-3,6-dihydroxybenzoic acid",0.1,156,USD,10,OC(c(c(O)c(cc1O)Cl)c1Cl)=O
+dklBPBe]BHF`RYggen``Jj@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@K~_x`B,,EN300-305702,Enamine,202.4,(3-chloro-2-hydroxy-5-methoxyphenyl)boronic acid,0.1,783,USD,0,COc(cc1B(O)O)cc(Cl)c1O
+dklBPBWSCDfHRYgeYn``Jf@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}mpJH@k\B,,EN300-27114387,Enamine,267.46,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid",0.1,188,USD,4.608,OC(c(c(O)c(cc1Cl)Br)c1O)=O
+dk^L`IISBHrJJKIJEngXHBfR@@ !BbOs~@Hc}m?rH?Hc|bGu`YV@ZFa|lF@C~,,EN300-301950,Enamine,197.58,"5-chloro-6-hydroxy-2,3-dihydro-1H-indole-2,3-dione",0.1,152,USD,10,Oc(cc(c(C1=O)c2)NC1=O)c2Cl
+dk^H`MHHaIf]yV{S``JjH@@ !Bmwvw@oy??`Bw_[]}?g?~_qaSYuMeGqh_,,EN300-1968704,Enamine,197.66,2-chloro-4-(pyrrolidin-3-yl)phenol,0.1,347,USD,1.565,Oc(ccc(C1CNCC1)c1)c1Cl
+dk^H`IHHaIf^Uv{S``B@@@@ !Bmwvw@oy??`Bw_[_}?g~w@oy?m?vw_[_|,,EN300-315816,Enamine,193.63,4-amino-2-chloronaphthalen-1-ol,0.1,317,USD,10,Nc(c1c2cccc1)cc(Cl)c2O
+dk^HPNHHbXaIf^UvGS``B@@@@ !Bm?rw?_x@?g~w?K\Bm?w~@Ox@m?rw@ox@,,EN300-207135,Enamine,214.05,"5,7-dichloroquinolin-8-ol",0.5,19,USD,10,Oc(c(nccc1)c1c(Cl)c1)c1Cl
+dk\HPCCDVHrJIJYJFfgX@@H`@@ !BbOvH?Oy?bOvH?_y?bOrH?Xc}?g~H?Hc},,EN300-26285368,Enamine,257.51,6-bromo-1-chloronaphthalen-2-ol,0.1,83,USD,10,Oc(ccc1c2ccc(Br)c1)c2Cl
+dkNLPAkSCDbHpIQQZESi``bX@@ !BYvfH@ox@bGvw@h`Bb@K~@Ha}b@JH__x@,,EN300-2347423,Enamine,268.49,2-amino-4-chloro-3-hydroxybenzoic acid hydrobromide,0.1,105,USD,4.064,Nc(c(O)c(cc1)Cl)c1C(O)=O.Br
+dkNHpChLRH`Xc@eEEhbnfBBJ`@@ !BVrfH?Hc}?`C~_xc|bOrH?_x@?`BH?Ox@,,EN300-52415391,Enamine,286.98,"4-(2-aminoethyl)-2,6-dichlorophenol hydrobromide",0.1,232,USD,10,NCCc(cc1Cl)cc(Cl)c1O.Br
+dkNHPIHH`xaIf]vFzB@j`@@ !BmpJw?_x@?g~w@k\B?`C~@H`B?`BH?Tif,,EN300-190578,Enamine,222.11,2-chloro-4-[(dimethylamino)methyl]phenol hydrochloride,0.1,232,USD,4.684,CN(C)Cc(cc1)cc(Cl)c1O.Cl
+dkNDPEHPbCbDfYntZXHJJ@@ !BmpK~@K]}b@Jw@k\B?g?~@K]}m?vH?Mkv,,EN300-45722603,Enamine,224.09,3-(aminomethyl)-2-chloro-6-methoxyphenol hydrochloride,0.1,238,USD,10,COc1ccc(CN)c(Cl)c1O.Cl
+difH`NHHaIf^XXHH@@ !BmpK~@K]}b@Jw@k\B?`Bw_P,,EN300-74934,Enamine,143.57,2-amino-6-chlorophenol,0.5,19,USD,10,Nc1cccc(Cl)c1O
+difH`FHHaIf[xXH`@@ !Bmww~_{\BbGvw__x@mwvw@`,,EN300-195771,Enamine,143.57,3-amino-2-chlorophenol,0.1,37,USD,10,Nc1cccc(O)c1Cl
+difH`AHHaIf_[hHB@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-84106,Enamine,143.57,5-amino-2-chlorophenol,0.5,19,USD,10,Nc(cc1)cc(O)c1Cl
+difH`AHHaIf][hHB@@ !BmpJw__x@?g~w@k\B?`C~@@,,EN300-54468,Enamine,143.57,4-amino-2-chlorophenol,0.25,19,USD,10,Nc(cc1)cc(Cl)c1O
+didH`BBHRYgvzB@`@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-20825,Enamine,142.59,2-chloro-5-methylphenol,0.5,19,USD,10,Cc(cc1)cc(O)c1Cl
+didH`BBHRYgVzB@`@@ !BmpJw__x@?g~w@k\B?`C~@@,,EN300-64815,Enamine,142.59,2-chloro-4-methylphenol,0.5,19,USD,10,Cc(cc1)cc(Cl)c1O
+didH`BBHRYfvFBB@@@ !Bmww~_{\BbGvw_[]}?`Bw@`,,EN300-123562,Enamine,142.59,2-chloro-3-methylphenol,0.1,19,USD,10,Cc1cccc(O)c1Cl
+didH`BBHRYgfzB@`@@ !BmpK~@K]}b@Jw@k\Bmww~@@,,EN300-78795,Enamine,142.59,2-chloro-6-methylphenol,1,19,USD,10,Cc1cccc(Cl)c1O
+didHPNCDJHRYgfFBB@@@ !BmpK~@K]}b@Jw@k\B?`Bw_P,,EN300-119394,Enamine,207.45,3-bromo-2-chlorophenol,0.1,20,USD,10,Oc1cccc(Br)c1Cl
+didHPFBHJHRYf~FBH@@@ !Bmww~_{\BbGvw__x@mwvw@`,,EN300-20355,Enamine,163,"2,3-dichlorophenol",1,19,USD,10,Oc1cccc(Cl)c1Cl
+didHPFBlFHrJIJFn`BH@@ !Bb@K~@Ha}b@JH@ox@bGvH@`,,EN300-3187601,Enamine,254.45,2-chloro-5-iodophenol,0.5,19,USD,10,Oc(cc(cc1)I)c1Cl
+didHPFCDFHrJIJFn`BH@@ !Bb@K~@Ha}b@JH@ox@bGvH@`,,EN300-37474,Enamine,207.45,5-bromo-2-chlorophenol,0.25,19,USD,10,Oc(cc(cc1)Br)c1Cl
+didHPBCDzHRYgfFBB@@@ !Bmwvw@oy??`Bw_[]}mpK~_p,,EN300-199809,Enamine,207.45,2-bromo-6-chlorophenol,0.1,19,USD,10,Oc(c(Cl)ccc1)c1Br
+didHPBBlzHRYgfFBB@@@ !Bmwvw@oy??`Bw_[]}mpK~_p,,EN300-3218271,Enamine,254.45,2-chloro-6-iodophenol,0.1,19,USD,10,Oc(c(Cl)ccc1)c1I
+didHPBBHFPRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-115639,Enamine,146.55,2-chloro-5-fluorophenol,0.25,19,USD,10,Oc(cc(cc1)F)c1Cl
+didHPBBHzPRYgfFBB@@@ !Bmwvw@oy??`Bw_[]}mpK~_p,,EN300-122095,Enamine,146.55,2-chloro-6-fluorophenol,1,19,USD,10,Oc(c(F)ccc1)c1Cl
+didHPBBHFHRYgVzB@`@@ !Bmwvw@oy??`Bw_[]}?g?~_p,,EN300-19384,Enamine,163,"2,4-dichlorophenol",0.5,19,USD,10,Oc(ccc(Cl)c1)c1Cl
+didHPBBHzHRYgfFBB@@@ !BbGvH@oy??`BH_Xa}b@K~_p,,EN300-21048,Enamine,163,"2,6-dichlorophenol",1,19,USD,10,Oc(c(Cl)ccc1)c1Cl
+didHPBBHFPRYgVzB@`@@ !Bmwvw@oy??`Bw_[]}?g?~_p,,EN300-21349,Enamine,146.55,2-chloro-4-fluorophenol,0.25,19,USD,10,Oc(ccc(F)c1)c1Cl
+didHPBBHFHRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-20748,Enamine,163,"2,5-dichlorophenol",1,19,USD,10,Oc(cc(cc1)Cl)c1Cl
+didHPBBHDHRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-7144099,Enamine,160.62,2-chloro-5-sulfanylphenol,0.1,515,USD,3.537,Oc(cc(cc1)S)c1Cl
+didHPACDZHrJIJFn`BH@@ !B?`BH@k\B?`C~@H`BmpK~@@,,EN300-18158,Enamine,207.45,4-bromo-2-chlorophenol,1,19,USD,10,Oc(ccc(Br)c1)c1Cl
+didD`BxHaIf^XXHH@@ !BmpK~@K]}b@Jw@k\B?`Bw_P,,EN300-255943,Enamine,144.56,"3-chlorobenzene-1,2-diol",0.1,29,USD,10,Oc1cccc(Cl)c1O
+didD`BDHaIf][hHB@@ !BmpJw__x@?g~w@k\B?`C~@@,,EN300-133981,Enamine,144.56,"2-chlorobenzene-1,4-diol",0.25,19,USD,10,Oc(cc1)cc(Cl)c1O
+didD`BDHaIf_[hHB@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-21163,Enamine,144.56,"4-chlorobenzene-1,3-diol",1,19,USD,10,Oc(cc1)cc(O)c1Cl
+dg~H`MHHaIf]yUnNxHB@@@@ !Bm?vw@oy??`Bw?[_}?g?~_xa}mww~_?y?m?t,,EN300-313105,Enamine,205.64,2-chloro-4-(pyridin-3-yl)phenol,0.1,272,USD,10,Oc(ccc(-c1cnccc1)c1)c1Cl
+dg~HPNHHbXaIf^UyatxH@`H@@ !BbOrH?_x@?g~H?H`BbOw~@Ox@bOrH@ox@bOt,,EN300-19748,Enamine,228.08,"5,7-dichloro-2-methylquinolin-8-ol",1,19,USD,5.716,Cc(cc1)nc2c1c(Cl)cc(Cl)c2O
+dg}H`Al`bDfYweVx{``Jjb@@ !Bm?vw@oy??`Bw?[_}?g?~_{]}bGw~_?y?bOt,,EN300-342303,Enamine,212.68,2-chloro-4-(piperazin-1-yl)phenol,0.1,306,USD,0.02,Oc(ccc(N1CCNCC1)c1)c1Cl
+dg|h`IW[HHaIf]y]ntxHBZhP@ !BosGMsuLXKF^?L[|qTqaSFG?~FfAeXF\l?`@,,EN300-141371,Enamine,210.62,"4-(5-amino-4H-1,2,4-triazol-3-yl)-2-chlorophenol",0.1,272,USD,10,Nc1nnc(-c(cc2)cc(Cl)c2O)[nH]1
+dg|L`BfpbLbbbrRbK\ipPEMI@@ !BbOs~@Hc}m?rH?Hc|bOvH?Xc|bOs~_xc}bOp,,EN300-10318,Enamine,210.62,6-chloro-7-hydroxy-4-methyl-2H-chromen-2-one,0.1,31,USD,10,CC(c(c(O1)c2)cc(Cl)c2O)=CC1=O
+dg|H`BBHRYg^U[cnB@`@@@@ !Bm?vw@oy??`Bw?[_}?g?~_{]}bGw~_?y?bOt,,EN300-21187,Enamine,204.65,2-chloro-4-phenylphenol,1,19,USD,10,Oc(ccc(-c1ccccc1)c1)c1Cl
+dgnDPMJPbKbDfY}mFzB@jh@@ !B?`BH@k\BbOw~@Ox@mpK~@K\Bb@K~@H`B[Hh,,EN300-323062,Enamine,238.11,2-chloro-5-[1-hydroxy-2-(methylamino)ethyl]phenol hydrochloride,0.1,355,USD,0.151,CNCC(c(cc1)cc(O)c1Cl)O.Cl
+dglBPBW[BHzHrJJKQFXLLDDSP@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@ox@INX,,EN300-68907,Enamine,239.05,"methyl 3,5-dichloro-4-hydroxybenzoate hydrate",0.1,21,USD,0,COC(c(cc1Cl)cc(Cl)c1O)=O.O
+dg^L`EH{BHRYg]n[hHBjXbT@ !BmpJw__x@?g~w@k\B?`C~@H`BbGw~@Hc|m?p,,EN300-5190109,Enamine,215.63,(2S)-2-amino-3-(3-chloro-4-hydroxyphenyl)propanoic acid,0.5,19,USD,10,N[C@@H](Cc(cc1)cc(Cl)c1O)C(O)=O
+dg^HPMHHbxaIf]yQntxHBjb@@ !Bm?vw?Oy??`Bw?[]}?g?~_qaSYuMeGqh_vkd,,EN300-51738602,Enamine,234.13,2-chloro-4-(pyrrolidin-3-yl)phenol hydrochloride,0.1,342,USD,10,Oc(ccc(C1CNCC1)c1)c1Cl.Cl
+dg^HPEhLRHaAYfuitxH@@`@@ !Bqt[~_{]}bGvw@oy??g~H@hc}bOvH_X`BbOt,,EN300-177024,Enamine,274.54,5-chloro-2-methylquinolin-6-ol hydrobromide,0.1,407,USD,1.778,Cc(cc1)nc(cc2)c1c(Cl)c2O.Br
+dg^DPMIPbIbLbbbtReSCAADu@@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@ox@bOp,,EN300-1709800,Enamine,234.08,"3,5-dichloro-N-ethyl-2-hydroxybenzamide",0.1,252,USD,0.476,CCNC(c1cc(Cl)cc(Cl)c1O)=O
+dg]HpMm`bBbCbDfYnu^fBHb{@@ !Bb@JH__x@?g~H@k\Bb@JH__x@?`BH_X`B?`@,,EN300-59735,Enamine,247.47,"2,4,5-trichloro-6-hydroxybenzene-1,3-dicarbonitrile",0.1,416,USD,10,N#Cc(c(Cl)c(c(Cl)c1Cl)C#N)c1O
+dg]DPCmaBHJHRYf{uzXHbJ|@@ !Bb@JH__x@?g~H@k\Bb@JH__x@?`BH@ox@b@H,,EN300-24220149,Enamine,229.02,"4,5-dichloro-3,6-dihydroxybenzene-1,2-dicarbonitrile",0.1,241,USD,10,N#Cc(c(C#N)c(c(Cl)c1Cl)O)c1O
+dg\LpAWPbFbCbLbbbbbewS@TPu@@@ !Bmwvw@oy?mww~@Ha}mwvw@oy?mpJH@k]}?`@,,EN300-28635,Enamine,255.48,"methyl 2,3,5-trichloro-6-hydroxybenzoate",0.1,66,USD,10,COC(c(c(O)c(cc1Cl)Cl)c1Cl)=O
+dg\LhDrPbHBNbMbKbLbdLTTtrgKADQ@@@ !B@O{~@@C~?g~H_[]}b@K~_{\B?g~H_[]}mwt,,EN300-199012,Enamine,295.96,"2,3,5-trichloro-6-hydroxybenzene-1-sulfonyl chloride",0.1,342,USD,2.558,Oc(c(S(Cl)(=O)=O)c(c(Cl)c1)Cl)c1Cl
+dg\L`BtpbLbbbtJTs]A@UM@@@ !B?`BH@k\BbGw~@Ox@m?rH?Hc}bOs~@Hc}bOp,,EN300-222128,Enamine,214.65,methyl 3-(3-chloro-2-hydroxyphenyl)propanoate,0.1,317,USD,5.615,COC(CCc1cccc(Cl)c1O)=O
+dg\L`BtpbDfYovvFBBJZ@@ !BmpJw__x@?g~w@k_|bOs~@Hc}bOs~@Hc}bOp,,EN300-2164038,Enamine,214.65,methyl 3-(2-chloro-3-hydroxyphenyl)propanoate,0.1,241,USD,10,COC(CCc1cccc(O)c1Cl)=O
+dg\L`BNpbDfYwifzB@jf@@ !BmpJw__x@?g~w@k\B?`C~@Ox@@Oy??h`BmpH,,EN300-1967005,Enamine,214.65,2-(3-chloro-4-hydroxyphenyl)-2-methylpropanoic acid,0.1,347,USD,10,CC(C)(C(O)=O)c(cc1)cc(Cl)c1O
+dg\LPBWPbNbLbbbtQfSCAADu@@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@ox@bOp,,EN300-16192,Enamine,235.07,"ethyl 3,5-dichloro-4-hydroxybenzoate",0.5,19,USD,0,CCOC(c(cc1Cl)cc(Cl)c1O)=O
+dg\HPBBHUpRYgoZXXHHzh@@ !BmpK~@K]}b@Jw@k\B?`Bw__x@?`C~@@C~_?x,,EN300-46370797,Enamine,224.76,2-chloro-6-[2-(trimethylsilyl)ethynyl]phenol,0.1,241,USD,2.009,C[Si](C)(C)C#Cc1cccc(Cl)c1O
+dg\D`BlHaIf^^en``JjP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}?`@@?g?~mpH,,EN300-8798957,Enamine,212.68,3-tert-butyl-5-chloro-4-hydroxybenzaldehyde,0.1,277,USD,10,CC(C)(C)c1cc(C=O)cc(Cl)c1O
+dg\D`BdHaIf]{Yn``If`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@Hc|m?p,,EN300-32297832,Enamine,210.66,1-(3-chloro-4-hydroxyphenyl)-3-methylbut-2-en-1-one,0.1,376,USD,0.295,CC(C)=CC(c(cc1)cc(Cl)c1O)=O
+dg\B`Be]BHRYgUg[hHBfh@@ !Bb@JH__x@?g~H@h`B?`C~@H`BmpJH@ox@?`@,,EN300-1722637,Enamine,216.62,methyl 5-chloro-4-hydroxy-2-methoxybenzoate,0.1,140,USD,0,COC(c(c(OC)c1)cc(Cl)c1O)=O
+dg\B`Bd{BHRYgWV[hHBjX@@ !Bb@JH__x@?g~H@h`B?`C~@H`BbGvH@ha}?`@,,EN300-78918,Enamine,216.62,2-(4-chloro-5-hydroxy-2-methylphenoxy)acetic acid,0.1,396,USD,0.063,Cc(c(OCC(O)=O)c1)cc(Cl)c1O
+dg\B`B{SBHRYgeyXXHHih@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@oy??`@,,EN300-07783,Enamine,216.62,3-chloro-5-ethoxy-4-hydroxybenzoic acid,0.1,66,USD,6.94,CCOc1cc(C(O)=O)cc(Cl)c1O
+dg\B`BX{BHRYfyvxXH`jX@@ !Bmww~_{\BbGvw__x@mwvw@oy?b@Jw_[_}bOt,,EN300-8776322,Enamine,216.62,3-chloro-2-hydroxy-4-methoxy-6-methylbenzoic acid,0.1,481,USD,10,Cc(cc1OC)c(C(O)=O)c(O)c1Cl
+dg\B`BT{BHRYgg^[hHBfX@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@K~_{_}bOt,,EN300-45208431,Enamine,214.6,2-(3-chloro-5-formyl-4-hydroxyphenyl)acetic acid,0.1,306,USD,10,OC(Cc(cc1C=O)cc(Cl)c1O)=O
+dg\BPIWSCDzHrJJIQQXlLADMT@@ !Bb@JH__x@b@K~_x`BbGw~@K_}bOw~@H`Bb@H,,EN300-46762911,Enamine,281.49,6-bromo-2-chloro-3-hydroxy-4-methoxybenzoic acid,0.1,140,USD,10,COc1cc(Br)c(C(O)=O)c(Cl)c1O
+dg\BPFE]BHnHrJJJJJE]LAQCT@@ !BmpK~@K]}mpJH@oy?mpK~@K]}?`BH_X`BmpH,,EN300-642989,Enamine,237.04,"2,5-dichloro-3-hydroxy-6-methoxybenzoic acid",0.1,257,USD,3.139,COc(c(C(O)=O)c(c(O)c1)Cl)c1Cl
+defHPNHHbXaIf^FFBB@@@ !BmpK~@K]}bOrw?K\B?`Bw?]hv,,EN300-73977,Enamine,180.03,2-amino-6-chlorophenol hydrochloride,1,19,USD,1.054,Nc1cccc(Cl)c1O.Cl
+deVH`IHHaIf]vzB@l@@ !BmpJw__x@?g~w@k\B?`C~@Ox@,,EN300-14217,Enamine,153.57,3-chloro-4-hydroxybenzonitrile,0.25,19,USD,10,N#Cc(cc1)cc(Cl)c1O
+deVH`FHHaIf[nFBHH@@ !BmpK~@K]}b@Jw@oy?mpJw__x@,,EN300-7365727,Enamine,157.6,3-amino-2-chloro-6-methylphenol,1,19,USD,10,Cc(c(O)c1Cl)ccc1N
+deVHPNHHbYAIf^VFBBH@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]},,EN300-140735,Enamine,161.56,2-amino-6-chloro-4-fluorophenol,0.1,118,USD,2.688,Nc1cc(F)cc(Cl)c1O
+deVHPNHHbXaIf^VFBBH@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]},,EN300-123985,Enamine,178.02,"2-amino-4,6-dichlorophenol",0.25,19,USD,10,Nc1cc(Cl)cc(Cl)c1O
+deVHPIHHchaIf^VFBBH@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-123163,Enamine,178.02,"4-amino-2,6-dichlorophenol",0.25,19,USD,10,Nc(cc1Cl)cc(Cl)c1O
+deVHPIHH`YAIf]VzB@h@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-7035622,Enamine,161.56,5-amino-2-chloro-4-fluorophenol,1,19,USD,10,Nc(c(F)c1)cc(O)c1Cl
+deVHPIHH`XaIf]VzB@h@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-243491,Enamine,178.02,"5-amino-2,4-dichlorophenol",0.1,19,USD,10,Nc(c(Cl)c1)cc(O)c1Cl
+deVHPFHH`XaIf[nfBH`@@ !Bmww~_{\BbGvw__x@mww~_{\B,,EN300-2970683,Enamine,178.02,"3-amino-2,6-dichlorophenol",0.1,161,USD,0.278,Nc(c(Cl)c1O)ccc1Cl
+deVHPFDLPhaIf[nfBH`@@ !Bmww~_{\BbGvw__x@mww~_{\B,,EN300-7094472,Enamine,222.47,4-amino-3-bromo-2-chlorophenol,0.1,342,USD,10,Nc(c(Br)c1Cl)ccc1O
+deVHPAdLQhaIeYzz@Hh@@ !Bb@JH__x@b@JH@ha}?`C~@H`B,,EN300-120351,Enamine,222.47,2-amino-4-bromo-6-chlorophenol,0.1,19,USD,10,Nc1cc(Br)cc(Cl)c1O
+deVHPAHHbYAIf]VzB@h@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-210744,Enamine,161.56,4-amino-2-chloro-5-fluorophenol,0.1,202,USD,2.413,Nc(c(F)c1)cc(Cl)c1O
+deTHpICDZHFHRYV^n`BJ@@ !B?`Bw@h`B?`C~@K\Bb@JH@ox@,,EN300-72979,Enamine,241.9,"4-bromo-2,6-dichlorophenol",1,19,USD,10,Oc(c(Cl)cc(Br)c1)c1Cl
+deTHpICDJPFHRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-197793,Enamine,225.44,4-bromo-2-chloro-5-fluorophenol,0.1,33,USD,10,Oc(c(Cl)c1)cc(F)c1Br
+deTHpICDJHFHRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-179897,Enamine,241.9,"4-bromo-2,5-dichlorophenol",0.25,19,USD,10,Oc(c(Cl)c1)cc(Cl)c1Br
+deTHpIBHJPFHRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-1985502,Enamine,180.99,"2,4-dichloro-5-fluorophenol",0.1,352,USD,10,Oc(c(Cl)c1)cc(F)c1Cl
+deTHpIBHJHFHRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-20617,Enamine,197.45,"2,4,5-trichlorophenol",0.5,19,USD,10,Oc(c(Cl)c1)cc(Cl)c1Cl
+deTHpBCDzHfHRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-212292,Enamine,241.9,"2-bromo-4,6-dichlorophenol",0.1,23,USD,10,Oc(c(Cl)cc(Cl)c1)c1Br
+deTHpBCDzHfPRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-1238568,Enamine,225.44,2-bromo-6-chloro-4-fluorophenol,1,19,USD,10,Oc(c(Cl)cc(F)c1)c1Br
+deTHpBCDZHFHRYf{i`bH@@ !Bmwvw@oy??`Bw_Xa}mwvw@oy?,,EN300-198648,Enamine,241.9,"2-bromo-3,6-dichlorophenol",0.1,151,USD,10,Oc(c(Cl)ccc1Cl)c1Br
+deTHpBBlzHgDRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-1238335,Enamine,333.35,4-bromo-2-chloro-6-iodophenol,0.1,54,USD,10,Oc(c(Cl)cc(Br)c1)c1I
+deTHpBBHzHfHRYgea``b@@ !BbGvH@oy??`BH_Xa}b@K~_?y?,,EN300-19293,Enamine,197.45,"2,4,6-trichlorophenol",1,19,USD,10,Oc(c(Cl)cc(Cl)c1)c1Cl
+deTHpBBHzPfHRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-257972,Enamine,180.99,"2,4-dichloro-6-fluorophenol",0.1,27,USD,8.84,Oc(c(F)cc(Cl)c1)c1Cl
+deTHpBBHFPfPRYgUn``J@@ !Bmwvw@oy??`Bw_[]}?g?~_{]},,EN300-1615092,Enamine,164.54,"2-chloro-4,5-difluorophenol",0.1,301,USD,0,Oc(cc(c(F)c1)F)c1Cl
+deTHpABlJHZHRYf{i`bH@@ !BmpK~@K]}b@Jw@oy?mpK~@K]},,EN300-4710596,Enamine,288.89,"2,4-dichloro-3-iodophenol",0.1,306,USD,10,Oc(c(Cl)c1I)ccc1Cl
+deTHpABlKDfHRYgUn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-22994852,Enamine,333.35,4-bromo-2-chloro-5-iodophenol,0.1,57,USD,10,Oc(c(Cl)c1)cc(I)c1Br
+deTHpABlJHfHRYgUn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-7674036,Enamine,288.89,"2,4-dichloro-5-iodophenol",0.1,176,USD,10,Oc(c(Cl)c1)cc(I)c1Cl
+deTHpABHHHfHRYgUn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-6491108,Enamine,195.07,"2,5-dichloro-4-sulfanylphenol",0.1,470,USD,0.058,Oc(c(Cl)c1)cc(Cl)c1S
+deTHpABHJHZHRYf{i`bH@@ !BmpK~@K]}b@Jw@oy?mpK~@K]},,EN300-1238591,Enamine,197.45,"2,3,4-trichlorophenol",0.1,75,USD,9.423,Oc(c(Cl)c1Cl)ccc1Cl
+deTH`BBHRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-3218317,Enamine,156.61,"2-chloro-4,5-dimethylphenol",1,19,USD,0.894,Cc(c(C)c1)cc(O)c1Cl
+deTH`BBHRYfua``b@@ !BmpJw__x@?g~w@k\Bb@K~@Ox@,,EN300-221120,Enamine,156.61,"2-chloro-3,4-dimethylphenol",0.1,684,USD,1.457,Cc(cc1)c(C)c(Cl)c1O
+deTHPNCDJHrJJKPlLDDP@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@,,EN300-37355852,Enamine,221.48,3-bromo-2-chloro-6-methylphenol,0.1,301,USD,10,Cc(ccc(Br)c1Cl)c1O
+deTHPICDZHRYV^n`BJ@@ !Bb@JH__x@b@JH@ha}?`C~@H`B,,EN300-20818,Enamine,221.48,4-bromo-2-chloro-6-methylphenol,0.1,19,USD,10,Cc1cc(Br)cc(Cl)c1O
+deTHPICDzHrJJIRlLADP@@ !Bmwvw@oy?mww~@K]}mpK~_{]},,EN300-5509737,Enamine,221.48,4-bromo-2-chloro-3-methylphenol,0.1,19,USD,10,Cc(c(Cl)c(cc1)O)c1Br
+deTHPBCDzHrJJKPlLDDP@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@,,EN300-7380006,Enamine,221.48,6-bromo-2-chloro-3-methylphenol,0.1,33,USD,10,Cc(ccc(Br)c1O)c1Cl
+deTHPBCDzHRYgea``b@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-203031,Enamine,221.48,2-bromo-6-chloro-4-methylphenol,0.1,52,USD,10,Cc(cc1Cl)cc(Br)c1O
+deTHPBBHfPRYgUn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-210748,Enamine,160.57,2-chloro-5-fluoro-4-methylphenol,0.1,54,USD,10,Cc(c(F)c1)cc(Cl)c1O
+deTHPBBHfHRYgen``J@@ !BmpK~@K]}b@Jw@k\Bmww~@K]},,EN300-255853,Enamine,177.03,"2,4-dichloro-6-methylphenol",0.25,19,USD,10,Cc1cc(Cl)cc(Cl)c1O
+deTHPBBHfPrJJJXlLDDP@@ !Bmww~_{\BbGvw_[]}?`Bw@k]},,EN300-6482736,Enamine,160.57,2-chloro-5-fluoro-3-methylphenol,0.1,183,USD,2.954,Cc1cc(F)cc(O)c1Cl
+deTHPBBHfHRYgUn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-3218309,Enamine,177.03,"2,5-dichloro-4-methylphenol",0.1,232,USD,10,Cc(c(Cl)c1)cc(Cl)c1O
+deTHPBBHFHRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-3218305,Enamine,177.03,"2,4-dichloro-5-methylphenol",0.1,22,USD,10,Cc(c(Cl)c1)cc(O)c1Cl
+deTHPBBHfHRYfua``b@@ !Bmww~_{\BbGvw_[]}?`Bw@k\B,,EN300-156277,Enamine,177.03,"2,4-dichloro-3-methylphenol",0.1,120,USD,10,Cc(c(Cl)c(cc1)O)c1Cl
+deTHPBBHDHRYg]n``J@@ !BmpJw__x@?g~w@k\B?`C~@H`B,,EN300-138712,Enamine,174.65,2-chloro-4-(methylsulfanyl)phenol,0.1,383,USD,0,CSc(cc1)cc(Cl)c1O
+deTHPABlfHRYeun`HJ@@ !Bmwvw@oy?mww~@K]}?g?~_{]},,EN300-7654177,Enamine,268.48,2-chloro-5-iodo-4-methylphenol,0.1,306,USD,5.688,Cc(cc(c(O)c1)Cl)c1I
+deTD`BxHaIf^vFBBH@@ !BmpK~@K]}b@Jw@k\B?`Bw_X`B,,EN300-111997,Enamine,158.58,2-chloro-6-methoxyphenol,0.1,36,USD,10,COc1cccc(Cl)c1O
+deTD`BxHaIf^VFBBH@@ !BmpJw__x@?g~w@k\Bmww~@Ox@,,EN300-260904,Enamine,158.58,"3-chloro-5-methylbenzene-1,2-diol",0.1,257,USD,10,Cc(cc1O)cc(Cl)c1O
+deTD`BdHaIf]vzB@h@@ !BmpJw__x@?g~w@k\B?`C~@H`B,,EN300-116795,Enamine,158.58,2-chloro-4-(hydroxymethyl)phenol,0.1,140,USD,10,OCc(cc1)cc(Cl)c1O
+deTD`BdHaIf]vzB@d@@ !BmpJw__x@?g~w@k\B?`C~@H`B,,EN300-49225,Enamine,156.57,3-chloro-4-hydroxybenzaldehyde,0.25,19,USD,10,Oc(ccc(C=O)c1)c1Cl
+deTD`BdHcHhhmBwPPD`@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B,,EN300-50256,Enamine,156.57,3-chloro-2-hydroxybenzaldehyde,0.25,19,USD,10,Oc(c(C=O)ccc1)c1Cl
+deTD`BdHaIf_VzB@d@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-101027,Enamine,156.57,4-chloro-3-hydroxybenzaldehyde,0.25,19,USD,10,Oc(cc(C=O)cc1)c1Cl
+deTD`BdHaIf[vFBBD@@ !Bmww~_{\BbGvw_[]}?`Bw@h`B,,EN300-106113,Enamine,156.57,2-chloro-3-hydroxybenzaldehyde,0.1,19,USD,10,Oc(cccc1C=O)c1Cl
+deTD`BDHaIf]vzB@h@@ !BmpJw__x@?g~w@k\B?`C~@H`B,,EN300-196317,Enamine,158.58,2-chloro-4-methoxyphenol,0.5,19,USD,10,COc(cc1)cc(Cl)c1O
+deTD`BDHaIf_VzB@h@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-1615085,Enamine,158.58,2-chloro-5-methoxyphenol,0.1,767,USD,0,COc(cc1)cc(O)c1Cl
+deTDPBxHbXcHhhmBppPQ@@@ !Bb@K~@Ha}mpJH@h`B?`BH_X`B,,EN300-125213,Enamine,179,"3,6-dichlorobenzene-1,2-diol",0.1,158,USD,10,Oc(c(O)c(cc1)Cl)c1Cl
+deTDPBdH`XaIf]VzB@h@@ !Bmwvw@oy??`Bw_[]}?g?~_{]},,EN300-21608,Enamine,179,"4,6-dichlorobenzene-1,3-diol",0.5,19,USD,10,Oc(c(Cl)c1)cc(O)c1Cl
+deTDPAdLQhaIeYzz@Hh@@ !Bb@JH__x@b@JH@ha}?`C~@H`B,,EN300-176610,Enamine,223.45,"5-bromo-3-chlorobenzene-1,2-diol",0.1,221,USD,2.168,Oc1cc(Br)cc(Cl)c1O
+dcvHpEHHbXcXaIf^\[hHBh@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@KZU`,,EN300-213070,Enamine,228.51,"2-(aminomethyl)-4,6-dichlorophenol hydrochloride",0.1,132,USD,2.854,NCc1cc(Cl)cc(Cl)c1O.Cl
+dcvHpEHHchcXcHhhmDPppPQP@@ !BbOrH?_x@?g~H?Hc|bOw~@Ox@bOpd]`,,EN300-37395419,Enamine,228.51,"4-(aminomethyl)-2,6-dichlorophenol hydrochloride",0.1,158,USD,7.259,NCc(cc1Cl)cc(Cl)c1O.Cl
+dcvHPAHHcXaIf]x[hHBh@@ !BmpJw?_x@?g~w@k\B?`C~@H`BmpKZe`,,EN300-37416602,Enamine,208.09,2-chloro-4-(dimethylamino)phenol hydrochloride,0.1,238,USD,10,CN(C)c(cc1)cc(Cl)c1O.Cl
+dcnH`NHHaIf^uXUvB@@@@@ !Bm?rw?_x@?g~w?K_|m?w~@K_|m?s~@@,,EN300-132918,Enamine,179.61,7-chloroquinolin-8-ol,0.1,62,USD,0.088,Oc(c(nccc1)c1cc1)c1Cl
+dcnH`IHHaIf^u[evB@@@@@ !Bm?rw?_x@?g~w?K_|?`Bw?[_|m?rw?P,,EN300-6472819,Enamine,179.61,6-chloroquinolin-5-ol,0.1,470,USD,10,Oc(c1c(cc2)nccc1)c2Cl
+dcnH`EHHaIf]U[evB@@@@@ !Bm?s~@K_}bOrw?K_|m?vw?[_|m?rw?P,,EN300-26635421,Enamine,179.61,7-chloroisoquinolin-6-ol,0.1,783,USD,0,Oc(c(Cl)c1)cc2c1cncc2
+dclL`BZPbLbbbbTOKNpQEDP@@ !B?`Bw?Hc|m?w~@Hc}?`Bw?K_|bOs~@@,,EN300-30899506,Enamine,186.59,"5-chloro-2,3-dihydro-1,4-benzodioxin-6-ol",0.1,342,USD,10,Oc1ccc2OCCOc2c1Cl
+dclLPBGPbIBDfYu]neXHBiH@@ !BbGw~_xc|m?vH?Xa}bOq`FfAeKF\@?`,,EN300-373521,Enamine,202.62,"6-chloro-5-hydroxy-2H-1,3-benzoxathiol-2-one",0.1,518,USD,5.304,Oc(cc(c(O1)c2)SC1=O)c2Cl
+dclH`BBHRYgmVy]``@@@@ !Bm?rw?_x@?g~w?K_|?`Bw?[_|m?rw?P,,EN300-125394,Enamine,178.62,2-chloronaphthalen-1-ol,0.1,98,USD,10,Oc(c(cccc1)c1cc1)c1Cl
+dclH`BBHRYfuvE]``@@@@ !B?`BH?K_|bOw~@Ox@m?vw?K_|m?rw?P,,EN300-333389,Enamine,178.62,1-chloronaphthalen-2-ol,0.25,19,USD,10,Oc(ccc1c2cccc1)c2Cl
+dclHPBBHTHRYfyVE]``bd`@ !B?g~w_Xa}mpK~_?y?XAjH_[]}XFTlYp,,EN300-24758745,Enamine,198.67,4-chloro-6-methyl-1-benzothiophen-5-ol,0.1,1104,USD,0.912,Cc1cc([s]cc2)c2c(Cl)c1O
+dclD`BtHaIf[WXYVBBJR@@ !B?g~w?Xc}m?s~_?y?XAjH?VAeKF\ZGp,,EN300-1168854,Enamine,182.61,"4-chloro-5-hydroxy-2,3-dihydro-1H-inden-1-one",0.1,152,USD,0.809,Oc(ccc1c2CCC1=O)c2Cl
+dclD`BTHaIf]V[ivB@ib@@ !BbOs~@Hc}m?rH?Hc|bOu`YV@ZFa|lF@,,EN300-1266426,Enamine,182.61,"6-chloro-5-hydroxy-2,3-dihydro-1H-inden-1-one",0.1,518,USD,1.813,Oc(cc(CCC1=O)c1c1)c1Cl
+dcNLaFI]BHZ]yIf[fxXH`f@@ !BmpK~@K]}b@Jw@oy?mpJw__x@bOvw?P,,EN300-1179636,Enamine,187.58,2-chloro-6-methyl-3-nitrophenol,0.5,19,USD,10,Cc(c(O)c1Cl)ccc1[N+]([O-])=O
+dcNLaAI]BHF]yIf]V[hHBf@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@?`BH_P,,EN300-119274,Enamine,187.58,2-chloro-5-methyl-4-nitrophenol,0.1,77,USD,10,Cc(c([N+]([O-])=O)c1)cc(O)c1Cl
+dcNL`NI]BHrJJKPjLLDDS@@@ !Bb@K~@Ha}mpJH@h`B?`BH_X`BbGw~@@,,EN300-222755,Enamine,187.58,2-amino-4-chloro-3-hydroxybenzoic acid,0.1,114,USD,10,Nc(c(O)c(cc1)Cl)c1C(O)=O
+dcNL`FI]BHrJJJZF]LDQC@@@ !Bmww~_{\BbGvw__x@mww~_{\Bm?vH?P,,EN300-177150,Enamine,187.58,4-amino-3-chloro-2-hydroxybenzoic acid,0.1,268,USD,10,Nc1ccc(C(O)=O)c(O)c1Cl
+dcNL`FI]BHrJJJXj\LDPS@@@ !Bmww~_{\BbGvw__x@mwvw@k]}mpK~_p,,EN300-1700111,Enamine,187.58,3-amino-4-chloro-5-hydroxybenzoic acid,0.1,98,USD,9.363,Nc1cc(C(O)=O)cc(O)c1Cl
+dcNLQIy]CDJHf]{HhhmBhppPQL@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@mpJH@`,,EN300-6735505,Enamine,252.45,3-bromo-2-chloro-6-nitrophenol,0.1,221,USD,10,[O-][N+](c(ccc(Br)c1Cl)c1O)=O
+dcNLQII]BHzHf]{HhhmDXppPQL@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@`,,EN300-20887,Enamine,208,"2,6-dichloro-4-nitrophenol",0.25,19,USD,10,[O-][N+](c(cc1Cl)cc(Cl)c1O)=O
+dcNLQII]BHFHf]yIf]^[hHBf@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@mpJH@`,,EN300-243490,Enamine,208,"2,4-dichloro-5-nitrophenol",1,19,USD,10,[O-][N+](c(c(Cl)c1)cc(O)c1Cl)=O
+dcNLQII]BHzPf]{HhhmDXppPQL@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@`,,EN300-631693,Enamine,191.54,2-chloro-6-fluoro-4-nitrophenol,0.1,85,USD,10,[O-][N+](c(cc1F)cc(Cl)c1O)=O
+dcNLQII]BHFPf]yIf]^[hHBf@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@mpJH@`,,EN300-371955,Enamine,191.54,2-chloro-4-fluoro-5-nitrophenol,1,19,USD,10,[O-][N+](c(c(F)c1)cc(O)c1Cl)=O
+dcNLQFE]CDJHZ]yIf[fzXHbF@@ !Bmww~_{\BbGvw__x@mww~_{\BmpJH@`,,EN300-6735527,Enamine,252.45,3-bromo-2-chloro-4-nitrophenol,0.1,337,USD,7.089,[O-][N+](c(c(Br)c1Cl)ccc1O)=O
+dcNLQAI]BHfHF]yIf]V[hHBf@@ !Bb@JH__x@?g~H@h`B?`C~@H`BmpJH@`,,EN300-706040,Enamine,208,"2,5-dichloro-4-nitrophenol",0.5,19,USD,10,[O-][N+](c(c(Cl)c1)cc(Cl)c1O)=O
+dcNLQAI]BHfPF]yIf]V[hHBf@@ !Bb@JH__x@?g~H@h`B?`C~@H`BmpJH@`,,EN300-194989,Enamine,191.54,2-chloro-5-fluoro-4-nitrophenol,0.1,96,USD,10,[O-][N+](c(c(F)c1)cc(Cl)c1O)=O
+dcNLQBXYBHVHJYyIfYf{XHah@@ !Bmwvw@oy??`Bw_Xa}mwvw@h`BmpK~_p,,EN300-110285,Enamine,208,"2,4-dichloro-3-nitrophenol",0.1,19,USD,10,[O-][N+](c(c(Cl)ccc1O)c1Cl)=O
+dcNLQAe]CDZHF]yIeYvkh@bf@@ !Bb@JH__x@b@JH@ha}?`C~@H`BmpJH@`,,EN300-173476,Enamine,252.45,4-bromo-2-chloro-6-nitrophenol,1,19,USD,1.348,[O-][N+](c1cc(Br)cc(Cl)c1O)=O
+dcNLPMJUBHDHRYg^fzB@e`@@ !BmpJw__x@?g~w@k\B?`C~@@C~_?{~@@,,EN300-278220,Enamine,207.64,3-chloro-4-hydroxybenzene-1-sulfonamide,0.1,221,USD,10,NS(c(cc1)cc(Cl)c1O)(=O)=O
+dcNHPMHHahcHhhiiUppQAV@@ !BmpK~@K]}b@Jw@oy?mpJw__x@b@JH?@,,EN300-6489060,Enamine,202.04,"2-(3,4-dichloro-2-hydroxyphenyl)acetonitrile",0.1,470,USD,0.358,N#CCc(c(O)c1Cl)ccc1Cl
+dcND`MK`bDfYy]a``bl@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw_P,,EN300-10894,Enamine,183.59,3-chloro-4-hydroxy-5-methoxybenzonitrile,0.1,28,USD,10,COc1cc(C#N)cc(Cl)c1O
+dcND`MI`bDfYn_i`bHl@@ !Bmww~_{\BbGvw__x@mww~_{\Bb@K~_p,,EN300-1694034,Enamine,183.59,3-chloro-2-hydroxy-4-methoxybenzonitrile,0.1,470,USD,0.24,COc(c(Cl)c1O)ccc1C#N
+dcND`EJPbDfYwmn``Ih@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-7792413,Enamine,185.61,3-chloro-4-hydroxy-N-methylbenzamide,0.1,73,USD,0,CNC(c(cc1)cc(Cl)c1O)=O
+dcNDPMYPbAbDfYf[i`JHX@@ !Bmwvw@oy?mww~@Ha}mwvw@oy?mpJH@`,,EN300-7904957,Enamine,206.03,"2,6-dichloro-3-hydroxybenzamide",0.1,420,USD,0.047,NC(c(c(Cl)ccc1O)c1Cl)=O
+dcMLaBEetH`YwlbbbfagSADPp@@ !BbGvH@oy??`BH_[]}bGvH@oy??`BH_P,,EN300-6733934,Enamine,188.57,3-amino-2-chloro-4-nitrophenol,0.1,103,USD,10,Nc(c([N+]([O-])=O)ccc1O)c1Cl
+dcMD`EtiBHRYg^vzB@f`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-77612,Enamine,186.6,3-chloro-4-hydroxybenzohydrazide,1,19,USD,10,NNC(c(cc1)cc(Cl)c1O)=O
+dcLLpDs`bHBEbLbdLTVd{KAA@@@ !B@O{~@@C~?g~H_[]}b@K~_?y?bGvw_P,,EN300-197764,Enamine,227.07,3-chloro-2-hydroxybenzene-1-sulfonyl chloride,0.1,372,USD,10,Oc(c(Cl)ccc1)c1S(Cl)(=O)=O
+dcLLpDsPbHBIbLbdLRTHkK@DP@@ !B@O{~@@C~?g~H_[]}?g?~_xa}mww~_p,,EN300-276096,Enamine,227.07,3-chloro-4-hydroxybenzene-1-sulfonyl chloride,0.1,140,USD,10,Oc(ccc(S(Cl)(=O)=O)c1)c1Cl
+dcLLpDrPbHBMbLbdLRTHkK@DP@@ !B@O{~@@C~?g~H_[]}?g?~_xa}mww~_p,,EN300-199037,Enamine,227.07,4-chloro-3-hydroxybenzene-1-sulfonyl chloride,0.1,342,USD,8.394,Oc(cc(cc1)S(Cl)(=O)=O)c1Cl
+dcLL`B{PbDfYy]a``bd@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-07241,Enamine,186.59,3-chloro-4-hydroxy-5-methoxybenzaldehyde,1,19,USD,10,COc1cc(C=O)cc(Cl)c1O
+dcLL`BePbDfYuUn``JX@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@?`BH@`,,EN300-6489848,Enamine,186.59,5-chloro-4-hydroxy-2-methoxybenzaldehyde,0.1,383,USD,10,COc(c(C=O)c1)cc(O)c1Cl
+dcLL`BePbDfYwmn``Ih@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-15508,Enamine,186.59,methyl 3-chloro-4-hydroxybenzoate,0.5,19,USD,10,COC(c(cc1)cc(Cl)c1O)=O
+dcLL`BePbDfYyun``JX@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@JH@`,,EN300-2088887,Enamine,186.59,3-chloro-2-hydroxy-5-methoxybenzaldehyde,0.1,156,USD,10,COc(cc1C=O)cc(Cl)c1O
+dcLL`BWPbDfY}Yn``JX@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B?`BH_P,,EN300-23315475,Enamine,186.59,2-(4-chloro-3-hydroxyphenyl)acetic acid,0.1,129,USD,10,OC(Cc(cc1)cc(O)c1Cl)=O
+dcLL`BWPbLbbbfQcCAADp@@ !BbGw~_x`BmwvH_Xa}?`BH@h`BbGw~@@,,EN300-30899503,Enamine,186.59,3-chloro-4-hydroxy-2-methylbenzoic acid,0.1,306,USD,10,Cc(c(Cl)c(cc1)O)c1C(O)=O
+dcLL`BWPbLbbbtJc]A@Tp@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B?`BH_P,,EN300-1984171,Enamine,186.59,2-(3-chloro-2-hydroxyphenyl)acetic acid,0.1,342,USD,7.678,OC(Cc1cccc(Cl)c1O)=O
+dcLL`BWPbDfY{Yn``JX@@ !B?`BH@k\BbGw~@Ox@mpJH@ox@?`BH_P,,EN300-1615097,Enamine,186.59,3-chloro-2-hydroxy-6-methylbenzoic acid,0.1,272,USD,10,Cc(cc1)c(C(O)=O)c(O)c1Cl
+dcLL`BWPbDfYyun``Jd@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@JH@`,,EN300-22089066,Enamine,186.59,3-chloro-4-hydroxy-5-(hydroxymethyl)benzaldehyde,0.1,481,USD,5.144,OCc1cc(C=O)cc(Cl)c1O
+dcLL`BWPbDfYwYn``JX@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`BH_P,,EN300-78453,Enamine,186.59,2-(3-chloro-4-hydroxyphenyl)acetic acid,0.25,19,USD,10,OC(Cc(cc1)cc(Cl)c1O)=O
+dcLL`BWPbDfYuYn``JX@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@bGw~@@,,EN300-1693658,Enamine,186.59,5-chloro-4-hydroxy-2-methylbenzoic acid,0.1,376,USD,10,Cc(c(C(O)=O)c1)cc(O)c1Cl
+dcLL`BWPbDfYoya``bX@@ !Bmww~_{\BbGvw_[]}?`Bw@h`B?`BH_P,,EN300-7829759,Enamine,186.59,2-(2-chloro-3-hydroxyphenyl)acetic acid,0.1,241,USD,10,OC(Cc1cccc(O)c1Cl)=O
+dcLL`BWPbDfYmua``bd@@ !BbGw~_x`BmwvH_Xa}?`BH@h`BbGvH_P,,EN300-2940609,Enamine,186.59,"3-chloro-4,6-dihydroxy-2-methylbenzaldehyde",0.1,176,USD,0.098,Cc1c(C=O)c(O)cc(O)c1Cl
+dcLL`BEPbDfYnui``hX@@ !BmpK~@K]}b@Jw@k\B?g?~@K]}m?vH@`,,EN300-6472626,Enamine,186.59,2-chloro-3-hydroxy-4-methoxybenzaldehyde,1,19,USD,10,COc1ccc(C=O)c(Cl)c1O
+dcLLPIWPqFbDfUgZn`BJX@@ !Bb@JH__x@b@JH@ha}?`C~@H`Bb@Jw@`,,EN300-85241,Enamine,251.46,5-bromo-3-chloro-2-hydroxybenzoic acid,0.1,120,USD,10,OC(c1cc(Br)cc(Cl)c1O)=O
+dcLLPFWPbAbDfYf[i`JHX@@ !Bmwvw@oy?mww~@Ha}mwvw@oy?b@Jw@`,,EN300-7865707,Enamine,207.01,"2,6-dichloro-3-hydroxybenzoic acid",0.1,376,USD,10,OC(c(c(Cl)ccc1O)c1Cl)=O
+dcLLPBWPbIdDfY{Yn``JX@@ !Bb@K~@Ha}mpJH@h`BbGw~@H`Bb@Jw@`,,EN300-3002930,Enamine,190.56,3-chloro-6-fluoro-2-hydroxybenzoic acid,0.1,198,USD,10,OC(c(c(O)c(cc1)Cl)c1F)=O
+dcLLPBWPbIbDfY{Yn``JX@@ !BmpK~@K]}b@Jw@k\Bmww~@K\Bb@Jw@`,,EN300-322520,Enamine,207.01,"3,6-dichloro-2-hydroxybenzoic acid",1,19,USD,10,OC(c(c(O)c(cc1)Cl)c1Cl)=O
+dcLLPBWPbIdDfYyYa``bX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-91329,Enamine,190.56,3-chloro-5-fluoro-2-hydroxybenzoic acid,0.1,109,USD,10,OC(c1cc(F)cc(Cl)c1O)=O
+dcLLPBWPbNdLbbbtQcCAADp@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@Jw@`,,EN300-139602,Enamine,190.56,3-chloro-5-fluoro-4-hydroxybenzoic acid,0.1,103,USD,10,OC(c(cc1F)cc(Cl)c1O)=O
+dcLLPBWPbNbLbbbtQcCAADp@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@Jw@`,,EN300-07242,Enamine,207.01,"3,5-dichloro-4-hydroxybenzoic acid",0.5,19,USD,10,OC(c(cc1Cl)cc(Cl)c1O)=O
+dcLLPBWPbIbDfYyYa``bX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-91872,Enamine,207.01,"3,5-dichloro-2-hydroxybenzoic acid",1,19,USD,10,OC(c1cc(Cl)cc(Cl)c1O)=O
+dcLLPBWPbFdLbbbfagSADPp@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}b@Jw@`,,EN300-122915,Enamine,190.56,3-chloro-4-fluoro-2-hydroxybenzoic acid,0.1,262,USD,10,OC(c(c(O)c1Cl)ccc1F)=O
+dcLLPBWPbFbLbbbfagSADPp@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}b@Jw@`,,EN300-71666,Enamine,207.01,"3,4-dichloro-2-hydroxybenzoic acid",0.1,98,USD,10,OC(c(c(O)c1Cl)ccc1Cl)=O
+dcLLPBWPbAbDfYuyn``JX@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@b@Jw@`,,EN300-5361529,Enamine,207.01,"2,4-dichloro-5-hydroxybenzoic acid",0.1,241,USD,10,OC(c(c(Cl)c1)cc(O)c1Cl)=O
+dcLHhMBHJHZHFHVHRYf{~fBHb`@@ !B?`Bw@h`Bmww~@Ha}?`Bw@h`Bb@K~@@,,EN300-18735,Enamine,266.34,pentachlorophenol,1,19,USD,10,Oc(c(Cl)c(c(Cl)c1Cl)Cl)c1Cl
+dcLH`BBHRYg^fzB@j`@@ !BmpJw__x@?g~w@k\B?`C~@Ox@@Oy??`,,EN300-843566,Enamine,184.66,4-tert-butyl-2-chlorophenol,1,19,USD,10,CC(C)(C)c(cc1)cc(Cl)c1O
+dcLH`BBHRYf~fFBBJ`@@ !Bmww~_{\BbGvw_[]}?`Bw@ox@@Oy??`,,EN300-299322,Enamine,184.66,3-tert-butyl-2-chlorophenol,0.1,170,USD,10,CC(C)(C)c1cccc(O)c1Cl
+dcLH`BBHrJJKPrMtDAU@@@ !BmpK~@K]}b@Jw@k\Bmww~@Ox@@Oy??`,,EN300-107661,Enamine,184.66,2-tert-butyl-6-chlorophenol,0.1,73,USD,10,CC(C)(C)c1cccc(Cl)c1O
+dcLHHBBHfPVPvPRYgvfzB@j`@@ !Bmwvw@oy??`Bw_[]}?g~w_[]}@k_}b@,,EN300-22400,Enamine,196.55,2-chloro-5-(trifluoromethyl)phenol,0.5,19,USD,10,Oc(cc(C(F)(F)F)cc1)c1Cl
+dcLHHBBHfPVPvPRYg^fzB@j`@@ !Bmwvw@oy??`Bw_[]}?g?~_?y?@Oy??`,,EN300-1253182,Enamine,196.55,2-chloro-4-(trifluoromethyl)phenol,0.5,19,USD,10,Oc(ccc(C(F)(F)F)c1)c1Cl
+dcLDpBXHbXcXaIfY[yXHbb@@ !Bmwvw@oy??`Bw_Xa}mwvH@k\B?g?~_p,,EN300-265941,Enamine,227.47,"2,4,6-trichloro-3-methoxyphenol",0.1,366,USD,2.851,COc(c(Cl)cc(Cl)c1O)c1Cl
+dcLD`BdHcHhhmMBppPPt@@ !BmpK~@K]}b@Jw@k\B?`Bw_[\Bb@K~@@,,EN300-213360,Enamine,184.62,1-(3-chloro-2-hydroxyphenyl)propan-1-one,0.1,111,USD,10,CCC(c1cccc(Cl)c1O)=O
+dcLD`BdHaIf]{[hHBZ@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-1242090,Enamine,184.62,1-(3-chloro-4-hydroxyphenyl)propan-1-one,0.1,55,USD,10,CCC(c(cc1)cc(Cl)c1O)=O
+dcLD`BTHaIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-719401,Enamine,184.62,1-(3-chloro-2-hydroxy-5-methylphenyl)ethan-1-one,0.1,30,USD,10,CC(c1cc(C)cc(Cl)c1O)=O
+dcLD`BTHaIf]u[hHBj@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`BH?@,,EN300-320857,Enamine,186.64,2-chloro-4-(2-methoxyethyl)phenol,0.1,113,USD,10,COCCc(cc1)cc(Cl)c1O
+dcLDPITLQhaIeYvkh@bf@@ !Bb@JH__x@b@JH@ha}?`C~@H`BmpJH@`,,EN300-106332,Enamine,249.49,1-(5-bromo-3-chloro-2-hydroxyphenyl)ethan-1-one,0.1,96,USD,10,CC(c1cc(Br)cc(Cl)c1O)=O
+dcLDPBTHbXaIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-17014,Enamine,205.04,"1-(3,5-dichloro-2-hydroxyphenyl)ethan-1-one",1,19,USD,10,CC(c1cc(Cl)cc(Cl)c1O)=O
+dcLDPBTHbYAIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-1276487,Enamine,188.59,1-(3-chloro-5-fluoro-2-hydroxyphenyl)ethan-1-one,0.1,19,USD,10,CC(c1cc(F)cc(Cl)c1O)=O
+dcLDPBTHahcHhhihYtpQDL@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}mpJH@`,,EN300-65809,Enamine,205.04,"1-(3,4-dichloro-2-hydroxyphenyl)ethan-1-one",0.1,83,USD,10,CC(c(c(O)c1Cl)ccc1Cl)=O
+dcLDHEtH`hah`XaIf[ozXHbJ@@ !BmpJw__x@?g~w@h`BmpJw__x@?`Bw@`,,EN300-21597,Enamine,247.89,"tetrachlorobenzene-1,2-diol",0.1,21,USD,10,Oc(c(O)c(c(Cl)c1Cl)Cl)c1Cl
+dcLB`By]BHrJJKPjLLDDS@@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@b@Jw@`,,EN300-7433800,Enamine,188.57,"4-chloro-2,3-dihydroxybenzoic acid",0.1,376,USD,10,OC(c(ccc(Cl)c1O)c1O)=O
+dcLB`Be]BHRYgmfzB@i`@@ !BmpK~@K]}b@Jw@k\Bmww~@K\Bb@Jw@`,,EN300-725074,Enamine,188.57,"3-chloro-2,6-dihydroxybenzoic acid",0.1,48,USD,10,OC(c(c(O)c(cc1)Cl)c1O)=O
+daDH`BBHRYg[hH@@@ !Bmwvw@oy??`Bw_[]}?g|,,EN300-19240,Enamine,128.56,2-chlorophenol,1,19,USD,10,Oc(cccc1)c1Cl
+foAAc@B\TCDmHNdDfY{UY`mF``bjh`@@ !Bm?rw?_x@?g~w?K_|QwO~@M?FQpqmlM?YQpqG\p,,EN300-45913523,Enamine,281.05,"7-bromo-3,3-difluoro-3,4-dihydro-2H-1,5-benzodioxepin-6-ol",0.1,376,USD,2.297,Oc(c(OC1)c(cc2)OCC1(F)F)c2Br
+foAAa@BR\CDmDILsjskNJMA@TuI@@@ !BbGw~_x`Bm?vH?Xa}bOrH@hc}bGw~@Hc|mpJH?P,,EN300-23939521,Enamine,289.51,6-bromo-4-(chloromethyl)-7-hydroxy-2H-chromen-2-one,0.1,282,USD,10,Oc(cc(c(C(CCl)=C1)c2)OC1=O)c2Br
+foAAA@B@qNXfQQQZHqILEYtDDP@@@@ !BbOvH@oy??`BH?Xc}b@K~_?y?mwvH__y??g~H?P,,EN300-9476464,Enamine,328,"2,6-dibromo-4-phenylphenol",0.1,169,USD,10,Oc(c(Br)cc(-c1ccccc1)c1)c1Br
+fmgQ``GAIspLP\aNPWHYEEEhemDhUEDeHpS^pPQSVtAAT@@@ !Bm?s~@K_}b@Jw@k_|?`Bw_[_}b@K~_xa}mwvH_[\B?g~w__y?mpJw_Xa}mwvw@hc}@ha}mp,,EN300-15647,Enamine,441.2,3-(3-bromo-4-hydroxy-5-methoxyphenyl)-2-cyano-N-[2-(trifluoromethyl)phenyl]prop-2-enamide,0.1,252,USD,5.002,COc1cc(C=C(C(Nc2c(C(F)(F)F)cccc2)=O)C#N)cc(Br)c1O
+flypa@M^BS`LQLPdsOK{KcA^CAAEUKQ@@@ !Bm?vw@oy??`Bw?[]}mpK~_?y??`BH__y?YuLXTqh_YQ|lYwIe,,EN300-55703,Enamine,348.63,2-bromo-6-methoxy-4-{[(1-methyl-1H-pyrazol-4-yl)amino]methyl}phenol hydrochloride,0.1,282,USD,3.091,C[n]1ncc(NCc(cc2OC)cc(Br)c2O)c1.Cl
+flyQA@@iHCDbDYEEEhmHkDhsdDAUSVpBAd !BmpK~@K]}b@Jw@k\Bmww~@K]}?`@@?g?~mpK~@K]}?`C~_{\B,,EN300-43379293,Enamine,339.26,(2E)-3-(3-bromo-5-tert-butyl-4-hydroxyphenyl)-2-cyanoprop-2-enethioamide,0.1,684,USD,1.68,CC(C)(C)c1cc(/C=C(/C(N)=S)\C#N)cc(Br)c1O
+fleab@MDlxFHdsMk{[SAJuAAETuTP@@ !B?g~w_Xa}mpK~_?y?b@JH?Xc}bGvH?Hc}bOs~_xc}bGw}mpJH,,EN300-6737934,Enamine,328.2,"tert-butyl 5-bromo-6-hydroxy-1,2,3,4-tetrahydroisoquinoline-2-carboxylate",0.1,392,USD,10,CC(C)(C)OC(N(CC1)Cc(cc2)c1c(Br)c2O)=O
+fleab@IDbdFIdTTVaRbRrcNN}A@U@AL@@@ !BmpK~@K]}b@Jw@k\Bmww~@Hc|?`Bw@h`B?`C~@H`B?`BH@k\B,,EN300-172660,Enamine,322.16,4-{[(3-bromo-2-hydroxyphenyl)methyl]amino}benzoic acid,0.1,306,USD,2.211,OC(c(cc1)ccc1NCc1cccc(Br)c1O)=O
+fleab@EDlxFHdsNjo[SNJuA@UTuTP@@ !BbOs~@Hc}m?rH?Hc|bOvH?Xc|bOrH?Xc}bOs~_xc}bGw}mpJH,,EN300-6489616,Enamine,328.2,"tert-butyl 7-bromo-6-hydroxy-1,2,3,4-tetrahydroisoquinoline-2-carboxylate",0.1,470,USD,0.689,CC(C)(C)OC(N(CCc1c2)Cc1cc(Br)c2O)=O
+fj}`c@AZJBlcbYqDfUmmyV^cARBf@BiX@bb@@@ !BbOrH?_x@bOrH?Ox@XFU`FbpXFa|@?lBYFa}TaLBYpIdZGuRDUHS@fP,,EN300-17983646,Enamine,520.94,"3-[(3,5-dibromo-4-hydroxyphenyl)methylidene]-5-iodo-2,3-dihydro-1H-indol-2-one",0.1,176,USD,7.159,Oc(c(Br)cc(C=C(c(cc(cc1)I)c1N1)C1=O)c1)c1Br
+fjuaR@IDMYw`XbSL{rs_tsdDAULuU@@@ !BbGvH@oy??`BH_Xa}?g?~_{_}bOw~_x`B?g~H?[_}bOw~_?y?_?x@?`,,EN300-26664931,Enamine,360.2,methyl 2-(3-bromo-4-hydroxyphenyl)-2-{[(tert-butoxy)carbonyl]amino}acetate,0.1,337,USD,10,CC(C)(C)OC(NC(C(OC)=O)c(cc1)cc(Br)c1O)=O
+fjm@``BEAb\qHxf\SHhhmDYEBeEfBBfBBJh@b`@@ !BbOrH?_x@?g~H?H`BbOw~@Ox@?`A??`C~b@Jw@ox@?`BH@k\BmpK~@@,,EN300-64638,Enamine,543.87,"2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenol",1,19,USD,10,CC(C)(c(cc1Br)cc(Br)c1O)c(cc1Br)cc(Br)c1O
+fjcQB@IJHCDRYg^UeUf\MZNTe``Jj@@@@@@ !BbOrH?_x@?g~H?H`B?`C~@Hc|m?s~@Ox@mpJH@k\B?`C~@Ox@b@Jw@`,,EN300-83095,Enamine,341.21,"2-bromo-4-(2,3-dihydro-1H-perimidin-2-yl)phenol",0.1,129,USD,0.1,Oc(ccc(C(N1)Nc2cccc3c2c1ccc3)c1)c1Br
+fikQa@OQIpHLRladTTVbVRfTJbbsA]GAAEMVtD@@@@ !Bm?s~@K_}b@Jw@k_|?`Bw_[_}b@K~_?x@bGvw_Xa}?g~w@k]}?g~w@ha}mwvw_[\B,,EN300-15640,Enamine,405.22,3-(3-bromo-5-ethoxy-4-hydroxyphenyl)-2-cyano-N-(2-fluorophenyl)prop-2-enamide,0.1,252,USD,0.071,CCOc1cc(C=C(C(Nc(cccc2)c2F)=O)C#N)cc(Br)c1O
+fhqab@IDtXFHdsOjvtsdDATuT@@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B?`Bw@h`B?`C~@@C~_?x,,EN300-26665120,Enamine,302.17,tert-butyl N-[(4-bromo-3-hydroxyphenyl)methyl]carbamate,0.1,277,USD,10,CC(C)(C)OC(NCc(cc1)cc(O)c1Br)=O
+fhqab@IDtXFHdsNzvtsdDATuT@@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`Bw@h`B?`C~@@C~_?x,,EN300-7186999,Enamine,302.17,tert-butyl N-[(3-bromo-4-hydroxyphenyl)methyl]carbamate,0.1,238,USD,0.767,CC(C)(C)OC(NCc(cc1)cc(Br)c1O)=O
+fhaa``CL]xFHRPUHAbLbbbfaVf`xJBHJjX@@ !BmpK~@K]}b@Jw@oy?mpJw__x@mpJH@ha}?`BH@k\BRgh,,EN300-1663250,Enamine,332.53,"2-amino-3-(3-bromo-2,6-difluoro-4-hydroxyphenyl)propanoic acid hydrochloride",0.1,723,USD,0.237,NC(Cc(c(F)c(c(O)c1)Br)c1F)C(O)=O.Cl
+fhaa``CD]xFIrPUHAbDfYywnFB``bjf@@@ !BbOrH?_x@?g~H?Hc|bOw~@Ox@bOrH?Hc}?`BH@k\Bv@X,,EN300-1664872,Enamine,332.53,"2-amino-3-(5-bromo-2,3-difluoro-4-hydroxyphenyl)propanoic acid hydrochloride",0.1,945,USD,7.133,NC(Cc(c(F)c1F)cc(Br)c1O)C(O)=O.Cl
+few`a@NDRCDebYEEEhdmBeEELefBtXkQs``B@fB@@@@DKP !Bb@JH?_x@?g~H@h`BbOw~@Ox@b@JH@ox@bOw~_xc}?g~H?K]}bGvH?_x@b@JH?H`B?`@,,EN300-27747982,Enamine,471.15,"5,7-dibromo-2-[(1E)-2-(2-hydroxynaphthalen-1-yl)ethenyl]quinolin-8-ol",0.1,218,USD,0.405,Oc1c(/C=C/c(cc2)nc3c2c(Br)cc(Br)c3O)c(cccc2)c2cc1
+fdyab@IDMXFHdsMk}mLEITDDSMUD@@ !B?g~w?Xc}m?s~_?y?XAjH?VAeKF\ZGrn{pIdZGqh_GvU`F`,,EN300-7424939,Enamine,312.16,tert-butyl 4-bromo-5-hydroxy-1H-indole-1-carboxylate,0.1,362,USD,6.965,CC(C)(C)OC([n](cc1)c(cc2)c1c(Br)c2O)=O
+fdyaA@HdAb\qLbbbtQRbRsA^CAADp@P@aJ@ !Bb@JH__x@?g~H@h`BbGw~@Ox@bOs~@K\Bb@K~@Ox@b@K~@@,,EN300-51812758,Enamine,369.05,"4-[(1E)-2-(4-aminophenyl)ethenyl]-2,6-dibromophenol",0.1,376,USD,10,Nc1ccc(/C=C/c(cc2Br)cc(Br)c2O)cc1
+fdy`a@MDTCDebYEEEheJhdfBCFBBIh@@@@ !BbGw~_x`BmwvH_Xa}?g~H@h`BbOvw?_y?m?vH?_y??g~H_P,,EN300-1267200,Enamine,371.03,"3,5-dibromo-2-hydroxy-N-phenylbenzamide",0.1,257,USD,10,Oc(c(C(Nc1ccccc1)=O)cc(Br)c1)c1Br
+fduAB@B@qDfYwiUegK^\EtXHBjjjJ`@@ !Bb@JH?_x@?g~H?H`B?`C~@Oxp\ItOgRN`Hz@chGB]CytOgP,,EN300-234856,Enamine,307.23,4-(adamantan-1-yl)-2-bromophenol,0.1,48,USD,0,Oc(ccc(C1(CC(C2)C3)CC3CC2C1)c1)c1Br
+fdiab@IDMXFIdTTVaTTJdYrB@jfj`@@ !BmpK~@K]}b@Jw@k\Bmww~@K\B?`Bw_X`BmpK~@Ox@_?x@?`,,EN300-170351,Enamine,316.19,tert-butyl N-[(3-bromo-2-hydroxyphenyl)methyl]-N-methylcarbamate,0.1,342,USD,2.748,CC(C)(C)OC(N(C)Cc1cccc(Br)c1O)=O
+fbepa@M^BS`LSLPdsOK{KhpW`pPQURuD@@ !B\MFJYssDP}mptWCQbf\|qCsD\MEptSsD\OyErCkHqCs~\Kab@Hx,,EN300-55702,Enamine,362.65,2-bromo-4-{[(1-ethyl-1H-pyrazol-4-yl)amino]methyl}-6-methoxyphenol hydrochloride,0.1,282,USD,2.939,CC[n]1ncc(NCc(cc2OC)cc(Br)c2O)c1.Cl
+fas@a@BEAbQqLbbbtVdTjTVTcNASA@UT@QUP@@@ !BmpK~@K_}b@Jw@k\Bmww~@K_}?`@@?g?~mpK~_{_}mwvw@oy??g~w__y?@Oy??`,,EN300-18481,Enamine,456.22,"3,3'-dibromo-5,5'-di-tert-butyl-[1,1'-biphenyl]-4,4'-diol",0.1,66,USD,10,CC(C)(C)c1cc(-c(cc2C(C)(C)C)cc(Br)c2O)cc(Br)c1O
+f`qAb@BV\CDRYfu}m`eZ``@BZ@@@ !B?g~w_Xa}mpK~_?y?b@JH?Xc}bGvH?Hc}bOs~_xc},,EN300-28234562,Enamine,281.1,methyl 5-bromo-6-hydroxynaphthalene-2-carboxylate,0.1,257,USD,10,COC(c(cc1)cc(cc2)c1c(Br)c2O)=O
+f`aab@ADUhFHdsOk[SNPPEMU@@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BbGw~@Hc|b@HBm?vH,,EN300-1903229,Enamine,288.14,tert-butyl N-(4-bromo-3-hydroxyphenyl)carbamate,0.1,241,USD,10,CC(C)(C)OC(Nc(cc1)cc(O)c1Br)=O
+f`a`a@CDXCD}DYEEEDcLdNRlzBHbjb@@ !Bmww~_{\BbOvw?_x@mwvH?K_|?`BH?X`BbOrH_QRq,,EN300-46817247,Enamine,308.6,2-bromo-3-(piperidin-3-yloxy)phenol hydrochloride,0.1,372,USD,1.996,Oc1cccc(OC2CNCCC2)c1Br.Cl
+f`aAB@B@qDfYyzZYrB@jjh@@ !Bb@JH__x@?g~H@h`B?`BH__x@bGtBbOvw?`@@?g?~,,EN300-62308,Enamine,285.22,"2-bromo-4,6-di-tert-butylphenol",1,19,USD,8.68,CC(C)(C)c(cc1C(C)(C)C)cc(Br)c1O
+eodXJH@EBKGO@`LSHhhllheEJeEEDdefNJnekcghHBjfZj@@@BBBQ@@ !B?g~H_[]}b@K~_?y?m?vw?[\Bm?w~@K\BmpJH@ox@m?vw@k_}s}Hqorn{YVC_fUR{wz[_ifT_YQ}eXER{,,EN300-267540,Enamine,482.33,(2S)-3-(3-bromo-4-hydroxyphenyl)-2-({[(9H-fluoren-9-yl)methoxy]carbonyl}amino)propanoic acid,0.1,337,USD,10,OC([C@H](Cc(cc1)cc(Br)c1O)NC(OCC1c(cccc2)c2-c2c1cccc2)=O)=O
+ekhPJB@BFGFa`LSSDBqMlQIfY[[nUnubQRqKkHiXzBHb`jBBDHH`@@ !BTv^?SmKOs]ASYx@qTv^?SmKOot{Rs|wPTv\ZGw?~KAb?Sk}NYuMeGrnDs]ASY?y?wyg_f[}NJxP,,EN300-19631807,Enamine,647.9,"2',4',5',7'-tetrabromo-3',6'-dihydroxy-3H-spiro[2-benzofuran-1,9'-xanthen]-3-one",1,19,USD,10,Oc(c(Br)c(c(C(c1c2cccc1)(c1cc(Br)c3O)OC2=O)c2)Oc1c3Br)c2Br
+ehRPJI@CKGO`PLPcDXqALQPHfqMlP{D^qLbbbffrdTlTRRTRbqxdt\ZVFn`bHiZ`@@bbh`@@@ !BbOs~@Hc}m?rH?Oy?bOs~@Ha}XFU`Fhc}s\|lFH`Bs]BH__x@KAb?Sh`BbOsMtLwPbGw~@Ox@KAb?Sk}NbOsMt@,,EN300-19628620,Enamine,985.55,"4,5,6,7-tetrabromo-3,3-bis(3,5-dibromo-4-hydroxyphenyl)-3H-2,1lambda6-benzoxathiole-1,1-dione",0.1,1635,USD,0,Oc(c(Br)cc(C(c(c1c(c(Br)c2Br)Br)c2Br)(c(cc2Br)cc(Br)c2O)OS1(=O)=O)c1)c1Br
+eg`RBDDMCHebECk`LScDVf{lbbbtQfRTTRrfRfc@dVTvtDDSSMSPACD@PFP !B`CGRsrpXTv^@LX@qtl|lFBpX`CGMtBpXs]@lF@C~YV@ZXBqgFBq`Fox@ilBDJv@ZXAjfpHPknuQ`F`,,EN300-6729759,Enamine,536.18,"3,5-dibromo-N'-[(E)-[2,5-dimethyl-1-(3-nitrophenyl)-1H-pyrrol-3-yl]methylidene]-4-hydroxybenzohydrazide",0.1,848,USD,5.239,Cc1cc(/C=N/NC(c(cc2Br)cc(Br)c2O)=O)c(C)[n]1-c1cc([N+]([O-])=O)ccc1
+do~JaNI]NpqNg^rJJKQJZUa``bYh@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?g~H@k\Bb@K~@@,,EN300-6488146,Enamine,276.04,methyl 3-bromo-4-hydroxy-5-nitrobenzoate,1,19,USD,1.994,COC(c(cc1[N+]([O-])=O)cc(Br)c1O)=O
+do~JaMKcmpqMe~RYgeWfFBBJe`@@ !Bb@K~@Ha}mpJH@h`B?`BH_Xa}mpJH@oy?bGw~@@,,EN300-26016453,Enamine,276.04,5-bromo-4-hydroxy-3-methoxy-2-nitrobenzaldehyde,0.1,109,USD,8.389,COc(c(O)c(cc1C=O)Br)c1[N+]([O-])=O
+do~HPKHLQxaIf]yT[cnB@jjH@@ !Bm?vw@oy??`Bw?[]}?g?~_{]}bGw~_?y?bOwZAP,,EN300-43378465,Enamine,292.6,2-bromo-4-(piperidin-4-yl)phenol hydrochloride,0.1,446,USD,0.39,Oc(ccc(C1CCNCC1)c1)c1Br.Cl
+do~HPKHLQ|QIf]Ud[mnB@jjH@@ !Bm?s~@K_}bOrw?K_|m?uG\t\Lw|[_v\[@[[CZm`,,EN300-6735859,Enamine,337.05,"8-bromo-5-methyl-2,3,4,5-tetrahydro-1H-3-benzazepin-7-ol hydrobromide",0.1,322,USD,10,CC(CNCCc1c2)c1cc(O)c2Br.Br
+do~HPEHLR\QIf^_Z[hHBjj@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@K~@Ox@@Oy??`,,EN300-746114,Enamine,337.05,"2,4-dibromo-6-[(tert-butylamino)methyl]phenol",0.1,257,USD,0.518,CC(C)(C)NCc1cc(Br)cc(Br)c1O
+do}L`MLn\LQIf^WeXXHHij@aX !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@K~_{\B?`Bw?P,,EN300-35192,Enamine,275.1,"(Z)-3-bromo-5-ethoxy-N',4-dihydroxybenzene-1-carboximidamide",0.1,132,USD,6.252,CCOc1cc(/C(\N)=N/O)cc(Br)c1O
+do|L`BtpqDfY{V]n``JfX@@ !Bb@K~@Ha}mpJH@h`BbGw~@H`BmpJH__x@?`BH@`,,EN300-180763,Enamine,271.11,methyl 4-bromo-3-hydroxy-2-(prop-2-en-1-yl)benzoate,0.1,144,USD,0.518,COC(c(cc1)c(CC=C)c(O)c1Br)=O
+do|JpBW[\LRP`xaIf^VzXXHHfe@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@ovHmwtBmp,,EN300-28277142,Enamine,315.53,3-bromo-5-(chlorosulfonyl)-2-hydroxybenzoic acid,0.1,202,USD,10,OC(c1cc(S(Cl)(=O)=O)cc(Br)c1O)=O
+do|JpBW[\LRP`yAIf^VzXXHHfe@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@ovHmwtBmp,,EN300-28279618,Enamine,299.07,3-bromo-5-(fluorosulfonyl)-2-hydroxybenzoic acid,0.1,539,USD,0,OC(c1cc(S(F)(=O)=O)cc(Br)c1O)=O
+do|B`BzwCDRYge}fFBBJY`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@K~_{_}mpK~_p,,EN300-17290,Enamine,273.08,3-(3-bromo-4-hydroxy-5-methoxyphenyl)prop-2-enoic acid,1,19,USD,5.848,COc1cc(C=CC(O)=O)cc(Br)c1O
+do|B`BT{CDrJJKQJZUa``bYh@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?g~H@k\Bb@K~@@,,EN300-132508,Enamine,273.08,methyl 3-acetyl-5-bromo-4-hydroxybenzoate,0.1,124,USD,2.981,CC(c1cc(C(OC)=O)cc(Br)c1O)=O
+do|B`BT{CDRYgg^vzB@if`@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@JH@ha}?`BH?@,,EN300-22338198,Enamine,273.08,methyl 2-(3-bromo-5-formyl-4-hydroxyphenyl)acetate,0.1,176,USD,10,COC(Cc(cc1C=O)cc(Br)c1O)=O
+do^LPIKSCD^HRYg^{FzB@jZ@@ !BmpJw?_x@?g~w@k\B?`C~@K\Bb@JH__x@b@IJA`,,EN300-1080064,Enamine,296.55,methyl 2-amino-2-(3-bromo-4-hydroxyphenyl)acetate hydrochloride,0.1,252,USD,10,COC(C(c(cc1)cc(Br)c1O)N)=O.Cl
+do^DHKYPqBqMqGqLbbbffRHxXH`jh@@ !BmpK~@K]}b@Jw@oy?mpJw__x@mwvw@h`B?`CZE`,,EN300-26975545,Enamine,470.78,"4-(2-aminoethyl)-3,5,6-tribromobenzene-1,2-diol hydrobromide",0.1,426,USD,10,NCCc(c(Br)c(c(O)c1O)Br)c1Br.Br
+dmvLaAJUCDFUyIf]yn``I`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@H,,EN300-79098,Enamine,218.01,2-bromo-4-nitrophenol,0.25,19,USD,10,[O-][N+](c(cc1)cc(Br)c1O)=O
+dmvLaNJUCDzUyIf^ya``a`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[\Bb@H,,EN300-111276,Enamine,218.01,2-bromo-6-nitrophenol,1,19,USD,10,[O-][N+](c1cccc(Br)c1O)=O
+dmvLaFJUCDZUyIf[[a`bA`@@ !Bmww~_{\BbGvw__x@mwvw@k\Bb@H,,EN300-103495,Enamine,218.01,2-bromo-3-nitrophenol,0.1,19,USD,10,[O-][N+](c1cccc(O)c1Br)=O
+dmvLaAJUCDFUyIf_Yn``I`@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@H,,EN300-113637,Enamine,218.01,2-bromo-5-nitrophenol,0.1,21,USD,10,[O-][N+](c(cc1)cc(O)c1Br)=O
+dmvH`IHLSHhhmBfzB@j@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B?`@,,EN300-102496,Enamine,216.08,2-bromo-6-[(methylamino)methyl]phenol,0.1,257,USD,0.83,CNCc1cccc(Br)c1O
+dmvH`EHLSHhhmDVzB@k@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}mwt,,EN300-6777624,Enamine,212.05,3-bromo-4-hydroxy-5-methylbenzonitrile,0.1,120,USD,10,Cc1cc(C#N)cc(Br)c1O
+dmvH`EHLSHhhmBfzB@k@@ !BmpK~@K]}b@Jw@k\Bmww~@H`BbOp,,EN300-199430,Enamine,212.05,2-(3-bromo-2-hydroxyphenyl)acetonitrile,0.1,407,USD,4.002,N#CCc1cccc(Br)c1O
+dmvHPEHLSlSHhhmDVFBBK@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?`@,,EN300-258708,Enamine,276.92,"3,5-dibromo-4-hydroxybenzonitrile",0.25,19,USD,10,N#Cc(cc1Br)cc(Br)c1O
+dmvHPEHLShcHhhmDVFBBK@@ !BmpJw__x@?g~w@k\Bmww~@Ox@?`@,,EN300-3186167,Enamine,232.46,3-bromo-5-chloro-4-hydroxybenzonitrile,0.1,83,USD,10,N#Cc(cc1Cl)cc(Br)c1O
+dmvHPEHLR\QIf^Ua``bp@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}?`@,,EN300-725117,Enamine,276.92,"3,5-dibromo-2-hydroxybenzonitrile",0.5,19,USD,10,N#Cc1cc(Br)cc(Br)c1O
+dmvHPEHLRXaIf^Ua``bp@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}?`@,,EN300-2919812,Enamine,232.46,3-bromo-5-chloro-2-hydroxybenzonitrile,0.1,71,USD,10,N#Cc1cc(Cl)cc(Br)c1O
+dmvHPEHLSiCHhhmDVFBBK@@ !BmpJw__x@?g~w@k\Bmww~@Ox@?`@,,EN300-310748,Enamine,216.01,3-bromo-5-fluoro-4-hydroxybenzonitrile,0.1,87,USD,10,N#Cc(cc1F)cc(Br)c1O
+dmvHPEHJslSHhhmDVFBBK@@ !BmpJw__x@?g~w@k\Bmww~@Ox@?`@,,EN300-24201724,Enamine,323.91,3-bromo-4-hydroxy-5-iodobenzonitrile,0.1,439,USD,0,N#Cc(cc1Br)cc(I)c1O
+dmvD`EK`qLbbbtQXXHHl@@ !BmpJw__x@?g~w@k\Bmww~@Ox@?`@,,EN300-6505088,Enamine,214.02,"3-bromo-4,5-dihydroxybenzonitrile",0.1,27,USD,2.632,N#Cc(cc1O)cc(Br)c1O
+dmvD`EJPqDfY}fzB@f@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@H,,EN300-262663,Enamine,216.03,4-bromo-3-hydroxybenzamide,0.25,19,USD,10,NC(c(cc1)cc(O)c1Br)=O
+dmtL`BzPqLbbbtJXXHHh@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@b@H,,EN300-1599530,Enamine,219.03,"3-bromo-6-methoxybenzene-1,2-diol",0.1,131,USD,10,COc(ccc(Br)c1O)c1O
+dmtL`BePqDfY}fzB@f@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BmpH,,EN300-109810,Enamine,217.02,4-bromo-3-hydroxybenzoic acid,0.25,19,USD,10,OC(c(cc1)cc(O)c1Br)=O
+dmtL`BePqDfYmnFBHF@@ !Bmww~_{\BbGvw__x@mwvw@h`BmpH,,EN300-133972,Enamine,217.02,2-bromo-3-hydroxybenzoic acid,0.1,50,USD,10,OC(c1cccc(O)c1Br)=O
+dmtL`BePqDfY{fFBBF@@ !BmpK~@K]}b@Jw@k\B?`Bw_X`BmpH,,EN300-71404,Enamine,217.02,3-bromo-2-hydroxybenzoic acid,0.5,19,USD,10,OC(c1cccc(Br)c1O)=O
+dmtL`ByPqLbbbtQXXHHd@@ !BmpJw__x@?g~w@k\Bmww~@Ox@b@H,,EN300-106071,Enamine,217.02,"3-bromo-4,5-dihydroxybenzaldehyde",0.1,35,USD,9.634,Oc1cc(C=O)cc(Br)c1O
+dmtL`BePqDfYmVFBBI@@ !Bmww~_{\BbGvw_[]}?`Bw@k\Bb@H,,EN300-7412255,Enamine,217.02,"2-bromo-3,6-dihydroxybenzaldehyde",0.1,59,USD,10,Oc(cc1)c(C=O)c(Br)c1O
+dmtL`BePqDfYyvzB@i@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@H,,EN300-30919,Enamine,217.02,"3-bromo-2,5-dihydroxybenzaldehyde",0.1,152,USD,10,Oc(cc1C=O)cc(Br)c1O
+dmtL`BePqDfYwfzB@f@@ !BmpJw__x@?g~w@k\B?`C~@H`BmpH,,EN300-11807,Enamine,217.02,3-bromo-4-hydroxybenzoic acid,0.25,19,USD,10,OC(c(cc1)cc(Br)c1O)=O
+dmtL`BEPqDfYnvfBBa@@ !Bmww~_{\BbGvw_[]}?`C~_{\Bb@H,,EN300-746109,Enamine,217.02,"2-bromo-3,4-dihydroxybenzaldehyde",0.1,52,USD,4.707,Oc1ccc(C=O)c(Br)c1O
+dmtL`BFPqDfYuvzB@j@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@b@H,,EN300-1911473,Enamine,219.03,"2-bromo-5-methoxybenzene-1,4-diol",0.1,355,USD,0,COc(c(O)c1)cc(O)c1Br
+dmtHpFCDJHVPRYf{xXH`h@@ !BmpK~@K]}b@Jw@oy?mpJw__x@mwt,,EN300-6821423,Enamine,239.47,2-bromo-3-chloro-6-fluoro-4-methylphenol,0.1,342,USD,10,Cc(c(Cl)c1Br)cc(F)c1O
+dmtHpBCDfPVPRYgv[hHBh@@ !Bmwvw@oy??`Bw_[]}?g~w_[\B?g|,,EN300-382862,Enamine,223.02,2-bromo-5-(difluoromethyl)phenol,0.1,481,USD,10,Oc(cc(C(F)F)cc1)c1Br
+dmtHpBCDFPVPRYfyZXHJH@@ !Bmww~_{\BbGvw_[]}?`C~_{\BmpH,,EN300-6780965,Enamine,223.02,"2-bromo-4,6-difluoro-3-methylphenol",0.1,347,USD,5.073,Cc(c(Br)c(c(F)c1)O)c1F
+dmtHpBCDFPVHRYfyZXHJH@@ !Bmww~_{\BbGvw_[]}?`C~_{\BmpH,,EN300-6821431,Enamine,239.47,2-bromo-4-chloro-6-fluoro-3-methylphenol,0.1,277,USD,8.324,Cc(c(Br)c(c(F)c1)O)c1Cl
+dmtH`BCDrJJKPqn``J`@@ !BmpK~@K]}b@Jw@k\Bmww~@H`BmpH,,EN300-5418000,Enamine,215.09,2-bromo-6-(propan-2-yl)phenol,0.1,146,USD,10,CC(C)c1cccc(Br)c1O
+dmtH`BCDRYgv[hHBh@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BmpH,,EN300-4266878,Enamine,215.09,2-bromo-5-(propan-2-yl)phenol,0.1,277,USD,10,CC(C)c(cc1)cc(O)c1Br
+dmtH`BCDrJJKPin``JP@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B?`@,,EN300-76268,Enamine,213.07,2-bromo-6-(prop-2-en-1-yl)phenol,0.1,109,USD,5.883,C=CCc1cccc(Br)c1O
+dmtH`BCDRYg^[hHBh@@ !BmpJw__x@?g~w@k\B?`C~@H`BmpH,,EN300-127045,Enamine,215.09,2-bromo-4-(propan-2-yl)phenol,0.1,82,USD,10,CC(C)c(cc1)cc(Br)c1O
+dmtD`BdLQIf[[a`bA`@@ !Bmww~_{\BbGvw__x@mwvw@k\Bb@H,,EN300-1914615,Enamine,215.05,1-(2-bromo-3-hydroxyphenyl)ethan-1-one,0.1,167,USD,10,CC(c1cccc(O)c1Br)=O
+dmtD`BdLQIf]yn``I`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@H,,EN300-261215,Enamine,215.05,1-(3-bromo-4-hydroxyphenyl)ethan-1-one,1,19,USD,10,CC(c(cc1)cc(Br)c1O)=O
+dmtD`BdLQIf^ya``a`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[\Bb@H,,EN300-114936,Enamine,215.05,1-(3-bromo-2-hydroxyphenyl)ethan-1-one,1,19,USD,10,CC(c1cccc(Br)c1O)=O
+dmtD`BTLSHhhmDVzB@i@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}?g|,,EN300-6806594,Enamine,215.05,3-bromo-4-hydroxy-5-methylbenzaldehyde,0.1,176,USD,10,Cc1cc(C=O)cc(Br)c1O
+dmtD`BTLSHhhiiVFBBI@@ !Bmww~_{\BbGvw_[]}?`Bw@oy?m?t,,EN300-6776080,Enamine,215.05,3-bromo-2-hydroxy-4-methylbenzaldehyde,0.1,301,USD,10,Cc1ccc(C=O)c(O)c1Br
+dmtD`BTLQIf^un``JP@@ !B?`BH@k\BbGw~@Ox@mpJH@ox@?`@,,EN300-180454,Enamine,215.05,3-bromo-2-hydroxy-6-methylbenzaldehyde,0.1,103,USD,10,Cc(cc1)c(C=O)c(O)c1Br
+dmtD`BTLQIf^]n``JP@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@H,,EN300-129716,Enamine,215.05,3-bromo-2-hydroxy-5-methylbenzaldehyde,0.1,22,USD,0.664,Cc(cc1C=O)cc(Br)c1O
+dmtD`BTLQIf]un``J`@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`@,,EN300-1898192,Enamine,217.06,2-bromo-4-(2-hydroxyethyl)phenol,0.1,322,USD,0,OCCc(cc1)cc(Br)c1O
+dmtDPITJqlQIeYvn`BJP@@ !Bb@JH__x@b@JH@ha}?`C~@H`Bb@H,,EN300-26255440,Enamine,326.91,3-bromo-2-hydroxy-5-iodobenzaldehyde,0.1,77,USD,10,Oc(c(C=O)cc(I)c1)c1Br
+dmtDPFdLPiCHhhibnFBHJ@@ !B?`BH@k\BbGw~@K]}?`Bw@ox@b@H,,EN300-6807267,Enamine,221.02,2-bromo-3-fluoro-5-methoxyphenol,0.1,461,USD,10,COc(cc1O)cc(F)c1Br
+dmtDPBxLRXaIf^Ua``b`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@H,,EN300-1897198,Enamine,237.48,2-bromo-4-chloro-6-methoxyphenol,0.1,355,USD,2.816,COc1cc(Cl)cc(Br)c1O
+dmtDPBdLSlSHhhmDVFBBJ@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-193486,Enamine,281.93,"2,6-dibromo-4-methoxyphenol",0.1,103,USD,10,COc(cc1Br)cc(Br)c1O
+dmtDPBdLPYAIf]]n``J`@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@b@H,,EN300-6825593,Enamine,221.02,2-bromo-4-fluoro-5-methoxyphenol,0.1,156,USD,10,COc(c(F)c1)cc(O)c1Br
+dmtDPBTLSiCHhhmDVFBBI@@ !BmpJw__x@?g~w@k\Bmww~@Ox@b@H,,EN300-6778123,Enamine,219.01,3-bromo-5-fluoro-4-hydroxybenzaldehyde,1,19,USD,10,Oc(c(F)cc(C=O)c1)c1Br
+dmtDPBTLSiCHhhmBfFBBI@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@b@H,,EN300-7499171,Enamine,219.01,4-bromo-2-fluoro-3-hydroxybenzaldehyde,0.1,241,USD,10,Oc(c(F)c(C=O)cc1)c1Br
+dmtDPBTLSlSHhhmDVFBBI@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-18119,Enamine,279.92,"3,5-dibromo-4-hydroxybenzaldehyde",1,19,USD,10,Oc(c(Br)cc(C=O)c1)c1Br
+dmtDPBTLShcHhhmDVFBBI@@ !BmpJw__x@?g~w@k\Bmww~@Ox@b@H,,EN300-7418405,Enamine,235.46,3-bromo-5-chloro-4-hydroxybenzaldehyde,0.25,19,USD,10,Oc(c(Cl)cc(C=O)c1)c1Br
+dmtDPBTLR\QIf^]n``JP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@H,,EN300-18188,Enamine,279.92,"3,5-dibromo-2-hydroxybenzaldehyde",1,19,USD,10,Oc(c(C=O)cc(Br)c1)c1Br
+dmtDPBTLSlSHhhmDVFBBJ@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@H,,EN300-365651,Enamine,281.93,"2,6-dibromo-4-(hydroxymethyl)phenol",0.1,113,USD,10,OCc(cc1Br)cc(Br)c1O
+dmtDPBTLRYAIf^un``JP@@ !Bb@K~@Ha}mpJH@h`BbGw~@H`Bb@H,,EN300-306187,Enamine,219.01,3-bromo-6-fluoro-2-hydroxybenzaldehyde,0.1,72,USD,2.326,Oc(c(C=O)c(cc1)F)c1Br
+dmtDPBTLRYAIf]Un``JP@@ !Bb@JH__x@?g~H@h`B?`C~@H`Bb@H,,EN300-1276385,Enamine,219.01,5-bromo-2-fluoro-4-hydroxybenzaldehyde,0.1,78,USD,10,Oc(cc(c(C=O)c1)F)c1Br
+dmtDPBTLRYAIf^]n``JP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@H,,EN300-177154,Enamine,219.01,3-bromo-5-fluoro-2-hydroxybenzaldehyde,0.5,19,USD,7.824,Oc(c(C=O)cc(F)c1)c1Br
+dmtDPBTLRXaIf]Un``JP@@ !Bb@JH__x@?g~H@h`B?`C~@H`Bb@H,,EN300-1276897,Enamine,235.46,5-bromo-2-chloro-4-hydroxybenzaldehyde,0.1,248,USD,6.573,Oc(cc(c(C=O)c1)Cl)c1Br
+dmtDPBTLRXaIf^]n``JP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@H,,EN300-370866,Enamine,235.46,3-bromo-5-chloro-2-hydroxybenzaldehyde,0.25,19,USD,10,Oc(c(C=O)cc(Cl)c1)c1Br
+dmtDPBTLQiCHhhii^FBHI@@ !BmpK~@K]}b@Jw@oy?mpJw__x@b@H,,EN300-121460,Enamine,219.01,3-bromo-4-fluoro-2-hydroxybenzaldehyde,0.1,257,USD,10,Oc(c(C=O)ccc1F)c1Br
+dmtDPBDLRYAIf]Un``J`@@ !Bb@JH__x@?g~H@h`B?`C~@H`Bb@H,,EN300-6825652,Enamine,221.02,2-bromo-5-fluoro-4-methoxyphenol,0.1,68,USD,10,COc(c(F)c1)cc(Br)c1O
+dmVHpNHLRXaXaIf^Qa``b@@ !Bm?s~@K_}b@Jw@k_|?`Bw_[_}vgX,,EN300-25092201,Enamine,258.93,2-amino-6-bromo-4-chlorophenol hydrochloride,1,19,USD,10,Nc1cc(Cl)cc(Br)c1O.Cl
+dmVHpIHLP\QXaIf]Qn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@?Oh,,EN300-7438011,Enamine,303.38,"5-amino-2,4-dibromophenol hydrochloride",0.1,77,USD,10,Nc(c(Br)c1)cc(O)c1Br.Cl
+dmVHpIHLSiAXaIf^Qa``b@@ !Bb@JH?_x@?g~H@h`BbOw~@Ox@YDx,,EN300-52810712,Enamine,242.48,4-amino-2-bromo-6-fluorophenol hydrochloride,0.1,136,USD,10,Nc(cc1F)cc(Br)c1O.Cl
+dmVHpAHLRXa\QIf]Qn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`BIOX,,EN300-52855367,Enamine,303.38,4-amino-2-bromo-5-chlorophenol hydrobromide,0.1,298,USD,10,Nc(c(Cl)c1)cc(Br)c1O.Br
+dmVHPIHLQXaIf_Qn``J@@ !B?`BH?K_|bOw~@Ox@m?s~@H`B?Kh,,EN300-6495042,Enamine,238.51,5-(aminomethyl)-2-bromophenol hydrochloride,0.1,301,USD,10,NCc(cc1)cc(O)c1Br.Cl
+dmVHPIHLQXaIf]Qn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`BvOX,,EN300-27776897,Enamine,238.51,5-amino-2-bromo-4-methylphenol hydrochloride,0.1,156,USD,10,Cc(c(N)c1)cc(Br)c1O.Cl
+dmVHPIHLQXaIf[qa``b@@ !Bmww~_{\BbOvw?[_}?`Bw?H`BvaD,,EN300-7720147,Enamine,238.51,3-(aminomethyl)-2-bromophenol hydrochloride,0.1,337,USD,0.02,NCc1cccc(O)c1Br.Cl
+dmVHPIHLQ\QIf]qn``J@@ !Bm?rw?_x@?g~w?K_|?`C~@H`BvkX,,EN300-111601,Enamine,282.96,4-(aminomethyl)-2-bromophenol hydrobromide,0.1,158,USD,10,NCc(cc1)cc(Br)c1O.Br
+dmVHPIHLQXcHhhmBFzB@h@@ !Bm?s~@K_}b@Jw@k_|m?w~@H`BvaX,,EN300-180954,Enamine,238.51,2-(aminomethyl)-6-bromophenol hydrochloride,0.1,221,USD,10,NCc1cccc(Br)c1O.Cl
+dmVHPAHLQXaIf]qn``J@@ !Bm?rw?_x@?g~w?K_|?`C~@H`BvkX,,EN300-47319015,Enamine,238.51,2-bromo-4-(methylamino)phenol hydrochloride,0.1,337,USD,10,CNc(cc1)cc(Br)c1O.Cl
+dmVDPAI`qEbDfYnNfBH`@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}voX,,EN300-52223565,Enamine,240.48,"4-amino-2-bromobenzene-1,3-diol hydrochloride",0.1,337,USD,0.324,Nc(c(O)c1Br)ccc1O.Cl
+dmVDPAJPqEbDfYuFzB@h@@ !Bb@JH__x@?g~H@h`B?`C~@H`BIOX,,EN300-52407622,Enamine,240.48,"4-amino-6-bromobenzene-1,3-diol hydrochloride",0.1,372,USD,10,Nc(c(O)c1)cc(Br)c1O.Cl
+dmNH`IHLQIf]UneXHBd`@ !BbGw~_x`BmwvH_Xa}b@I`FfAeKF\,,EN300-121843,Enamine,212.05,5-bromo-1H-indol-6-ol,0.1,376,USD,10,Oc(cc1[nH]ccc1c1)c1Br
+dmMH`NT`qDfY{VFU``ab@@ !BbGvH@oy??`BH_Xa}XAk~_rqgXFT,,EN300-205763,Enamine,213.03,"5-bromo-1H-1,3-benzodiazol-4-ol",0.1,684,USD,0.038,Oc(c1c(cc2)[nH]cn1)c2Br
+dmMH`IT`qDfY{VzU``JR@@ !BbGvH@oy??`BH_Xa}?g}`FfAeKF\,,EN300-24202365,Enamine,213.03,5-bromo-1H-indazol-4-ol,0.1,109,USD,10,Oc(c1c(cc2)[nH]nc1)c2Br
+dmMH`IT`qDfYuVzU``JR@@ !BbGw~_x`BmwvH_Xa}b@I`FfAeKF\,,EN300-6774825,Enamine,213.03,5-bromo-1H-indazol-6-ol,0.1,28,USD,5.647,Oc(cc1[nH]ncc1c1)c1Br
+dmMH`IT`qDfYmVFU``bR@@ !B?g~w_Xa}mpK~_?y?XAjH_VAeKF\,,EN300-724785,Enamine,213.03,4-bromo-1H-indazol-5-ol,0.1,162,USD,8.631,Oc(ccc1c2cn[nH]1)c2Br
+dmMH`FT`qDfYm^FU`bAb@@ !B?g~w_Xa}mpK~_v@Z?g~H_RqgXFT,,EN300-3182839,Enamine,213.03,"4-bromo-1H-1,3-benzodiazol-5-ol",0.1,277,USD,0.655,Oc(ccc1c2nc[nH]1)c2Br
+dmMH`AT`qDfYuVzU``Ja@@ !BbGw~_x`BmwvH_Xa}b@I`FfAeKF\,,EN300-184113,Enamine,213.03,6-bromo-1H-indazol-5-ol,0.25,19,USD,10,Oc(cc(cn[nH]1)c1c1)c1Br
+dmLL`BFPqDfYuVzU``Jb@@ !BbGw~_x`BmwvH_Xa}b@I`FfAeKF\,,EN300-1997124,Enamine,217.02,"6-bromo-1,3-dioxaindan-5-ol",0.1,60,USD,8.826,Oc(cc1OCOc1c1)c1Br
+dmLL`BYPqDfYm^FU`bBb@@ !B?g~w_Xa}mpK~_v@Z?g~H_RqgXFT,,EN300-6817742,Enamine,217.02,"4-bromo-1,3-dioxaindan-5-ol",0.1,277,USD,4.669,Oc(ccc1c2OCO1)c2Br
+dmLH`BCDRYfuXYVBBJH@@ !B?g~w_Xa}mpK~_?y?XAjH_VAeKF\,,EN300-6777934,Enamine,213.07,"4-bromo-2,3-dihydro-1H-inden-5-ol",0.1,342,USD,10,Oc(ccc1c2CCC1)c2Br
+dmLHPBCDdHRYfuXYVBBIH@@ !B?g~w_Xa}mpK~_?y?XAjH_VAeKF\,,EN300-6814141,Enamine,229.1,4-bromo-1-benzothiophen-5-ol,0.1,515,USD,6.949,Oc(ccc1c2cc[s]1)c2Br
+dmLHPBCDdHRYgm[iVB@iH@@ !BbGvH@oy??`BH_Xa}?g}`FfAeKF\,,EN300-7720333,Enamine,229.1,5-bromo-1-benzothiophen-4-ol,0.1,376,USD,10,Oc(c1c(cc2)[s]cc1)c2Br
+dmLD`BdLQIf[UaeXHHd`@ !B?g~w_Xa}mpK~_?y?XAjH_VAeKF\,,EN300-6812507,Enamine,213.03,4-bromo-1-benzofuran-5-ol,0.1,376,USD,0,Oc(ccc1c2cc[o]1)c2Br
+dmLD`BdLQIf]UneXHBh`@ !BbGw~_x`BmwvH_Xa}b@I`FfAeKF\,,EN300-6777190,Enamine,215.05,"5-bromo-2,3-dihydro-1-benzofuran-6-ol",0.1,306,USD,10,Oc(cc1OCCc1c1)c1Br
+dknLqNI]CDfPNPz]yIf^VVFBBIh@@ !Bb@K~@Ha}mpJH@h`B?`BH_Xa}mpJH@h`B,,EN300-2940789,Enamine,253.99,"6-bromo-3,4-difluoro-2-nitrophenol",0.1,72,USD,10,[O-][N+](c(c(O)c(cc1F)Br)c1F)=O
+dknLQNI]CDgDz]yIf^VVFBBIh@@ !B?`BH@k\BbGw~@Ox@b@Jw@k\BbGw~@Ox@,,EN300-7394007,Enamine,310.93,"4,6-dibromo-3-methyl-2-nitrophenol",0.1,221,USD,10,Cc(c(Br)cc(Br)c1O)c1[N+]([O-])=O
+dknLPNKSCDgDRYggya``bf@@ !Bb@K~@Ha}mpJH@h`B?`BH_Xa}b@JH__x@,,EN300-6192223,Enamine,310.93,"2-amino-4,6-dibromo-3-hydroxybenzoic acid",0.1,470,USD,4.041,Nc1c(C(O)=O)c(Br)cc(Br)c1O
+dknHPMHLP|QIf]UFy]``Jh`@ !BmpK~@K]}b@Jw@k\Bmwvw_[\BmpJw_]kv,,EN300-43394515,Enamine,309,"6-bromo-1,2,3,4-tetrahydroisoquinolin-7-ol hydrobromide",0.1,337,USD,10,Oc(cc(CNCC1)c1c1)c1Br.Br
+dknHPMHLPxaIf[WFE]``bh`@ !B?`BH@k_|bGw~@Ox@mwvw@k\BmpJw?_sF,,EN300-26571534,Enamine,264.55,"5-bromo-1,2,3,4-tetrahydroisoquinolin-6-ol hydrochloride",0.1,515,USD,2.667,Oc(ccc1c2CCNC1)c2Br.Cl
+dknHPIHLP|QIf[WFE]``@@@@ !B?`BH@k_|bGw~@Ox@mwvw@k\BmpJw?_sF,,EN300-6736647,Enamine,304.97,5-bromoquinolin-6-ol hydrobromide,0.1,97,USD,10,Oc(ccc1c2cccn1)c2Br.Br
+dknHPEHLPxaIf[WFE]``bh`@ !B?`BH@k_|bGw~@Ox@mwvw@k\BmpJw?_sF,,EN300-28247672,Enamine,264.55,"8-bromo-1,2,3,4-tetrahydroisoquinolin-7-ol hydrochloride",0.1,420,USD,8.677,Oc(ccc1c2CNCC1)c2Br.Cl
+dknHPEHLPxaIf]UFy]``Jh`@ !BmpK~@K]}b@Jw@k\Bmwvw_[\BmpJw_]kv,,EN300-6490239,Enamine,264.55,"7-bromo-1,2,3,4-tetrahydroisoquinolin-6-ol hydrochloride",0.1,706,USD,8.652,Oc(cc(CCNC1)c1c1)c1Br.Cl
+dknHPEHLP|QIf[WFE]``@@@@ !B?`BH@k_|bGw~@Ox@mwvw@k\BmpJw?_sF,,EN300-27736248,Enamine,304.97,8-bromoisoquinolin-7-ol hydrobromide,0.1,85,USD,10,Oc(ccc1c2cncc1)c2Br.Br
+dknHPBXLP|SHhhheBNe]`B@@@@ !B?`Bw?H`Bmww~@Ha}?`Bw@h`BmpK~@OsF,,EN300-305644,Enamine,304.97,8-bromoquinolin-7-ol hydrobromide,0.1,23,USD,10,Oc(ccc1c2nccc1)c2Br.Br
+dknHPAHLP|QIf]UFy]``@@@@ !BmpK~@K]}b@Jw@k\Bmwvw_[\BmpJw_]kv,,EN300-6730696,Enamine,304.97,7-bromoquinolin-6-ol hydrobromide,0.1,66,USD,9.403,Oc(c(Br)c1)cc2c1nccc2.Br
+dknD`MK`qDfYy]XXHHk`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw__x@,,EN300-09546,Enamine,242.07,3-bromo-5-ethoxy-4-hydroxybenzonitrile,0.1,27,USD,10,CCOc1cc(C#N)cc(Br)c1O
+dknD`CIPqDfYy[XXHHfp@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@k]},,EN300-19592842,Enamine,240.06,3-acetyl-5-bromo-4-hydroxybenzonitrile,0.1,120,USD,10,CC(c1cc(C#N)cc(Br)c1O)=O
+dknDPMYPqBqDfYnwzXHbK`@@ !BmpJw__x@?g~w@h`BmpJw__x@?`Bw_X`B,,EN300-227936,Enamine,306.94,"2,3-dibromo-4-hydroxy-5-methoxybenzonitrile",0.1,407,USD,1,COc(cc(c(Br)c1Br)C#N)c1O
+dknDPIKPqAqDfYuv[hHBi`@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@b@JH__x@,,EN300-174327,Enamine,308.96,"N-(2,4-dibromo-5-hydroxyphenyl)acetamide",0.1,136,USD,10,CC(Nc(c(Br)c1)cc(O)c1Br)=O
+dknBaII]LLRYOdfYyv[hHBe`@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@Jw@h`B,,EN300-92982,Enamine,246.02,3-bromo-2-hydroxy-5-nitrobenzaldehyde,0.1,19,USD,10,[O-][N+](c(cc1C=O)cc(Br)c1O)=O
+dklL`B{PqDfYy^XXHHi`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@K~_{\B,,EN300-1899724,Enamine,245.07,1-(3-bromo-4-hydroxy-5-methoxyphenyl)ethan-1-one,0.1,103,USD,10,CC(c(cc1OC)cc(Br)c1O)=O
+dklL`BtpqLbbbtJT[hHBi`@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B?`BH?K_|,,EN300-1897957,Enamine,245.07,3-(3-bromo-2-hydroxyphenyl)propanoic acid,0.1,241,USD,10,OC(CCc1cccc(Br)c1O)=O
+dklL`B{PqDfYy]XXHHi`@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@ox@,,EN300-17133,Enamine,245.07,3-bromo-5-ethoxy-4-hydroxybenzaldehyde,0.25,19,USD,10,CCOc1cc(C=O)cc(Br)c1O
+dklL`BWPqLbbbtra[hHBf`@@ !BmpK~@K]}b@Jw@k\Bmww~@K\BmpJH@ox@,,EN300-26974853,Enamine,245.07,methyl 3-bromo-2-hydroxy-6-methylbenzoate,0.1,372,USD,1.05,Cc(cc1)c(C(OC)=O)c(O)c1Br
+dklL`BWPqDfY}[[hHBf`@@ !B?`BH@k\BbGw~@Ox@mpK~@H`BbGw~@Hc|,,EN300-311376,Enamine,245.07,methyl 2-(4-bromo-3-hydroxyphenyl)acetate,0.1,383,USD,10,COC(Cc(cc1)cc(O)c1Br)=O
+dklL`BDpqDfYnwZXHJJ`@@ !BmpK~@K]}b@Jw@k\B?g?~@K]}bOvH@oy?,,EN300-1914667,Enamine,247.09,2-bromo-3-(2-hydroxyethyl)-6-methoxyphenol,0.1,337,USD,0.057,COc1ccc(CCO)c(Br)c1O
+dklLPBWPqIdLbbbrRa[hHBf`@@ !Bb@JH__x@?g~H@h`B?`C~@H`BmpJH@ox@,,EN300-6489844,Enamine,249.04,methyl 5-bromo-2-fluoro-4-hydroxybenzoate,0.1,66,USD,10,COC(c(c(F)c1)cc(Br)c1O)=O
+dklLPBWPqNbLbbbtQfXXHHf`@@ !BmpJw__x@?g~w@k\Bmww~@Ox@mpJH@ox@,,EN300-342134,Enamine,265.49,methyl 3-bromo-5-chloro-4-hydroxybenzoate,0.1,20,USD,10,COC(c(cc1Cl)cc(Br)c1O)=O
+dklLPBWPqAdDfYu{[hHBf`@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@mpJH@ox@,,EN300-20838487,Enamine,249.04,methyl 4-bromo-2-fluoro-5-hydroxybenzoate,0.1,136,USD,10,COC(c(c(F)c1)cc(O)c1Br)=O
+dklLPBWPkNqLbbbtQfXXHHf`@@ !BmpJw__x@?g~w@k\Bmww~@Ox@mpJH@ox@,,EN300-761354,Enamine,356.94,methyl 3-bromo-4-hydroxy-5-iodobenzoate,0.1,277,USD,10,COC(c(cc1Br)cc(I)c1O)=O
+dklLHBtpqNbIBEbLbbbtQdXXHHiP@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@_?{~@@C~,,EN300-33051453,Enamine,305.96,3-bromo-5-chloro-4-hydroxybenzene-1-sulfonyl chloride,0.1,347,USD,10,Oc(c(Cl)cc(S(Cl)(=O)=O)c1)c1Br
+dklLHBtpqNBIqEbDfYyZXXHHiP@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}_?{~@@C~,,EN300-725115,Enamine,350.41,"3,5-dibromo-2-hydroxybenzene-1-sulfonyl chloride",0.1,317,USD,10,Oc(c(S(Cl)(=O)=O)cc(Br)c1)c1Br
+dklLHBtpqNqIBEdLbbbtQdXXHHiP@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@_?{~@@C~,,EN300-6493398,Enamine,333.96,"3,5-dibromo-4-hydroxybenzene-1-sulfonyl fluoride",0.1,342,USD,10,Oc(c(Br)cc(S(F)(=O)=O)c1)c1Br
+dklLHBtpqNqIBEbLbbbtQdXXHHiP@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@_?{~@@C~,,EN300-276925,Enamine,350.41,"3,5-dibromo-4-hydroxybenzene-1-sulfonyl chloride",0.1,376,USD,10,Oc(c(Br)cc(S(Cl)(=O)=O)c1)c1Br
+dklHhBCDfPVPvPNPRYfuia``bj@@ !Bmwvw@oy??`Bw_[]}bGw~_?y?bGtBbOvw,,EN300-7504014,Enamine,259,2-bromo-4-fluoro-3-(trifluoromethyl)phenol,0.1,729,USD,2.805,Oc(ccc(F)c1C(F)(F)F)c1Br
+dklHhBCDgDVPvPNPRYggin``Jj@@ !BbGvH@oy??`BH_Xa}?g~H@oy?b@K}b@Jw,,EN300-1267291,Enamine,319.9,"2,4-dibromo-6-(trifluoromethyl)phenol",0.1,57,USD,10,Oc(c(C(F)(F)F)cc(Br)c1)c1Br
+dklHhBCDfPVPvPNPRYggin``Jj@@ !BbGvH@oy??`BH_Xa}?g~H@oy?b@K}b@Jw,,EN300-8152277,Enamine,259,2-bromo-4-fluoro-6-(trifluoromethyl)phenol,0.1,48,USD,10,Oc(c(C(F)(F)F)cc(F)c1)c1Br
+dklHhBCDFPVPvPNPRYgWin``Jj@@ !Bmwvw@oy??`Bw_[]}?g?~_{]}mwtBm?vH,,EN300-7432603,Enamine,259,2-bromo-4-fluoro-5-(trifluoromethyl)phenol,0.1,426,USD,0.175,Oc(cc(C(F)(F)F)c(F)c1)c1Br
+dklHhBCDfHVPvPNPRYggin``Jj@@ !BbGvH@oy??`BH_Xa}?g~H@oy?b@K}b@Jw,,EN300-29414898,Enamine,275.45,2-bromo-4-chloro-6-(trifluoromethyl)phenol,0.1,109,USD,10,Oc(c(C(F)(F)F)cc(Cl)c1)c1Br
+dklH`BCDrJJKQFQn``Jj@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}mwtBm?vH,,EN300-8195735,Enamine,243.14,2-bromo-4-tert-butyl-6-methylphenol,0.1,77,USD,10,CC(C)(C)c(cc1C)cc(Br)c1O
+dklH`BCDRYggin``Jj@@ !Bb@JH__x@?g~H@h`B?`BH__x@bGtBbOvw,,EN300-8158005,Enamine,243.14,2-bromo-6-tert-butyl-4-methylphenol,0.1,77,USD,10,CC(C)(C)c1cc(C)cc(Br)c1O
+dklHPIBl[DRYV]jn`BJj@@ !Bb@JH__x@b@JH@ha}?`C~@H`B?`@@?g?~,,EN300-266388,Enamine,355.01,2-bromo-6-tert-butyl-4-iodophenol,0.1,366,USD,8.405,CC(C)(C)c1cc(I)cc(Br)c1O
+dklHPBCDgDRYggin``Jj@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}?`@@?g?~,,EN300-152594,Enamine,308.01,"2,4-dibromo-6-tert-butylphenol",0.1,39,USD,10,CC(C)(C)c1cc(Br)cc(Br)c1O
+dklHHBCDVPvPNPRYguin``Jj@@ !Bmwvw@oy??`Bw_[]}?g~w_[\BmpK}mpJH,,EN300-28318261,Enamine,255.03,"2-bromo-5-(2,2,2-trifluoroethyl)phenol",0.1,644,USD,0.315,Oc(cc(CC(F)(F)F)cc1)c1Br
+dklD`BLLQIf^^VzB@jd@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@Jw@k\B,,EN300-51664436,Enamine,243.1,3-bromo-4-hydroxy-5-(propan-2-yl)benzaldehyde,0.1,188,USD,10,CC(C)c1cc(C=O)cc(Br)c1O
+dklDHBDLQYCY@yAIf_VfzB@jh@@ !Bmwvw@oy??`Bw_[]}?g~w_[\BmpK}mpJH,,EN300-248191,Enamine,257.01,2-bromo-5-(trifluoromethoxy)phenol,0.25,19,USD,10,Oc(cc(cc1)OC(F)(F)F)c1Br
+dklDHBxLQYCY@yAIf^~fFBBJh@@ !BbGvH@oy??`BH_Xa}b@K~_xa}bGtBbOvw,,EN300-7392690,Enamine,257.01,2-bromo-6-(trifluoromethoxy)phenol,0.1,96,USD,10,Oc(c(OC(F)(F)F)ccc1)c1Br
+dklDHBDLQYCY@yAIf]vfzB@jh@@ !Bmwvw@oy??`Bw_[]}?g?~_{_}m?tBm?vH,,EN300-125903,Enamine,257.01,2-bromo-4-(trifluoromethoxy)phenol,0.25,19,USD,10,Oc(ccc(OC(F)(F)F)c1)c1Br
+dklDHBXLQYCY@yCHhhhdYNfBHbh@@ !Bmww~_{\BbGvw__x@mww~_{\B?g|@?g?~,,EN300-256632,Enamine,257.01,2-bromo-3-(trifluoromethoxy)phenol,0.1,431,USD,9.112,Oc1cccc(OC(F)(F)F)c1Br
+dklB`Be]CDRYgema``bZ@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@K~_x`B,,EN300-1273273,Enamine,247.04,3-bromo-2-hydroxy-5-methoxybenzoic acid,0.1,293,USD,2.631,COc(cc1C(O)=O)cc(Br)c1O
+dklB`By]CDrJJKQFYa``bZ@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@ox@,,EN300-25382875,Enamine,247.04,"methyl 3-bromo-4,5-dihydroxybenzoate",0.1,120,USD,10,COC(c(cc1O)cc(Br)c1O)=O
+dklB`BWSCDRYggYn``JV@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@Jw@oy?,,EN300-1478744,Enamine,245.03,3-bromo-5-formyl-4-hydroxybenzoic acid,0.1,156,USD,10,OC(c(cc1C=O)cc(Br)c1O)=O
+dklB`B{SCDRYgeya``bf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@oy?,,EN300-05459,Enamine,247.04,3-bromo-4-hydroxy-5-methoxybenzoic acid,0.1,77,USD,10,COc1cc(C(O)=O)cc(Br)c1O
+dklBPBWSCDfHRYgeYn``Jf@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}mpJH@k\B,,EN300-27114387,Enamine,267.46,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid",0.1,188,USD,4.608,OC(c(c(O)c(cc1Cl)Br)c1O)=O
+dk^L`IISCDrJJKIJEngXHBfR@@ !BbOs~@Hc}m?rH?Hc|bGu`YV@ZFa|lF@C~,,EN300-244363,Enamine,242.03,"5-bromo-6-hydroxy-2,3-dihydro-1H-indole-2,3-dione",0.1,152,USD,10,Oc(cc(c(C1=O)c2)NC1=O)c2Br
+dk^H`IHLQIf[WvE]``@B@@@ !B?g~w_Xa}mpK~_?y?b@JH?Xc}bGvH?Hc},,EN300-8200694,Enamine,238.08,5-bromo-2-methylquinolin-6-ol,0.1,35,USD,10,Cc(cc1)nc(cc2)c1c(Br)c2O
+dk^HPNHLR\QIf^UvGS``B@@@@ !Bm?rw?_x@?g~w?K\Bm?w~@Ox@m?rw@ox@,,EN300-21309,Enamine,302.95,"5,7-dibromoquinolin-8-ol",0.25,19,USD,10,Oc(c(nccc1)c1c(Br)c1)c1Br
+dk\h`AgSHLQIf]yV{S``JeH@@ !Bmwvw@oy??`Bw_[]}?g?~_qaSYuMeGqh_,,EN300-27115057,Enamine,241.05,"2-bromo-4-(1H-1,2,3,4-tetrazol-1-yl)phenol",0.1,152,USD,10,Oc(ccc(-[n]1nnnc1)c1)c1Br
+dk\HPBCDODRYfu}aWXH@@`@@ !B?`BH?K_|bOw~@Ox@m?vw?K_|m?rw?[_|,,EN300-170624,Enamine,301.96,"1,6-dibromonaphthalen-2-ol",1,19,USD,10,Oc(ccc1c2ccc(Br)c1)c2Br
+dkNHpEHLSlPxcHhhmDTFFBBJ`@@ !BbOrH?_x@?g~H?Hc|bOw~@Ox@bOs~@BQV,,EN300-46740637,Enamine,331.43,"2,6-dibromo-4-[(methylamino)methyl]phenol hydrochloride",0.1,168,USD,10,CNCc(cc1Br)cc(Br)c1O.Cl
+dkNHpEHLR\PxaIf^_FzB@j`@@ !BmpK~@K_}b@Jw@k\Bm?w~@K_}b@K~@Mif,,EN300-51682205,Enamine,331.43,"2,4-dibromo-6-[(methylamino)methyl]phenol hydrochloride",0.1,168,USD,10,CNCc1cc(Br)cc(Br)c1O.Cl
+dkNHpEHLRX`xaIf^_FzB@j`@@ !BmpK~@K_}b@Jw@k\Bm?w~@K_}b@K~@Mif,,EN300-51682204,Enamine,286.98,2-bromo-4-chloro-6-[(methylamino)methyl]phenol hydrochloride,0.1,136,USD,10,CNCc1cc(Cl)cc(Br)c1O.Cl
+dkNHPMHLPxaIf]uFzB@j`@@ !BmpJw?_x@?g~w@k\B?`C~@H`B?`BH@dkF,,EN300-27103542,Enamine,266.57,4-(3-aminopropyl)-2-bromophenol hydrochloride,0.1,337,USD,2.52,NCCCc(cc1)cc(Br)c1O.Cl
+dkNHPEHLPxaIf]uFzB@j`@@ !BmpJw?_x@?g~w@k\B?`C~@H`B?`BH@dkF,,EN300-7427196,Enamine,266.57,2-bromo-4-[2-(methylamino)ethyl]phenol hydrochloride,0.1,376,USD,10,CNCCc(cc1)cc(Br)c1O.Cl
+dkNDPMK`qCbDfYy\XXHHj@@ !Bm?s~@K_}b@Jw@k\B?`Bw?[]}bOrw@mkV,,EN300-123457,Enamine,268.54,4-(aminomethyl)-2-bromo-6-methoxyphenol hydrochloride,0.1,132,USD,1.685,COc1cc(CN)cc(Br)c1O.Cl
+difH`NHLQIf^XXHH@@ !BmpK~@K]}b@Jw@k\B?`Bw_P,,EN300-111274,Enamine,188.02,2-amino-6-bromophenol,0.5,19,USD,10,Nc1cccc(Br)c1O
+difH`FHLQIf[xXH`@@ !Bmww~_{\BbGvw__x@mwvw@`,,EN300-245722,Enamine,188.02,3-amino-2-bromophenol,0.25,19,USD,10,Nc1cccc(O)c1Br
+difH`AHLQIf][hHB@@ !BmpJw__x@?g~w@k\B?`C~@@,,EN300-185502,Enamine,188.02,4-amino-2-bromophenol,0.5,19,USD,10,Nc(cc1)cc(Br)c1O
+difH`AHLQIf_[hHB@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-139538,Enamine,188.02,5-amino-2-bromophenol,0.1,117,USD,10,Nc(cc1)cc(O)c1Br
+didH`BCDRYgvzB@`@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-132559,Enamine,187.04,2-bromo-5-methylphenol,0.1,40,USD,10,Cc(cc1)cc(O)c1Br
+didH`BCDRYgfzB@`@@ !BmpK~@K]}b@Jw@k\Bmww~@@,,EN300-82648,Enamine,187.04,2-bromo-6-methylphenol,1,19,USD,10,Cc1cccc(Br)c1O
+didH`BCDRYgVzB@`@@ !BmpJw__x@?g~w@k\B?`C~@@,,EN300-20031,Enamine,187.04,2-bromo-4-methylphenol,0.25,19,USD,10,Cc(cc1)cc(Br)c1O
+didH`BCDRYfvFBB@@@ !Bmww~_{\BbGvw_[]}?`Bw@`,,EN300-105060,Enamine,187.04,2-bromo-3-methylphenol,0.25,19,USD,10,Cc1cccc(O)c1Br
+didHPNBlKDRYgfFBB@@@ !BmpK~@K]}b@Jw@k\B?`Bw_P,,EN300-3215351,Enamine,298.9,2-bromo-3-iodophenol,0.1,25,USD,10,Oc1cccc(I)c1Br
+didHPFCDJHRYf~FBH@@@ !Bmww~_{\BbGvw__x@mwvw@`,,EN300-624354,Enamine,207.45,2-bromo-3-chlorophenol,0.25,19,USD,10,Oc1cccc(Cl)c1Br
+didHPFCDJPRYf~FBH@@@ !Bmww~_{\BbGvw__x@mwvw@`,,EN300-121461,Enamine,191,2-bromo-3-fluorophenol,0.25,19,USD,10,Oc1cccc(F)c1Br
+didHPFBlGDrJIJFn`BH@@ !Bb@K~@Ha}b@JH@ox@bGvH@`,,EN300-658720,Enamine,298.9,2-bromo-5-iodophenol,1,19,USD,10,Oc(cc(cc1)I)c1Br
+didHPBCD{DRYgfFBB@@@ !BbGvH@oy??`BH_Xa}b@K~_p,,EN300-29657,Enamine,251.9,"2,6-dibromophenol",0.25,19,USD,10,Oc(c(Br)ccc1)c1Br
+didHPBCDzHRYgfFBB@@@ !Bmwvw@oy??`Bw_[]}mpK~_p,,EN300-199809,Enamine,207.45,2-bromo-6-chlorophenol,0.1,19,USD,10,Oc(c(Cl)ccc1)c1Br
+didHPBCDxHRYgfFBB@@@ !Bmwvw@oy??`Bw_[]}mpK~_p,,EN300-1914926,Enamine,205.07,2-bromo-6-sulfanylphenol,0.1,352,USD,10,Oc(c(S)ccc1)c1Br
+didHPBCDzPRYgfFBB@@@ !Bmwvw@oy??`Bw_[]}mpK~_p,,EN300-201350,Enamine,191,2-bromo-6-fluorophenol,0.25,19,USD,10,Oc(c(F)ccc1)c1Br
+didHPBCDGDRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-92071,Enamine,251.9,"2,5-dibromophenol",1,19,USD,10,Oc(cc(cc1)Br)c1Br
+didHPBCDGDRYgVzB@`@@ !Bmwvw@oy??`Bw_[]}?g?~_p,,EN300-18350,Enamine,251.9,"2,4-dibromophenol",1,19,USD,10,Oc(ccc(Br)c1)c1Br
+didHPBCDFHRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-126714,Enamine,207.45,2-bromo-5-chlorophenol,0.5,19,USD,10,Oc(cc(cc1)Cl)c1Br
+didHPBCDFPRYgvzB@`@@ !Bmwvw@oy??`Bw_[]}?g~w_P,,EN300-112643,Enamine,191,2-bromo-5-fluorophenol,0.25,19,USD,10,Oc(cc(cc1)F)c1Br
+didHPBCDFHRYgVzB@`@@ !Bmwvw@oy??`Bw_[]}?g?~_p,,EN300-21340,Enamine,207.45,2-bromo-4-chlorophenol,1,19,USD,10,Oc(ccc(Cl)c1)c1Br
+didHPBCDFPRYgVzB@`@@ !Bmwvw@oy??`Bw_[]}?g?~_p,,EN300-21341,Enamine,191,2-bromo-4-fluorophenol,0.25,19,USD,10,Oc(ccc(F)c1)c1Br
+didHPABl[DrJIJFn`BH@@ !B?`BH@k\B?`C~@H`BmpK~@@,,EN300-196203,Enamine,298.9,2-bromo-4-iodophenol,0.1,26,USD,10,Oc(ccc(I)c1)c1Br
+didD`BXLQIf[xXH`@@ !Bmwvw@oy??`Bw_Xa}mww~_p,,EN300-1897813,Enamine,189.01,"2-bromobenzene-1,3-diol",0.5,19,USD,10,Oc1cccc(O)c1Br
+didD`BxLQIf^XXHH@@ !BmpK~@K]}b@Jw@k\B?`Bw_P,,EN300-108417,Enamine,189.01,"3-bromobenzene-1,2-diol",0.1,28,USD,10,Oc1cccc(Br)c1O
+didD`BDLQIf][hHB@@ !BmpJw__x@?g~w@k\B?`C~@@,,EN300-261239,Enamine,189.01,"2-bromobenzene-1,4-diol",0.1,19,USD,1.145,Oc(cc1)cc(Br)c1O
+didD`BDLQIf_[hHB@@ !B?`BH@k\BbGw~@Ox@mpK~@@,,EN300-85315,Enamine,189.01,"4-bromobenzene-1,3-diol",0.25,19,USD,10,Oc(cc1)cc(O)c1Br
+dg~LaNI]CDz]yIf^VUaNxHHfh`@ !Bb@K~@Ha}mpJH@h`B?`BH_VAempJH@f@ZKA`,,EN300-2007938,Enamine,258.07,"6-bromo-4-nitro-2,3-dihydro-1H-inden-5-ol",0.1,81,USD,10,[O-][N+](c1c(CCC2)c2cc(Br)c1O)=O
+dg~H`KHLQIf[WuaWXH@@l@@ !B?g~w_Xa}mpK~_?y?b@JH?Xc}bGvH?Hc}bOt,,EN300-28320601,Enamine,248.08,5-bromo-6-hydroxynaphthalene-2-carbonitrile,0.1,202,USD,10,N#Cc(cc1)cc(cc2)c1c(Br)c2O
+dg~HPNHLR\QIf^UyatxH@`H@@ !BbOrH?_x@?g~H?H`BbOw~@Ox@bOrH@ox@bOt,,EN300-25999819,Enamine,316.98,"5,7-dibromo-2-methylquinolin-8-ol",0.1,132,USD,10,Cc(cc1)nc2c1c(Br)cc(Br)c2O
+dg~DPCIPqIqLbbbtRaSB]pPQSP`@ !Bmww~_{\BbGvw_[]}?g~w@k\BFEMgTvT_Fa|,,EN300-370784,Enamine,318.95,"2,4-dibromo-6-(1,2-oxazol-5-yl)phenol",0.1,257,USD,3.629,Oc(c(-c1ccn[o]1)cc(Br)c1)c1Br
+dg}D`AdkCDRYgUe[iVB@jiH@@ !BbGw~_xc|m?vH?Xa}bOq`FfAeKF\ZXAh_@Ox,,EN300-45743358,Enamine,257.09,"5-bromo-6-hydroxy-1,3-dimethyl-2,3-dihydro-1H-1,3-benzodiazol-2-one",0.1,446,USD,0,CN(c(c(N1C)c2)cc(O)c2Br)C1=O
+dg}DPELiCDlHRYg^U[mNB@ijD@@ !Bmwvw@oy??`Bw_[]}?g?~_qaSYuMeGqh_KF\,,EN300-51915299,Enamine,273.11,"2-bromo-4-(5-sulfanyl-1,3,4-oxadiazol-2-yl)phenol",0.1,241,USD,10,Oc(ccc(-c([o]1)nnc1S)c1)c1Br
+dg|hPEt{HLSlSHhhmDXdpg\DDTlP@@ !BbGvH@oy??`BH_Xa}b@K~_?y?YuLXTqh_YQ|,,EN300-249966,Enamine,319.94,"2,6-dibromo-4-(2H-1,2,3,4-tetrazol-5-yl)phenol",0.1,317,USD,0.458,Oc(c(Br)cc(-c1n[nH]nn1)c1)c1Br
+dg|H`BCDRYg^U[cnB@`@@@@ !Bm?vw@oy??`Bw?[_}?g?~_{]}bGw~_?y?bOt,,EN300-235704,Enamine,249.11,2-bromo-4-phenylphenol,0.1,167,USD,0.2,Oc(ccc(-c1ccccc1)c1)c1Br
+dg|D`BLLQIf[euavxH@`P@@ !B?`BH?K_|bOw~@Ox@m?vw?Hc|m?rw?Hc}m?t,,EN300-219026,Enamine,251.08,4-bromo-3-hydroxynaphthalene-2-carbaldehyde,0.1,257,USD,0,Oc(c(C=O)cc1c2cccc1)c2Br
+dg|DPBlLS\SHhhidmBpj\D@AD@@@ !B?g~w_Xa}mpK~_?y?b@JH?Xc}bGw~_xc|bOt,,EN300-732931,Enamine,317.96,"1,5-dibromonaphthalene-2,6-diol",0.25,19,USD,10,Oc(ccc1c2ccc(O)c1Br)c2Br
+dgnDPMK`qKqDfYy]FFBBJh@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}bOrw@ox@vnX,,EN300-37478121,Enamine,327.02,4-(aminomethyl)-2-bromo-6-ethoxyphenol hydrobromide,0.1,293,USD,0.144,CCOc1cc(CN)cc(Br)c1O.Br
+dg^L`EH{CDRYg]n[hHBjXbT@ !BmpJw__x@?g~w@k\B?`C~@H`BbGw~@Hc|m?p,,EN300-215162,Enamine,260.09,(2S)-2-amino-3-(3-bromo-4-hydroxyphenyl)propanoic acid,0.5,19,USD,0.462,N[C@@H](Cc(cc1)cc(Br)c1O)C(O)=O
+dg^JaNI]NpqNg^RYgenXXHHfX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@k\B?g|,,EN300-2008247,Enamine,262.02,3-bromo-4-hydroxy-5-nitrobenzoic acid,0.1,21,USD,10,[O-][N+](c1cc(C(O)=O)cc(Br)c1O)=O
+dg^HHKHLQYCY@yAIf^^en``Jjp@@ !Bb@JH__x@?g~H@h`B?`BH__x@bGtBbOvw?`@,,EN300-7541642,Enamine,266.02,3-bromo-4-hydroxy-5-(trifluoromethyl)benzonitrile,0.1,241,USD,0,N#Cc(cc1C(F)(F)F)cc(Br)c1O
+dg^DPMYPqBqDfYnw~fBHbz@@ !BmpJw__x@?g~w@h`BmpJw__x@?`Bw_X`B?`@,,EN300-227941,Enamine,320.97,"2,3-dibromo-5-ethoxy-4-hydroxybenzonitrile",0.1,97,USD,1,CCOc(cc(c(Br)c1Br)C#N)c1O
+dg^DPMJpqIbDfYy~vzB@jj@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@JH__x@bOp,,EN300-1922879,Enamine,280.55,2-(2-amino-3-hydroxypropyl)-6-bromo-4-chlorophenol,0.1,515,USD,0.068,NC(Cc1cc(Cl)cc(Br)c1O)CO
+dg^BaIISlLRYodfYy[fFBBIf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@oy?mpH,,EN300-1721106,Enamine,260.04,1-(3-bromo-2-hydroxy-5-nitrophenyl)ethan-1-one,0.1,68,USD,8.277,CC(c1cc([N+]([O-])=O)cc(Br)c1O)=O
+dg]J`ndet{CDzYg^odfYy[fFBBIf@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?g~H@k\Bb@H,,EN300-6737040,Enamine,263,"2-bromo-4,6-dinitrophenol",0.1,109,USD,10,[O-][N+](c(cc1[N+]([O-])=O)cc(Br)c1O)=O
+dg\L`BNpqDfYwifzB@jf@@ !BmpJw__x@?g~w@k\B?`C~@Ox@@Oy??h`BmpH,,EN300-1914856,Enamine,259.1,2-(3-bromo-4-hydroxyphenyl)-2-methylpropanoic acid,0.1,342,USD,8.826,CC(C)(C(O)=O)c(cc1)cc(Br)c1O
+dg\HHBCDvPNPnPRYf{zXXHHjh@@ !Bmww~_{\BbGvw_[]}?`Bw@oy?b@K~_pC~_?x,,EN300-39852291,Enamine,269.06,2-bromo-3-ethyl-6-(trifluoromethyl)phenol,0.1,684,USD,0.007,CCc1ccc(C(F)(F)F)c(O)c1Br
+dg\DhBdLPYCY@yByAIf]]in``Jj`@@ !Bmwvw@oy??`Bw_[]}?g?~_{]}?g?~_w?~@Ox,,EN300-1603037,Enamine,274.99,2-bromo-4-fluoro-5-(trifluoromethoxy)phenol,0.1,204,USD,8.197,Oc(cc(c(F)c1)OC(F)(F)F)c1Br
+dg\DhBdJslSY@yByCHhhmDUHppPQUP@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?m?vw?PJw?X`,,EN300-45165646,Enamine,382.9,2-bromo-6-iodo-4-(trifluoromethoxy)phenol,0.1,241,USD,10,Oc(c(Br)cc(OC(F)(F)F)c1)c1I
+dg\D`BlLQIf^^en``JjP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}?`@@?g?~mpH,,EN300-22838980,Enamine,257.13,3-bromo-5-tert-butyl-4-hydroxybenzaldehyde,0.1,57,USD,10,CC(C)(C)c1cc(C=O)cc(Br)c1O
+dg\DHBTLSY@yByAIf^]in``JZ`@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@Jw_PJw?X`,,EN300-3529444,Enamine,269.02,3-bromo-2-hydroxy-5-(trifluoromethyl)benzaldehyde,0.1,156,USD,2.141,Oc(c(C=O)cc(C(F)(F)F)c1)c1Br
+dg\B`BWSCDrJJKSIPmtDARt@@ !B?`BH@k\BbGw~@Ox@mpJH@ox@?`Bw@h`B?`@,,EN300-300276,Enamine,259.05,methyl 4-bromo-2-formyl-3-hydroxybenzoate,0.1,355,USD,10,COC(c(cc1)c(C=O)c(O)c1Br)=O
+dg\B`BWSCDRYgeoXXHHfX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@k\B?`@,,EN300-8896955,Enamine,259.05,methyl 3-bromo-5-formyl-2-hydroxybenzoate,0.1,103,USD,10,COC(c1cc(C=O)cc(Br)c1O)=O
+dg\B`BWSCDrJJKQYPmtDARt@@ !BmpJw__x@?g~w@k\B?`Bw__x@mpJw@h`B?`@,,EN300-1478743,Enamine,259.05,methyl 3-bromo-5-formyl-4-hydroxybenzoate,0.1,78,USD,10,COC(c(cc1C=O)cc(Br)c1O)=O
+dg\B`BT{CDRYgg^[hHBfX@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@K~_{_}bOt,,EN300-26982900,Enamine,259.05,2-(3-bromo-5-formyl-4-hydroxyphenyl)acetic acid,0.1,241,USD,10,OC(Cc(cc1C=O)cc(Br)c1O)=O
+dg\B`BESCDrJJJZYHmLDECT@@ !B?`BH@k\BbGw~@Ox@mwvH@k\B?g~H__x@b@H,,EN300-46738037,Enamine,261.07,"2-bromo-3-hydroxy-4,5-dimethoxybenzaldehyde",0.1,238,USD,10,COc(cc(C=O)c(Br)c1O)c1OC
+deVH`NHLQIf^VFBBH@@ !BmpJw__x@?g~w@k\Bmww~@Ox@,,EN300-91440,Enamine,202.05,2-amino-6-bromo-4-methylphenol,0.1,130,USD,5.581,Cc(cc1N)cc(Br)c1O
+deVH`IHLQIf_VzB@l@@ !B?`BH@k\BbGw~@Ox@mpK~@Ox@,,EN300-223878,Enamine,198.02,4-bromo-3-hydroxybenzonitrile,1,19,USD,10,N#Cc(cc1)cc(O)c1Br
+deVH`IHLQIf^vFBBL@@ !BmpK~@K]}b@Jw@k\B?`Bw__x@,,EN300-7153398,Enamine,198.02,3-bromo-2-hydroxybenzonitrile,0.25,19,USD,10,N#Cc1cccc(Br)c1O
+deVH`IHLQIf]vzB@l@@ !BmpJw__x@?g~w@k\B?`C~@Ox@,,EN300-118438,Enamine,198.02,3-bromo-4-hydroxybenzonitrile,0.5,19,USD,10,N#Cc(cc1)cc(Br)c1O
+deVH`IHLQIf[^FBHL@@ !Bmww~_{\BbGvw__x@mwvw@ox@,,EN300-317214,Enamine,198.02,2-bromo-3-hydroxybenzonitrile,0.1,21,USD,10,N#Cc1cccc(O)c1Br
+deVH`IHLQIf[vFBBH@@ !Bmww~_{\BbGvw_[]}?`Bw@h`B,,EN300-1911207,Enamine,202.05,3-(aminomethyl)-2-bromophenol,0.1,342,USD,10,NCc1cccc(O)c1Br
+deVH`AHLQIf]VzB@h@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-183700,Enamine,202.05,4-amino-2-bromo-5-methylphenol,0.1,221,USD,10,Cc(c(N)c1)cc(O)c1Br
+deVHPNHLRYAIf^VFBBH@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]},,EN300-1256345,Enamine,206.01,2-amino-6-bromo-4-fluorophenol,0.1,82,USD,10,Nc1cc(F)cc(Br)c1O
+deVHPNHLRXaIf^VFBBH@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]},,EN300-99376,Enamine,222.47,2-amino-6-bromo-4-chlorophenol,0.5,19,USD,0,Nc1cc(Cl)cc(Br)c1O
+deVHPNHLR\QIf^VFBBH@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]},,EN300-207655,Enamine,266.92,"2-amino-4,6-dibromophenol",0.25,19,USD,10,Nc1cc(Br)cc(Br)c1O
+deVHPIHLSlQIf^VFBBH@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-178781,Enamine,266.92,"4-amino-2,6-dibromophenol",1,19,USD,10,Nc(cc1Br)cc(Br)c1O
+deVHPIHLP\QIf]VzB@h@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-104251,Enamine,266.92,"5-amino-2,4-dibromophenol",0.1,83,USD,0.73,Nc(c(Br)c1)cc(O)c1Br
+deVHPAHLRYAIf]VzB@h@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-4334146,Enamine,206.01,4-amino-2-bromo-5-fluorophenol,0.1,156,USD,10,Nc(c(F)c1)cc(Br)c1O
+deUH`Nd`qLbbbtKCAAD@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@,,EN300-206084,Enamine,203.04,"2,3-diamino-6-bromophenol",0.1,342,USD,5.684,Nc(ccc(Br)c1O)c1N
+deTHpICDJHGDRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-1588091,Enamine,286.35,"2,4-dibromo-5-chlorophenol",0.1,241,USD,10,Oc(c(Br)c1)cc(Cl)c1Br
+deTHpIBl[DFPRYV^n`BJ@@ !B?`BH@k\B?`C~@H`BmpJw@ox@,,EN300-20822701,Enamine,316.89,2-bromo-6-fluoro-4-iodophenol,0.1,171,USD,10,Oc(c(F)cc(I)c1)c1Br
+deTHpIBlJPGDRYgUn``J@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@,,EN300-365739,Enamine,316.89,2-bromo-5-fluoro-4-iodophenol,0.1,366,USD,1.369,Oc(c(Br)c1)cc(F)c1I
+deTHpFCDJPFPRYf{i`bH@@ !Bmww~_{\BbGvw__x@mww~_{\B,,EN300-5385307,Enamine,208.99,"2-bromo-3,4-difluorophenol",0.1,241,USD,10,Oc(c(Br)c1F)ccc1F
+deTHpFCDJHFHRYf{i`bH@@ !Bmww~_{\BbGvw__x@mww~_{\B,,EN300-7655133,Enamine,241.9,"2-bromo-3,4-dichlorophenol",0.1,317,USD,3.465,Oc(c(Br)c1Cl)ccc1Cl
+deTHpFCDJHFPRYf{i`bH@@ !Bmww~_{\BbGvw__x@mww~_{\B,,EN300-20826811,Enamine,225.44,2-bromo-3-chloro-4-fluorophenol,0.1,287,USD,10,Oc(c(Br)c1Cl)ccc1F
+deTHpBCD{DgDRYgea``b@@ !BbGvH@oy??`BH_Xa}b@K~_?y?,,EN300-19294,Enamine,330.8,"2,4,6-tribromophenol",0.5,19,USD,10,Oc(c(Br)cc(Br)c1)c1Br
+deTHpBCDzPfPRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-109212,Enamine,208.99,"2-bromo-4,6-difluorophenol",0.25,19,USD,10,Oc(c(F)cc(F)c1)c1Br
+deTHpBCDzHfHRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-212292,Enamine,241.9,"2-bromo-4,6-dichlorophenol",0.1,23,USD,10,Oc(c(Cl)cc(Cl)c1)c1Br
+deTHpBCDzPfHRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-2163608,Enamine,225.44,2-bromo-4-chloro-6-fluorophenol,1,19,USD,10,Oc(c(F)cc(Cl)c1)c1Br
+deTHpBCDzHfPRYgea``b@@ !Bmwvw@oy??`Bw_[]}mpK~_?y?,,EN300-1238568,Enamine,225.44,2-bromo-6-chloro-4-fluorophenol,1,19,USD,10,Oc(c(Cl)cc(F)c1)c1Br
+deTHpBCDZPFPRYf{i`bH@@ !Bmwvw@oy??`Bw_Xa}mwvw@oy?,,EN300-3218299,Enamine,208.99,"2-bromo-3,6-difluorophenol",0.1,31,USD,10,Oc(c(F)ccc1F)c1Br
+deTHpBCDZHFHRYf{i`bH@@ !Bmwvw@oy??`Bw_Xa}mwvw@oy?,,EN300-198648,Enamine,241.9,"2-bromo-3,6-dichlorophenol",0.1,151,USD,10,Oc(c(Cl)ccc1Cl)c1Br
+deTHpBCDFPfPRYgUn``J@@ !Bmwvw@oy??`Bw_[]}?g?~_{]},,EN300-224945,Enamine,208.99,"2-bromo-4,5-difluorophenol",0.5,19,USD,10,Oc(cc(c(F)c1)F)c1Br
+deTHpBCDFHfPRYgUn``J@@ !Bmwvw@oy??`Bw_[]}?g?~_{]},,EN300-194438,Enamine,225.44,2-bromo-4-chloro-5-fluorophenol,0.1,138,USD,10,Oc(cc(c(Cl)c1)F)c1Br
+deTH`BCDrJJJXlLDDP@@ !B?`BH@k\BbGw~@Ox@mwvw@ox@,,EN300-190926,Enamine,201.06,"2-bromo-3,5-dimethylphenol",0.5,19,USD,10,Cc(cc1C)cc(O)c1Br
+deTH`BCDRYgun``K@@ !B?`BH@k\BbGw~@Ox@mpK~@Ox@,,EN300-7015753,Enamine,197.03,2-bromo-5-ethynylphenol,0.1,241,USD,10,C#Cc(cc1)cc(O)c1Br
+deTH`BCDRYgen``J@@ !BmpJw__x@?g~w@k\B?`Bw__x@,,EN300-192641,Enamine,201.06,"2-bromo-4,6-dimethylphenol",0.25,19,USD,10,Cc(cc1C)cc(Br)c1O
+deTH`BCDRYgmn``J@@ !B?`BH@k\BbGw~@Ox@mpJH@ox@,,EN300-3218350,Enamine,201.06,"6-bromo-2,3-dimethylphenol",0.1,277,USD,5.759,Cc(cc1)c(C)c(O)c1Br
+deTHPFCDJHrJJJX|LDPP@@ !B?`Bw@h`Bmww~@Ha}?`BH@ox@,,EN300-6478405,Enamine,221.48,2-bromo-3-chloro-5-methylphenol,0.1,706,USD,10,Cc(cc1O)cc(Cl)c1Br
+deTHPBCDzPRYgea``b@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-7333740,Enamine,205.03,2-bromo-6-fluoro-4-methylphenol,0.1,28,USD,10,Cc(cc1F)cc(Br)c1O
+deTHPBCD{DRYgea``b@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-18841,Enamine,265.93,"2,6-dibromo-4-methylphenol",1,19,USD,10,Cc(cc1Br)cc(Br)c1O
+deTHPBCDzPrJJKPlLDDP@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@,,EN300-187070,Enamine,205.03,6-bromo-2-fluoro-3-methylphenol,0.1,31,USD,10,Cc(ccc(Br)c1O)c1F
+deTHPBCDzHrJJKPlLDDP@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@,,EN300-7380006,Enamine,221.48,6-bromo-2-chloro-3-methylphenol,0.1,33,USD,10,Cc(ccc(Br)c1O)c1Cl
+deTHPBCDgDRYgen``J@@ !BmpK~@K]}b@Jw@k\Bmww~@K]},,EN300-18142,Enamine,265.93,"2,4-dibromo-6-methylphenol",1,19,USD,10,Cc1cc(Br)cc(Br)c1O
+deTHPBCDzHRYgea``b@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@,,EN300-203031,Enamine,221.48,2-bromo-6-chloro-4-methylphenol,0.1,52,USD,10,Cc(cc1Cl)cc(Br)c1O
+deTHPBCDfPRYgen``J@@ !BmpK~@K]}b@Jw@k\Bmww~@K]},,EN300-93412,Enamine,205.03,2-bromo-4-fluoro-6-methylphenol,0.1,120,USD,10,Cc1cc(F)cc(Br)c1O
+deTHPBCDfHRYgUn``J@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-248208,Enamine,221.48,2-bromo-5-chloro-4-methylphenol,0.1,158,USD,10,Cc(c(Cl)c1)cc(Br)c1O
+deTHPBCDfHRYgen``J@@ !BmpK~@K]}b@Jw@k\Bmww~@K]},,EN300-245419,Enamine,221.48,2-bromo-4-chloro-6-methylphenol,0.25,19,USD,10,Cc1cc(Cl)cc(Br)c1O
+deTHPBCDfHrJJJXlLDDP@@ !Bmww~_{\BbGvw_[]}?`Bw@k]},,EN300-33887700,Enamine,221.48,2-bromo-5-chloro-3-methylphenol,0.1,301,USD,4.287,Cc1cc(Cl)cc(O)c1Br
+deTHPBCDfHRYf}a``b@@ !Bmwvw@oy??`Bw_[]}bGw~_?y?,,EN300-1915319,Enamine,221.48,2-bromo-3-(chloromethyl)phenol,0.1,282,USD,10,Oc(cccc1CCl)c1Br
+deTHPBCDZPRYf{a`bB@@ !BmpK~@K]}b@Jw@oy?mpJw__x@,,EN300-198658,Enamine,205.03,2-bromo-3-fluoro-6-methylphenol,0.1,407,USD,0,Cc(c(O)c1Br)ccc1F
+deTHPBCDZHRYf{a`bB@@ !BmpK~@K]}b@Jw@oy?mpJw__x@,,EN300-6736826,Enamine,221.48,2-bromo-3-chloro-6-methylphenol,0.1,277,USD,10,Cc(c(O)c1Br)ccc1Cl
+deTHPBCDDHRYgun``J@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-199131,Enamine,219.1,2-bromo-5-(methylsulfanyl)phenol,0.1,272,USD,10,CSc(cc1)cc(O)c1Br
+deTD`BxLQIf^vFBBH@@ !BmpK~@K]}b@Jw@k\B?`Bw_X`B,,EN300-105384,Enamine,203.04,2-bromo-6-methoxyphenol,1,19,USD,10,COc1cccc(Br)c1O
+deTD`BdLQIf_VzB@h@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-199959,Enamine,203.04,2-bromo-5-(hydroxymethyl)phenol,1,19,USD,10,OCc(cc1)cc(O)c1Br
+deTD`BdLSHhhmBwPPD`@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B,,EN300-33507,Enamine,201.02,3-bromo-2-hydroxybenzaldehyde,1,19,USD,10,Oc(c(C=O)ccc1)c1Br
+deTD`BdLQIf_VzB@d@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-189203,Enamine,201.02,4-bromo-3-hydroxybenzaldehyde,0.1,19,USD,6.405,Oc(cc(C=O)cc1)c1Br
+deTD`BdLQIf]vzB@h@@ !BmpJw__x@?g~w@k\B?`C~@H`B,,EN300-317029,Enamine,203.04,2-bromo-4-(hydroxymethyl)phenol,1,19,USD,10,OCc(cc1)cc(Br)c1O
+deTD`BdLQIf]vzB@d@@ !BmpJw__x@?g~w@k\B?`C~@H`B,,EN300-07841,Enamine,201.02,3-bromo-4-hydroxybenzaldehyde,0.25,19,USD,10,Oc(ccc(C=O)c1)c1Br
+deTD`BdLQIf[vFBBD@@ !Bmww~_{\BbGvw_[]}?`Bw@h`B,,EN300-159951,Enamine,201.02,2-bromo-3-hydroxybenzaldehyde,0.25,19,USD,10,Oc(cccc1C=O)c1Br
+deTD`BDLQIf]vzB@h@@ !BmpJw__x@?g~w@k\B?`C~@H`B,,EN300-103076,Enamine,203.04,2-bromo-4-methoxyphenol,0.1,19,USD,10,COc(cc1)cc(Br)c1O
+deTD`BDLQIf_VzB@h@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B,,EN300-177992,Enamine,203.04,2-bromo-5-methoxyphenol,0.1,20,USD,10,COc(cc1)cc(O)c1Br
+deTDPBXLRYCHhhicppQA@@@ !Bmwvw@oy??`Bw_Xa}mww~_{]},,EN300-6745384,Enamine,207,"2-bromo-5-fluorobenzene-1,3-diol",0.1,306,USD,0.795,Oc1cc(F)cc(O)c1Br
+deTDPBDLR\QIf]VzB@h@@ !Bb@JH__x@?g~H@h`B?`C~@H`B,,EN300-54207,Enamine,267.9,"2,5-dibromobenzene-1,4-diol",1,19,USD,10,Oc(cc(c(O)c1)Br)c1Br
+dcvHPIHLSXcHhhmB`wPPEP@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B?`CZI`,,EN300-27159282,Enamine,252.54,2-bromo-6-[(methylamino)methyl]phenol hydrochloride,0.1,248,USD,10,CNCc1cccc(Br)c1O.Cl
+dcvHPEHLS\SHhhmB`wPPEP@@ !BmpK~@K]}b@Jw@k\Bmww~@H`B?`CZI`,,EN300-159933,Enamine,296.99,2-(2-aminoethyl)-6-bromophenol hydrobromide,0.1,396,USD,10,NCCc1cccc(Br)c1O.Br
+dcvDPEJPqMbDfY}Qn``J`@@ !B?`BH@k\BbOw~@Ox@mpK~@H`B?`C|F`,,EN300-210717,Enamine,254.51,5-[(aminooxy)methyl]-2-bromophenol hydrochloride,0.1,539,USD,1.747,NOCc(cc1)cc(O)c1Br.Cl
+dcnH`MHLQIf]U[evB@@@@@ !Bm?s~@K_}bOrw?K_|m?vw?[_|m?rw?P,,EN300-192209,Enamine,224.06,6-bromoisoquinolin-7-ol,0.1,153,USD,10,Oc1cc(cncc2)c2cc1Br
+dclL`BFPqDfYuUnWXHBjH@@ !Bm?s~@K_}bOrw?K_|m?vw?[_|m?rw?P,,EN300-1615088,Enamine,231.04,"7-bromo-2,3-dihydro-1,4-benzodioxin-6-ol",0.1,431,USD,10,Oc(cc1OCCOc1c1)c1Br
+dclH`BCDRYfuvE]``@@@@ !B?`BH?K_|bOw~@Ox@m?vw?K_|m?rw?P,,EN300-17300,Enamine,223.07,1-bromonaphthalen-2-ol,1,19,USD,10,Oc(ccc1c2cccc1)c2Br
+dclH`BCDRYgmVy]``@@@@ !Bm?rw?_x@?g~w?K_|?`Bw?[_|m?rw?P,,EN300-761528,Enamine,223.07,2-bromonaphthalen-1-ol,1,19,USD,10,Oc(c(cccc1)c1cc1)c1Br
+dclH`BCDRYgUVy]``@@@@ !Bm?s~@K_}bOrw?K_|m?vw?[_|m?rw?P,,EN300-244700,Enamine,223.07,3-bromonaphthalen-2-ol,0.25,19,USD,4.557,Oc1cc(cccc2)c2cc1Br
+dcNLaII]CDf]yIf^~[hHBf@@ !Bb@K~@Ha}mpJH@h`BbGw~@H`B?`BH_P,,EN300-20977739,Enamine,232.03,6-bromo-2-methyl-3-nitrophenol,0.1,342,USD,7.384,Cc(c(O)c(cc1)Br)c1[N+]([O-])=O
+dcNLaII]CDf]{HhhidXppPQL@@ !BbGw~_x`BmwvH_Xa}?`BH@h`B?`BH_P,,EN300-4256025,Enamine,232.03,2-bromo-3-methyl-4-nitrophenol,0.1,67,USD,10,Cc(c(Br)c(cc1)O)c1[N+]([O-])=O
+dcNLaNI]CDz]yIf^VXXHHf@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@?g~H@`,,EN300-26660,Enamine,232.03,2-bromo-4-methyl-6-nitrophenol,0.25,19,USD,10,Cc(cc1[N+]([O-])=O)cc(Br)c1O
+dcNLaBXYCDJYyIfYfyXHab@@ !BmpK~@K]}b@Jw@oy?mpJH__x@mww~@@,,EN300-20977728,Enamine,232.03,2-bromo-4-methyl-3-nitrophenol,0.1,202,USD,0.043,Cc(c([N+]([O-])=O)c1Br)ccc1O
+dcNLaAI]CDF]{HhhihXtpPTL@@ !Bmww~_{\BbGvw_[]}?`C~_{\BbOvw?P,,EN300-20977727,Enamine,232.03,2-bromo-3-methyl-6-nitrophenol,0.1,102,USD,1.319,Cc(c(Br)c1O)ccc1[N+]([O-])=O
+dcNL`MJUCDRYfv~FBHF`@@ !B?`Bw@h`Bmww~@Ha}?`BH@h`B?g?~@@,,EN300-805000,Enamine,232.03,5-amino-2-bromo-3-hydroxybenzoic acid,0.1,466,USD,8.71,Nc(cc1C(O)=O)cc(O)c1Br
+dcNL`II]CDRYgefFBBI`@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@K~_p,,EN300-1724196,Enamine,232.03,5-amino-3-bromo-2-hydroxybenzoic acid,0.1,120,USD,10,Nc(cc1C(O)=O)cc(Br)c1O
+dcNLQNI]CDfPz]yIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-26643,Enamine,236,2-bromo-4-fluoro-6-nitrophenol,0.1,20,USD,10,[O-][N+](c1cc(F)cc(Br)c1O)=O
+dcNLQNJUCDvPzUyIf^yXXHHZ@@ !Bb@K~@Ha}mpJH@h`B?`BH_[\Bb@JH@`,,EN300-199231,Enamine,236,6-bromo-3-fluoro-2-nitrophenol,0.1,35,USD,10,[O-][N+](c(c(O)c(cc1)Br)c1F)=O
+dcNLQII]CD{Df]{HhhmDXppPQL@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@mpJH@`,,EN300-17400,Enamine,296.9,"2,6-dibromo-4-nitrophenol",0.25,19,USD,10,[O-][N+](c(cc1Br)cc(Br)c1O)=O
+dcNLQNI]CDfHz]yIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-26580,Enamine,252.45,2-bromo-4-chloro-6-nitrophenol,0.1,23,USD,10,[O-][N+](c1cc(Cl)cc(Br)c1O)=O
+dcNLQAY]CDJPF]{HhhihYtpQDL@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}mpJH@`,,EN300-316201,Enamine,236,2-bromo-3-fluoro-4-nitrophenol,0.1,518,USD,0.25,[O-][N+](c(c(F)c1Br)ccc1O)=O
+dcNLQAI]CDfPF]yIf]V[hHBf@@ !Bb@JH__x@?g~H@h`B?`C~@H`BmpJH@`,,EN300-746241,Enamine,236,2-bromo-5-fluoro-4-nitrophenol,0.1,68,USD,10,[O-][N+](c(c(F)c1)cc(Br)c1O)=O
+dcNLQAI]CDZPF]{HhhihYtpQDL@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}mpJH@`,,EN300-316045,Enamine,236,2-bromo-3-fluoro-6-nitrophenol,0.5,19,USD,2.674,[O-][N+](c(c(O)c1Br)ccc1F)=O
+dcND`MK`qDfYy]a``bl@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw_P,,EN300-110905,Enamine,228.04,3-bromo-4-hydroxy-5-methoxybenzonitrile,0.25,19,USD,10,COc1cc(C#N)cc(Br)c1O
+dcND`MK`qDfYy]a``bh@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-65982,Enamine,232.08,4-(aminomethyl)-2-bromo-6-methoxyphenol,0.1,140,USD,0,COc1cc(CN)cc(Br)c1O
+dcMD`EtiCDRYg^vzB@f`@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-25690074,Enamine,231.05,3-bromo-4-hydroxybenzohydrazide,0.1,140,USD,10,NNC(c(cc1)cc(Br)c1O)=O
+dcLLpFePqBBAbDfYfgm`bIP@@ !Bmwvw@oy??`Bw_Xa}mwu??ox@@O{~_p,,EN300-6493319,Enamine,271.52,2-bromo-3-hydroxybenzene-1-sulfonyl chloride,0.1,376,USD,10,Oc1cccc(S(Cl)(=O)=O)c1Br
+dcLLpBWPqABIbDfY}in``JT@@ !B?`BH@k\BbGw~@Ox@mpK~@G?~?`@@?`,,EN300-267869,Enamine,271.52,4-bromo-3-hydroxybenzene-1-sulfonyl chloride,0.1,518,USD,3.362,Oc(cc(cc1)S(Cl)(=O)=O)c1Br
+dcLLpBWPqABIbDfYwin``JT@@ !BmpJw__x@?g~w@k\B?`C~@G?~?`@@?`,,EN300-278279,Enamine,271.52,3-bromo-4-hydroxybenzene-1-sulfonyl chloride,0.1,347,USD,10,Oc(ccc(S(Cl)(=O)=O)c1)c1Br
+dcLLpBWPqABIdDfYwin``JT@@ !BmpJw__x@?g~w@k\B?`C~@G?~?`@@?`,,EN300-6493387,Enamine,255.06,3-bromo-4-hydroxybenzene-1-sulfonyl fluoride,0.1,301,USD,8.81,Oc(ccc(S(F)(=O)=O)c1)c1Br
+dcLL`B{PqDfYy]a``bd@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-18184,Enamine,231.04,3-bromo-4-hydroxy-5-methoxybenzaldehyde,1,19,USD,10,COc1cc(C=O)cc(Br)c1O
+dcLL`ByPqDfY{]a``bh@@ !B?`BH@k\BbGw~@Ox@b@Jw@ox@?`BH@`,,EN300-3212056,Enamine,233.06,"6-bromo-2,3-dimethoxyphenol",0.1,69,USD,10,COc(ccc(Br)c1O)c1OC
+dcLL`BePqDfYwmn``Ih@@ !BmpJw__x@?g~w@k\B?`C~@K\Bb@K~@@,,EN300-28636,Enamine,231.04,methyl 3-bromo-4-hydroxybenzoate,1,19,USD,10,COC(c(cc1)cc(Br)c1O)=O
+dcLL`BePqDfY}mn``Ih@@ !B?`BH@k\BbGw~@Ox@mpK~@K\Bb@K~@@,,EN300-198690,Enamine,231.04,methyl 4-bromo-3-hydroxybenzoate,1,19,USD,10,COC(c(cc1)cc(O)c1Br)=O
+dcLL`BePqLbbbfToCADCP@@ !Bmww~_{\BbGvw__x@mwvw@k\Bb@K~@@,,EN300-25391206,Enamine,231.04,methyl 2-bromo-3-hydroxybenzoate,0.1,86,USD,10,COC(c1cccc(O)c1Br)=O
+dcLL`BePqDfYyun``JX@@ !Bb@JH__x@?g~H@h`B?`BH__x@b@JH@`,,EN300-68557,Enamine,231.04,3-bromo-2-hydroxy-5-methoxybenzaldehyde,0.1,19,USD,10,COc(cc1C=O)cc(Br)c1O
+dcLL`BZPqLbbbbToKADTP@@ !BmpK~@K]}b@Jw@oy?mpK~@Ox@mwvH@`,,EN300-1895511,Enamine,233.06,"2-bromo-3,4-dimethoxyphenol",0.1,241,USD,10,COc(c(OC)c1Br)ccc1O
+dcLL`BWPqLbbbfacSAAPp@@ !Bmww~_{\BbGvw_[]}?`C~_{\Bm?vH?P,,EN300-27735058,Enamine,231.04,3-bromo-2-hydroxy-4-methylbenzoic acid,0.1,376,USD,10,Cc1ccc(C(O)=O)c(O)c1Br
+dcLL`BWPqDfY}Yn``JX@@ !B?`BH@k\BbGw~@Ox@mpK~@H`B?`BH_P,,EN300-311377,Enamine,231.04,2-(4-bromo-3-hydroxyphenyl)acetic acid,0.1,342,USD,10,OC(Cc(cc1)cc(O)c1Br)=O
+dcLL`BWPqDfYwYn``JX@@ !BmpJw__x@?g~w@k\B?`C~@H`B?`BH_P,,EN300-1723851,Enamine,231.04,2-(3-bromo-4-hydroxyphenyl)acetic acid,1,19,USD,10,OC(Cc(cc1)cc(Br)c1O)=O
+dcLL`BWPqDfYyYa``bX@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@K~_p,,EN300-49649,Enamine,231.04,3-bromo-2-hydroxy-5-methylbenzoic acid,0.1,89,USD,10,Cc(cc1C(O)=O)cc(Br)c1O
+dcLL`BEPqDfYnui``hX@@ !BmpK~@K]}b@Jw@k\B?g?~@K]}m?vH@`,,EN300-134586,Enamine,231.04,2-bromo-3-hydroxy-4-methoxybenzaldehyde,0.25,19,USD,10,COc1ccc(C=O)c(Br)c1O
+dcLLPFWPqBdLbbbfJgCADDp@@ !B?`Bw@h`Bmww~@Ha}?`BH@ox@b@Jw@`,,EN300-24157669,Enamine,235.01,4-bromo-3-fluoro-5-hydroxybenzoic acid,0.1,342,USD,3.434,OC(c(cc1O)cc(F)c1Br)=O
+dcLLPFWPqBdLbbbfagSADPp@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}b@Jw@`,,EN300-7425110,Enamine,235.01,3-bromo-2-fluoro-4-hydroxybenzoic acid,0.1,481,USD,7.929,OC(c(c(F)c1Br)ccc1O)=O
+dcLLPBWPqNdLbbbtQcCAADp@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@Jw@`,,EN300-352272,Enamine,235.01,3-bromo-5-fluoro-4-hydroxybenzoic acid,0.1,120,USD,9.805,OC(c(cc1F)cc(Br)c1O)=O
+dcLLPBWPqIdDfYyYa``bX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-170530,Enamine,235.01,3-bromo-5-fluoro-2-hydroxybenzoic acid,0.1,83,USD,10,OC(c1cc(F)cc(Br)c1O)=O
+dcLLPBWPqNqLbbbtQcCAADp@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@Jw@`,,EN300-116734,Enamine,295.91,"3,5-dibromo-4-hydroxybenzoic acid",1,19,USD,10,OC(c(cc1Br)cc(Br)c1O)=O
+dcLLPBWPqIdDfY{Yn``JX@@ !Bb@K~@Ha}mpJH@h`BbGw~@H`Bb@Jw@`,,EN300-3007656,Enamine,235.01,3-bromo-6-fluoro-2-hydroxybenzoic acid,0.1,109,USD,10,OC(c(c(O)c(cc1)Br)c1F)=O
+dcLLPBWPqIqDfYyYa``bX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-21482,Enamine,295.91,"3,5-dibromo-2-hydroxybenzoic acid",0.25,19,USD,10,OC(c1cc(Br)cc(Br)c1O)=O
+dcLLPBWPqIdDfYuYn``JX@@ !Bb@JH__x@?g~H@h`B?`C~@H`Bb@Jw@`,,EN300-223978,Enamine,235.01,5-bromo-2-fluoro-4-hydroxybenzoic acid,0.1,52,USD,10,OC(c(c(F)c1)cc(Br)c1O)=O
+dcLLPBWPqIbDfYyYa``bX@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}b@Jw@`,,EN300-95860,Enamine,251.46,3-bromo-5-chloro-2-hydroxybenzoic acid,0.1,49,USD,9.857,OC(c1cc(Cl)cc(Br)c1O)=O
+dcLLPBWPqFdLbbbfagSADPp@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}b@Jw@`,,EN300-2996729,Enamine,235.01,3-bromo-4-fluoro-2-hydroxybenzoic acid,0.1,241,USD,10,OC(c(c(O)c1Br)ccc1F)=O
+dcLLPBWPqFbLbbbfagSADPp@@ !BmpK~@K]}b@Jw@oy?mpK~@K]}b@Jw@`,,EN300-27721025,Enamine,251.46,3-bromo-4-chloro-2-hydroxybenzoic acid,0.1,277,USD,10,OC(c(c(O)c1Br)ccc1Cl)=O
+dcLLPBWPqAdDfYuyn``JX@@ !B?`Bw@h`Bmww~@Ox@b@JH@ox@b@Jw@`,,EN300-123678,Enamine,235.01,4-bromo-2-fluoro-5-hydroxybenzoic acid,0.1,147,USD,10,OC(c(c(F)c1)cc(O)c1Br)=O
+dcLH`BCDRYg^fzB@j`@@ !BmpJw__x@?g~w@k\B?`C~@Ox@@Oy??`,,EN300-1238562,Enamine,229.12,2-bromo-4-tert-butylphenol,1,19,USD,10,CC(C)(C)c(cc1)cc(Br)c1O
+dcLH`BCDRYgvfzB@j`@@ !B?`BH@k\BbGw~@Ox@mpK~@Ox@@Oy??`,,EN300-126838,Enamine,229.12,2-bromo-5-tert-butylphenol,0.1,29,USD,10,CC(C)(C)c(cc1)cc(O)c1Br
+dcLH`BCDRYggvzB@jP@@ !BmpK~@K]}b@Jw@k\Bmww~@K]}b@K~@@,,EN300-1719682,Enamine,227.1,2-bromo-4-methyl-6-(prop-2-en-1-yl)phenol,0.1,132,USD,8.943,Cc(cc1CC=C)cc(Br)c1O
+dcLH`BCDrJJKPrMtDAU@@@ !BmpK~@K]}b@Jw@k\Bmww~@Ox@@Oy??`,,EN300-3205932,Enamine,229.12,2-bromo-6-tert-butylphenol,0.1,33,USD,8.012,CC(C)(C)c1cccc(Br)c1O
+dcLHHBCDfPVPvPRYgvfzB@j`@@ !Bmwvw@oy??`Bw_[]}?g~w_[]}@k_}b@,,EN300-200494,Enamine,241.01,2-bromo-5-(trifluoromethyl)phenol,0.25,19,USD,10,Oc(cc(C(F)(F)F)cc1)c1Br
+dcLHHBCDfPVPvPRYg^fzB@j`@@ !Bmwvw@oy??`Bw_[]}?g?~_?y?@Oy??`,,EN300-129238,Enamine,241.01,2-bromo-4-(trifluoromethyl)phenol,0.25,19,USD,10,Oc(ccc(C(F)(F)F)c1)c1Br
+dcLDpFtLPh`\SHhhiictpQDR@@ !BmpJw__x@?g~w@h`BmpJw__x@?`BH@`,,EN300-21998473,Enamine,314.36,"3,5-dibromo-4-chloro-2-hydroxybenzaldehyde",0.1,140,USD,10,Oc(c(Br)c1Cl)c(C=O)cc1Br
+dcLDpFtLPi@\SHhhiictpQDR@@ !BmpJw__x@?g~w@h`BmpJw__x@?`BH@`,,EN300-21998471,Enamine,297.9,"3,5-dibromo-4-fluoro-2-hydroxybenzaldehyde",0.1,113,USD,10,Oc(c(Br)c1F)c(C=O)cc1Br
+dcLDpFtLPiAYCHhhihUppQAR@@ !BmpK~@K]}b@Jw@oy?mpJw__x@mpJH@`,,EN300-29234197,Enamine,237,"3-bromo-2,6-difluoro-4-hydroxybenzaldehyde",0.1,342,USD,4.528,Oc1cc(F)c(C=O)c(F)c1Br
+dcLDpBxLQYCYAIf^~XXHHj@@ !BbGvH@oy??`BH_Xa}b@K~_?x@b@Jw@`,,EN300-200449,Enamine,239.01,2-bromo-6-(difluoromethoxy)phenol,0.1,450,USD,10,Oc(c(OC(F)F)ccc1)c1Br
+dcLDpBtLSiAYAIf^]XXHHi@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@JH@`,,EN300-22852722,Enamine,237,"5-bromo-2,3-difluoro-4-hydroxybenzaldehyde",0.1,241,USD,10,Oc(c(F)c(c(C=O)c1)F)c1Br
+dcLD`BtLSHhhihbppPQR@@ !BmpJw__x@?g~w@k\Bb@K~@K]}?`C~_p,,EN300-3005928,Enamine,229.07,"3-bromo-2-hydroxy-4,5-dimethylbenzaldehyde",0.1,376,USD,10,Cc(cc1C=O)c(C)c(Br)c1O
+dcLD`BTLQIf]v[hHBf@@ !BmpJw__x@?g~w@k\B?`C~@H`BbGw~@@,,EN300-1581816,Enamine,229.07,1-(3-bromo-4-hydroxyphenyl)propan-2-one,0.1,66,USD,10,CC(Cc(cc1)cc(Br)c1O)=O
+dcLD`BTLQIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-217930,Enamine,229.07,1-(3-bromo-2-hydroxy-5-methylphenyl)ethan-1-one,0.1,28,USD,10,CC(c1cc(C)cc(Br)c1O)=O
+dcLDPBtLSlSHhhmDTppPQT@@ !Bb@JH__x@?g~H@h`BbGw~@Ox@b@K~@@,,EN300-180521,Enamine,295.96,"2,6-dibromo-4-(2-hydroxyethyl)phenol",0.1,89,USD,10,OCCc(cc1Br)cc(Br)c1O
+dcLDPBtLQ\SHhhihbppPQR@@ !Bmww~_{\BbGvw_[]}?`Bw@oy?mpJw?P,,EN300-3047167,Enamine,293.94,"3,5-dibromo-2-hydroxy-4-methylbenzaldehyde",0.1,176,USD,10,Cc(c(Br)c(c(C=O)c1)O)c1Br
+dcLDPBTLR\QIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-21493,Enamine,293.94,"1-(3,5-dibromo-2-hydroxyphenyl)ethan-1-one",1,19,USD,10,CC(c1cc(Br)cc(Br)c1O)=O
+dcLDPBTLRYAIf^VXXHHf@@ !BmpK~@K]}b@Jw@k\B?`Bw_[]}mpJH@`,,EN300-1256227,Enamine,233.04,1-(3-bromo-5-fluoro-2-hydroxyphenyl)ethan-1-one,0.1,77,USD,10,CC(c1cc(F)cc(Br)c1O)=O
+dcLB`Be]CDRYgUfzB@i`@@ !Bb@JH__x@?g~H@h`B?`C~@H`Bb@Jw@`,,EN300-197019,Enamine,233.02,"5-bromo-2,4-dihydroxybenzoic acid",0.5,19,USD,10,OC(c(c(O)c1)cc(Br)c1O)=O
+dcLB`BY]CDrJJJXj\LDPS@@@ !B?`Bw@h`Bmww~@Ha}?`BH@ox@b@Jw@`,,EN300-310099,Enamine,233.02,"4-bromo-3,5-dihydroxybenzoic acid",0.25,19,USD,10,OC(c(cc1O)cc(O)c1Br)=O
+daDH`BCDRYg[hH@@@ !Bmwvw@oy??`Bw_[]}?g|,,EN300-16599,Enamine,173.01,2-bromophenol,1,19,USD,10,Oc(cccc1)c1Br

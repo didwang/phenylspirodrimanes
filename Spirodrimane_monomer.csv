@@ -1,0 +1,50 @@
+﻿NAME,SMILES,PUBLICATION DOI,CLASS
+stachybotrydial,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C=O)=C(C=O)C=C4O)=C4C3)([H])C1(C)C,,monomer
+F-1839A,[H][C@]12C(C)(C)[C@H](O)[C@H](O)C[C@]1(C)[C@]3(OC(C(CNC4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,,monomer
+stachybotrylactone,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(COC4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1016/j.bbrc.2005.03.232,monomer
+stachybotrylactone B,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C(OC4)=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/acs.jnatprod.6b00641,monomer
+2a-hydroxy-stachybotrylactone,O[C@@H]1[C@H](O)C[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(COC4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1016/j.bbrc.2005.03.232,monomer
+Mer-NF5003B,O[C@@H]1[C@H](O)C[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C=O)=C(CO)C=C4O)=C4C3)([H])C1(C)C,10.7164/antibiotics.47.727,monomer
+Mer-NF5003E,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C=O)=C(CO)C=C4O)=C4C3)([H])C1(C)C,10.7164/antibiotics.47.727,monomer
+Mer-NF5003F,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C=O)=C(C=O)C=C4O)=C4C3)([H])C1(C)C,10.7164/antibiotics.47.727,monomer
+K-76,O[C@@H]1[C@H](O)C[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C=O)=C(C=O)C=C4O)=C4C3)([H])C1(C)C,10.7164/antibiotics.47.727,monomer
+"L-671, 776",O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C=C(CO)C(C=O)=C4O)=C4C3)([H])C1(C)C,10.7164/antibiotics.48.447,monomer
+Spirodihydrobenzofuranlactam,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C=C(C(NC4)=O)C4=C5O)=C5C3)[C@H](C)CC2,10.7164/antibiotics.49.13,monomer
+Stachartin B,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C(C(OC4)=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.1016/j.fitote.2017.12.022,monomer
+Stachybotrysam E,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C(CN(CCCC(O)=O)C4=O)=C4C=C5O)=C5C3)[C@@H](C)CC2,10.1016/j.phytol.2017.04.031,monomer
+stachybotrysin A,[H][C@]12C(C)(C)[C@H](OC(C)=O)CC[C@]1(C)[C@]3(OC(C(C=O)=C(C)C=C4O)=C4C3)[C@H](C)CC2,10.1021/acs.jnatprod.7b00014,monomer
+stachybotrysin B,[H][C@]12C(C)(C)[C@H](OC(C)=O)CC[C@]1(C)[C@]3(OC(C(C=O)=C(CO)C=C4O)=C4C3)[C@H](C)CC2,10.1021/acs.jnatprod.7b00014,monomer
+stachybotrysin C,[H][C@]12C(C)(C)[C@H](OC(C)=O)[C@H](O)C[C@]1(C)[C@]3(OC(C(C=O)=C(CO)C=C4O)=C4C3)[C@H](C)CC2,10.1021/acs.jnatprod.7b00014,monomer
+stachybotrysin D,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C=O)=C(COS(=O)(O)=O)C=C4O)=C4C3)([H])C1(C)C,10.1021/acs.jnatprod.7b00014,monomer
+stachybotrysin E,O[C@@H]1CC[C@@]2(C)[C@](CCC([C@@]23OC(C(C=O)=C(COC(C)=O)C=C4O)=C4C3)=C)([H])C1(C)C,10.1021/acs.jnatprod.7b00014,monomer
+stachybotrysin F,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C([C@@H](CC(C)=O)OC4)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/acs.jnatprod.7b00014,monomer
+stachybotrysin G,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C([C@H](CC(C)=O)OC4)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/acs.jnatprod.7b00014,monomer
+stachybotrysin,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(/C=C/C(C)=O)=C(CO)C=C4O)=C4C3)([H])C1(C)C,10.1021/acs.jnatprod.6b00641,monomer
+stachybotrylactone acetate,[H][C@]12C(C)(C)[C@H](OC(C)=O)CC[C@]1(C)[C@]3(OC(C(COC4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,"Nat. Toxins 1995, 3, 10-16",monomer
+Chartarlactam A,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C(NC4=O)=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam B,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(CN(CCCCC(O)=O)C4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam C,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(CNC4=O)=C4C=C5O)=C5C3)([H])[C@@]1(CO)C,10.1021/np400824u,monomer
+Chartarlactam D,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(CNC4=O)=C4C=C5O[C@@H]6C(O)C(O)[C@H](O)[C@@H](CO)O6)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam E,O=C1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(CNC4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam F,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C(NC4)=O)=C4C=C5O)=C5C3)([H])[C@@]1(CO)C,10.1021/np400824u,monomer
+Chartarlactam G,O[C@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C(NC4)=O)=C4C=C5O)=C5C3)([H])[C@@]1(CO)C,10.1021/np400824u,monomer
+Chartarlactam H,O[C@@H]1CC[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(C(N(CCO)C4)=O)=C4C=C5O)=C5C3)([H])[C@@]1(CO)C,10.1021/np400824u,monomer
+Chartarlactam I,O[C@@H]1[C@@H](O)C[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(CNC4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam J,O[C@H]1[C@H](O)C[C@@]2(C)[C@](CC[C@@H](C)[C@@]23OC(C(CNC4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam K,[H][C@]12C(C)(C)[C@H](OC(C)=O)[C@H](O)C[C@]1(C)[C@]3(OC(C(CNC4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.1021/np400824u,monomer
+Chartarlactam M,O[C@@H]1CC[C@@]2(C)[C@](CC[C@H](C)[C@@]23OC(C(CNC4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam N,O[C@@H]1CC[C@@]2(C)[C@](CC[C@H](C)[C@@]23OC(C(CN(CCO)C4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam O,O[C@@H]1CC[C@@]2(C)[C@](CC[C@H](C)[C@@]23OC(C(C(NC4)=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+Chartarlactam P,O[C@@H]1[C@H](O)C[C@@]2(C)[C@](CC[C@H](C)[C@@]23OC(C(CNC4=O)=C4C=C5O)=C5C3)([H])C1(C)C,10.1021/np400824u,monomer
+F-1839B,[H][C@]12C(C)(C)[C@H](O)[C@H](O)C[C@]1(C)[C@]3(OC(C([C@@H](OC)NC4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.7164/antibiotics.48.447,monomer
+F-1839C,[H][C@]12C(C)(C)[C@H](O)[C@H](O)C[C@]1(C)[C@]3(OC(C([C@H](OC)NC4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.7164/antibiotics.48.447,monomer
+F-1839D,[H][C@]12C(C)(C)[C@H](O)[C@H](O)C[C@]1(C)[C@]3(OC(C(C(NC4)=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.7164/antibiotics.48.447,monomer
+F-1839E,[H][C@]12C(C)(C)[C@H](O)[C@H](O)C[C@]1(C)[C@]3(OC(C(CN(CCO)C4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.7164/antibiotics.48.447,monomer
+F-1839F,[H][C@]12C(C)(C)[C@H](O)[C@H](O)C[C@]1(C)[C@]3(OC(C(CN(CCCC(OC)=O)C4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.7164/antibiotics.48.447,monomer
+F-1839I,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C(C=O)=C(C)C=C4O)=C4C3)[C@H](C)CC2,10.7164/antibiotics.48.447,monomer
+F-1839J,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C(CN(CCCCC(OC)=O)C4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.7164/antibiotics.48.447,monomer
+Stachybotrin D,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C(CN(CC(C)=O)C4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.1021/np400683h,monomer
+Stachybotrin E,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C(CN([C@H](C(O)=O)CCC(OC)=O)C4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.1021/np400683h,monomer
+Stachybotrin F,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C(CN([C@H](C(OC)=O)CCC(O)=O)C4=O)=C4C=C5O)=C5C3)[C@H](C)CC2,10.1021/np400683h,monomer
+Stachyboside A,[H][C@]12C(C)(C)[C@H](O)CC[C@]1(C)[C@]3(OC(C=C(CO[C@@]([H])([C@@](O)4[H])O[C@@]([H])(CO)[C@]([H])(O)[C@]4([H])O)C=C5O)=C5C3)[C@H](C)CC2,10.1021/np400683h,monomer
+Stachyboside B,[H][C@]12C(C)(C)[C@H](O)[C@H](O)C[C@]1(C)[C@]3(OC(C=C(CO[C@@]([H])([C@@](O)4[H])O[C@@]([H])(CO)[C@]([H])(O)[C@]4([H])O)C=C5O)=C5C3)[C@H](C)CC2,10.1021/np400683h,monomer
