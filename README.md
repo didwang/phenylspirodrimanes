@@ -3,6 +3,7 @@
 This repository contains code and data for generating and analyzing a virtual library of phenylspirodrimanes. The goal is to explore chemical diversity by enumerating natural product-inspired drimane/spirodrimane cores with commercially available ortho-halophenols, followed by cheminformatics-based property calculations and chemical space visualization.
 
 Contents
+
 📒 Notebooks
 Chemical Space of enumerated compounds.ipynb
 Interactive notebook for property calculation, dimensionality reduction (e.g., t-SNE), and visualization of the chemical space.
@@ -11,6 +12,7 @@ Enumerated products from Enamine database.ipynb
 Notebook for generating enumerated phenylspirodrimane derivatives from drimane/spirodrimane cores and ortho-halophenols.
 
 📂 Data Files
+
 Drimanes.csv
 List of drimane scaffolds used as core structures.
 
