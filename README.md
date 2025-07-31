@@ -1,18 +1,25 @@
-# phenylspirodrimanes
+This repository contains data and code supporting the informatics-driven synthesis and chemical space analysis of phenylspirodrimanes and related analogs.
 
-This repository contains code and data for generating and analyzing a virtual library of phenylspirodrimanes. The goal is to explore chemical diversity by enumerating natural product-inspired drimane/spirodrimane cores with commercially available ortho-halophenols, followed by cheminformatics-based property calculations and chemical space visualization.
-
-Contents
+📁 Contents
 
 📒 Notebooks
 
-Chemical Space of enumerated compounds.ipynb
-Interactive notebook for property calculation, dimensionality reduction (e.g., t-SNE), and visualization of the chemical space.
+spiro_library/
 
 Enumerated products from Enamine database.ipynb
 Notebook for generating enumerated phenylspirodrimane derivatives from drimane/spirodrimane cores and ortho-halophenols.
 
-📂 Data Files
+Chemical Space of enumerated compounds.ipynb
+Interactive notebook for property calculation, dimensionality reduction (e.g., t-SNE), and visualization of the chemical space.
+
+hydrazone cross coupling/
+
+Visualization_each category.ipynb
+Jupyter notebook for analyzing and visualizing reaction categories in hydrazone-based cross-coupling reactions curated from Reaxys.
+
+📊 Data Files
+
+spiro_library/
 
 Drimanes.csv
 List of drimane scaffolds used as core structures.
@@ -29,22 +36,29 @@ Final filtered set of enumerated phenylspirodrimane products from Enamine source
 all_product_info.csv
 Master dataset of natural and enumerated compounds with computed properties, SMILES, and metadata.
 
-Environment
+hydrazone cross coupling/
 
+final_cleaned_Reaxys_data.xlsx
+Cleaned dataset of hydrazone cross-coupling reactions from Reaxys, filtered and grouped by substrate category.
+
+💻 Environment
 All analyses were performed in Python 3.9.7 on macOS (x86_64) using the following packages:
 
-RDKit 2021.09.2
+RDKit: 2021.09.2
 
-Scikit-learn 1.2.1
+scikit-learn: 1.2.1
 
-Pandas 1.3.4
+pandas: 1.3.4
 
-NumPy 1.26.4
+numpy: 1.26.4
 
-Matplotlib 3.9.2
+matplotlib: 3.9.2
 
-Seaborn 0.13.2
+seaborn: 0.13.2
 
-Plotly 5.5.0
+plotly: 5.5.0
 
-Dash 2.0.0
+dash: 2.0.0
+
+📄 License
+This project is licensed under the MIT License.
